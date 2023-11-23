@@ -3,6 +3,8 @@ import sys
 import os
 import pandas as pd
 
+import timeit # for timing the code
+
 # In the replay file the table starts with the following bytes
 START_OF_TABLE = [0x01, 0x16, 0xC6, 0x01]
 TABLE_HEADER_SIZE = 211 # The size of the header of the table in bytes
@@ -11,14 +13,21 @@ START_OF_SCORES_SECTION = [0x03, 0x00, 0x00, 0x01]
 
 # Score table delimination
 ROW_SIZE = 152
-AIR_KILLS = 20
-GROUND_KILLS = 28
-ASSISTS = 76
-DEATHS = 84
-CAPTURES = 92
-SQUAD = 132
-TEAM = 148
-SCORE = [108,109]
+AIR_KILLS = 16
+GROUND_KILLS = 24
+ASSISTS = 72
+DEATHS = 80 #83
+CAPTURES = 88
+SQUAD = 128
+TEAM = 144
+SCORE = [104,105]
+
+def timeFunction(function, *args):
+    start = timeit.default_timer()
+    returns = function(*args)
+    end = timeit.default_timer()
+    print(f"Time Taken: {end - start:.10f}s")
+    return returns
 
 def getPlayers(playersTable):
     # Each player has 2 or 3 sections (depending on if they have a clan tag), delimited by 0x00
@@ -38,6 +47,7 @@ def getPlayers(playersTable):
         if entry.isdigit():
             # This is an ID
             ID = int(entry.decode("utf-8"))
+            clanTag = None
             # if the 2nd next entry is not a digit then this player has a clan tag
             if not splitTable[i+2].isdigit():
                 # The next entry is the clan tag
@@ -47,11 +57,11 @@ def getPlayers(playersTable):
             else:
                 # The next entry is the name
                 name = splitTable[i+1].decode("utf-8")
-                clanTag = None
             # Add the player to the dict
-            players[playerIndex] = [ID, name, clanTag]
+            players[playerIndex] = {"ID" :ID, "name":name, "clanTag":clanTag}
             playerIndex += 1
-
+    # because we reversed the list we need to reverse player indexs
+    players = {playerIndex - k: v for k, v in players.items()}
     return players
 
 
@@ -61,15 +71,17 @@ def getScores(scoresTable, players):
 
     # Remove rows that are not players
     splitTable = splitTable[:len(players)]
-    for row in splitTable:
-        for val in row:
-            print(val, end=" ")
-        print()
 
     # Each Row is a player
-    for row, playerIndex in zip(splitTable, players.keys()):
-        # Print player and ground kills
-        print(f"{players[playerIndex][1]}: {row[GROUND_KILLS]} ground kills")
+    for row, playerIndex in zip(splitTable, sorted(players.keys())):
+        players[playerIndex]["airKills"] = int.from_bytes(row[AIR_KILLS:AIR_KILLS+4], byteorder="little")
+        players[playerIndex]["groundKills"] = int.from_bytes(row[GROUND_KILLS:GROUND_KILLS+4], byteorder="little")
+        players[playerIndex]["assists"] = row[ASSISTS]
+        players[playerIndex]["deaths"] = row[DEATHS]
+        players[playerIndex]["captures"] = row[CAPTURES]
+        players[playerIndex]["squad"] = row[SQUAD]
+        players[playerIndex]["team"] = row[TEAM]
+        players[playerIndex]["score"] = row[SCORE[0]] + row[SCORE[1]]*256
         
 
 def parseReplay(filename):
@@ -90,14 +102,22 @@ def parseReplay(filename):
     # Get the Players table
     playersTable = resultsTable[TABLE_HEADER_SIZE:endOfPlayersTable]
 
-    players = getPlayers(playersTable)
+    players = timeFunction(getPlayers, playersTable)
 
     # Scores is from the players table to the START_OF_SCORES_SECTION
     scoresTable = resultsTable[endOfPlayersTable + len(END_OF_PLAYERS_SECTION):]
     startOfScoresTable = scoresTable.find(bytes(START_OF_SCORES_SECTION))
     scoresTable = scoresTable[startOfScoresTable + len(START_OF_SCORES_SECTION):]
 
-    scores = getScores(scoresTable, players)
+    timeFunction(getScores, scoresTable, players)
+
+    for player in players.values():
+        try:
+            print(player["name"], end="\t")
+        except:
+            print("Chinese Name", end="\t")
+        print(f"{player['score']}, {player['airKills']}, {player['groundKills']}, {player['assists']}, {player['captures']}, {player['deaths']}")
+
 
 
 def main():
