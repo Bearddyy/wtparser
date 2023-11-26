@@ -119,7 +119,6 @@ def lookup_nation(vehicleName):
 
     for nation in nations:
         if nation == vehicleName[:len(nation)]:
-            print(f"Vehicle {vehicleName} is from {nations[nation]}")
             return nations[nation]
 
     # if we couldn't find the nation in the name, we need to look it up
@@ -198,46 +197,48 @@ def parse_replay_data(data):
         player["vehicles"] = []
 
     # parse vehicles
-    vehicles = get_vehicles(data)
-    for index, vehicle in vehicles.items():
+    vehiclesList = get_vehicles(data)
+    for index, vehicles in vehiclesList.items():
         for ID, player in players.items():
             if player["index"] == index:
                 break
-        if 'dummy_plane' not in vehicle:
-            players[ID]["vehicles"] = vehicle
-        print(f"Player {player['name']} has {vehicle} vehicles")
+        if 'dummy_plane' not in vehicles:
+            players[ID]["vehicles"] = vehicles
+            # get nation
+            for vehicle in vehicles:
+                nation = lookup_nation(vehicle)
+                if nation is not None:
+                    players[ID]["nation"] = nation
+                    break
+                else:
+                    players[ID]["nation"] = None
     
-
-    # get player nations
-    for ID, player in players.items():
-        if len(player["vehicles"]) == 0:
-            print(f"Player {player['name']} has no vehicles")
-            players[ID]["nation"]  = None
-            continue
-        for vehicle in player["vehicles"]:
-            nation = lookup_nation(vehicle)
-            if nation is not None:
-                break
-        players[ID]["nation"] = nation
-
     return players
 
 def main():
 
-    start = timeStart()
     file = sys.argv[1]
     
     # expect a path to a folder, read all files in the folder and concat them
+    
+    start = timeStart()
     if os.path.isdir(file):
         data = b''
         for f in os.listdir(file):
+            #only parse the files with an odd number
+            # eg: 0007.wrpl
+            if int(f.split(".")[0]) % 2 == 0:
+                continue
             with open(os.path.join(file, f), "rb") as replay:
                 data += replay.read()
     else:
         with open(file, "rb") as replay:
             data = replay.read()
-
+    timeEnd(start)
+    
+    start = timeStart()
     players = parse_replay_data(data)
+    timeEnd(start)
 
 
     for player in players.values():
@@ -252,7 +253,7 @@ def main():
         except:
             print("Chinese Name", end="\t")
         print(f"{player['score']}, {player['airKills']}, {player['groundKills']}, {player['assists']}, {player['captures']}, {player['deaths']}, {player['vehicles']}")
-    timeEnd(start)
+  
 
 if __name__ == "__main__":
     main()
