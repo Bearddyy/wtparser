@@ -2,6 +2,7 @@ import re
 import sys
 import os
 import pandas as pd
+from functools import cache
 
 import timeit # for timing the code
 
@@ -22,7 +23,7 @@ SQUAD = 128
 TEAM = 144
 SCORE = [104,105]
 
-PLAYER_ID_OFFSET = -2
+PLAYER_ID_OFFSET = -1
 VEHICLE_NAME_LENGTH = 6
 VEHICLE_NAME_START = 7
 
@@ -98,10 +99,50 @@ def get_scores(scoresTable, players):
         players[ID]["squad"] = row[SQUAD]
         players[ID]["team"] = row[TEAM]
         players[ID]["score"] = row[SCORE[0]] + row[SCORE[1]]*256
+    return players
 
+@cache
 def lookup_nation(vehicleName):
-    # using the vehicle name, lookup the nation
-    pass
+    # for speed we first just check if the nation is present in the name
+    nations = {
+        "us_" : "USA",
+        "ussr_" : "USSR",
+        "germ_" : "Germany",
+        "uk_" : "Great Britain",
+        "jp_" : "Japan",
+        "it_" : "Italy",
+        "fr_" : "France",
+        "cn_" : "China",
+        "sw_" : "Sweden",
+        "il_" : "Israel",
+        }
+
+    for nation in nations:
+        if nation == vehicleName[:len(nation)]:
+            print(f"Vehicle {vehicleName} is from {nations[nation]}")
+            return nations[nation]
+
+    # if we couldn't find the nation in the name, we need to look it up
+
+    # read in the lookup.txt
+    with open("lookup.txt", "r", encoding="utf-8") as f:
+        lookup = f.read()
+    
+    # find index of vehicle name
+    vehicleNameIndex = lookup.find(vehicleName)
+
+    # if the vehicle name is not found, return None
+    if vehicleNameIndex == -1:
+        return None
+    
+    # once the vehicle name is found, index back to the nation
+    # nation is a like similar to "==== Great Britain ===="
+    endOfNationIndex = lookup.rfind("====", 0, vehicleNameIndex)
+
+    # nation is the string between the last ==== and the next ====
+    startOfNationIndex = lookup.rfind("====", 0, endOfNationIndex-1) + 4
+    nation = lookup[startOfNationIndex:endOfNationIndex-1]
+    return nation
 
 
 def get_vehicles(data):
@@ -110,26 +151,27 @@ def get_vehicles(data):
     # find all occurences
     occurences = [m.start() for m in re.finditer(lookup, data)]
     # player ID is 4 bytes before the occurence
-    playerIDs = [int(data[i+PLAYER_ID_OFFSET]) for i in occurences]
+    playerIndex = [int(data[i+PLAYER_ID_OFFSET]) for i in occurences]
+    # for some reason, the player Index is offset by the minumum number in the set
+    playerIndex = [i-(min(playerIndex)) for i in playerIndex]
+
     vehicleNameLengths = [int(data[i+VEHICLE_NAME_LENGTH]) for i in occurences]
     vehicleNames = [data[i+VEHICLE_NAME_START:i+VEHICLE_NAME_START+length].decode("utf-8") for i,length in zip(occurences, vehicleNameLengths)]
     # print ID and vehicle name
-    for ID, name in zip(playerIDs, vehicleNames):
-        print(f"{ID}\t{name}")
+    #for ID, name in zip(playerIDs, vehicleNames):
+    #    print(f"{ID}\t{name}")
     
+    # create a dict of player IDs and vehicle names
+    playerVehicles = dict()
+    for index, vehicleName in zip(playerIndex, vehicleNames):
+        if index not in playerVehicles:
+            playerVehicles[index] = set([vehicleName])
+        else:
+            playerVehicles[index].add(vehicleName)
+    return playerVehicles
     
-
-def parse_replay(filename):
-    # Open the file
-    with open(filename, "rb") as f:
-        # Read the file as bytes
-        data = f.read()
-
-    # get the vehicles
-    start = timeStart()
-    get_vehicles(data)
-    timeEnd(start)
-    exit(0)
+def parse_replay_data(data):
+        
     # Find the start of the table
     startOfResultsTable = data.find(bytes(START_OF_TABLE))
     startOfResultsTable += len(START_OF_TABLE)
@@ -147,15 +189,36 @@ def parse_replay(filename):
     # Scores is from the players table to the START_OF_SCORES_SECTION
     scoresTable = resultsTable[endOfPlayersTable + len(END_OF_PLAYERS_SECTION):]
     startOfScoresTable = scoresTable.find(bytes(START_OF_SCORES_SECTION))
-    unknown = scoresTable[:startOfScoresTable]
     scoresTable = scoresTable[startOfScoresTable + len(START_OF_SCORES_SECTION):]
 
-    # print in hex
-    for i in unknown:
-        print(f"{i:02x}", end=" ")
-    print()
+    players = get_scores(scoresTable, players)
 
-    get_scores(scoresTable, players)
+    # initialise vehicles
+    for player in players.values():
+        player["vehicles"] = []
+
+    # parse vehicles
+    vehicles = get_vehicles(data)
+    for index, vehicle in vehicles.items():
+        for ID, player in players.items():
+            if player["index"] == index:
+                break
+        if 'dummy_plane' not in vehicle:
+            players[ID]["vehicles"] = vehicle
+        print(f"Player {player['name']} has {vehicle} vehicles")
+    
+
+    # get player nations
+    for ID, player in players.items():
+        if len(player["vehicles"]) == 0:
+            print(f"Player {player['name']} has no vehicles")
+            players[ID]["nation"]  = None
+            continue
+        for vehicle in player["vehicles"]:
+            nation = lookup_nation(vehicle)
+            if nation is not None:
+                break
+        players[ID]["nation"] = nation
 
     return players
 
@@ -163,15 +226,32 @@ def main():
 
     start = timeStart()
     file = sys.argv[1]
-    players = parse_replay(file)
+    
+    # expect a path to a folder, read all files in the folder and concat them
+    if os.path.isdir(file):
+        data = b''
+        for f in os.listdir(file):
+            with open(os.path.join(file, f), "rb") as replay:
+                data += replay.read()
+    else:
+        with open(file, "rb") as replay:
+            data = replay.read()
+
+    players = parse_replay_data(data)
+
+
     for player in players.values():
-        print(player["team"], end="\t")
-        print(player["squad"], end="\t")
+        print(player["index"], end="\t")
+        try:
+            print(player["nation"], end="\t")
+        except:
+            print("Nation", end="\t")
+        print(player["ID"], end="\t")
         try:
             print(player["name"], end="\t")
         except:
             print("Chinese Name", end="\t")
-        print(f"{player['score']}, {player['airKills']}, {player['groundKills']}, {player['assists']}, {player['captures']}, {player['deaths']}")
+        print(f"{player['score']}, {player['airKills']}, {player['groundKills']}, {player['assists']}, {player['captures']}, {player['deaths']}, {player['vehicles']}")
     timeEnd(start)
 
 if __name__ == "__main__":
