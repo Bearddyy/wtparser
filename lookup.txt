@@ -1,0 +1,5505 @@
+__NOTOC__
+{| class="wikitable"
+|-
+! Country !! [[#Planes|Planes]] !! [[#Helicopters|Helicopters]] !! [[#Ground_vehicles|Ground<br>Vehicles]] !! [[#Ships|Ships]] !! Total
+|-
+| [[File:USA_flag.png|40px|link=]] USA || [[#USA|174]] || [[#USA_2|13]] || [[#USA_3|121]] || [[#USA_4|67]]
+|| 375
+|-
+| [[File:Germany_flag.png|40px|link=]] Germany || [[#Germany|160]] || [[#Germany_2|8]] || [[#Germany_3|148]] || [[#Germany_4|63]]
+|| 379
+|-
+| [[File:USSR_flag.png|40px|link=]] USSR || [[#USSR|177]] || [[#USSR_2|11]] || [[#USSR_3|154]] || [[#USSR_4|73]]
+|| 415
+|-
+| [[File:Britain_flag.png|40px|link=]] Great Britain || [[#Great_Britain|137]] || [[#Great_Britain_2|6]] || [[#Great_Britain_3|110]] || [[#Great_Britain_4|73]]
+|| 326
+|-
+| [[File:Japan_flag.png|40px|link=]] Japan || [[#Japan|114]] || [[#Japan_2|5]] || [[#Japan_3|65]] || [[#Japan_4|58]]
+|| 242
+|-
+| [[File:China_flag.png|40px|link=]] China || [[#China|67]] || [[#China_2|7]] || [[#China_3|73]]
+!
+|| 147
+|-
+| [[File:Italy_flag.png|40px|link=]] Italy || [[#Italy|79]] || [[#Italy_2|5]] || [[#Italy_3|75]] || [[#Italy_4|42]]
+|| 201
+|-
+| [[File:France_flag.png|40px|link=]] France || [[#France|86]] || [[#France_2|8]] || [[#France_3|79]] || [[#France_4|16]]
+|| 189
+|-
+| [[File:Sweden_flag.png|40px|link=]] Sweden || [[#Sweden|54]] || [[#Sweden_2|6]] || [[#Sweden_3|77]]
+!
+|| 137
+|-
+| [[File:Israel_flag.png|40px|link=]] Israel || [[#Israel|27]] || [[#Israel_2|7]] || [[#Israel_3|39]]
+!
+|| 73
+|-
+| Special || [[#Special|13]]
+!
+|| [[#Special_2|11]] || [[#Special_3|3]]
+|| 27
+|-
+| Total || 1,088 || 76 || 952 || 395 || 2,511
+|}
+* [[#Drones|Drones]]
+
+* [[#Nuclear_bombers|Nuclear bombers]]
+
+=== Planes ===
+----
+==== USA ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>p-47m-1-re_boxted</pre> || {{Specs-Link|p-47m-1-re_boxted}}
+|-
+| <pre>p-63c-5_kingcobra_animal_version</pre> || {{Specs-Link|p-63c-5_kingcobra_animal_version}}
+|-
+| <pre>a6m2_zero_usa</pre> || {{Specs-Link|a6m2_zero_usa}}
+|-
+| <pre>bf-109f-4_usa</pre> || {{Specs-Link|bf-109f-4_usa}}
+|-
+| <pre>fw-190a-8_usa</pre> || {{Specs-Link|fw-190a-8_usa}}
+|-
+| <pre>ki_43_2_late</pre> || {{Specs-Link|ki_43_2_late}}
+|-
+| <pre>ki_61_1a_otsu_usa</pre> || {{Specs-Link|ki_61_1a_otsu_usa}}
+|-
+| <pre>spitfire_ix_usa</pre> || {{Specs-Link|spitfire_ix_usa}}
+|-
+| <pre>p-36c_rb</pre> || {{Specs-Link|p-36c_rb}}
+|-
+| <pre>a_10a_early</pre> || {{Specs-Link|a_10a_early}}
+|-
+| <pre>a_10a_late</pre> || {{Specs-Link|a_10a_late}}
+|-
+| <pre>douglas_a_1h</pre> || {{Specs-Link|douglas_a_1h}}
+|-
+| <pre>a-20g</pre> || {{Specs-Link|a-20g}}
+|-
+| <pre>a-26b_10</pre> || {{Specs-Link|a-26b_10}}
+|-
+| <pre>a-26b</pre> || {{Specs-Link|a-26b}}
+|-
+| <pre>a-26c</pre> || {{Specs-Link|a-26c}}
+|-
+| <pre>a-26c-45-dt</pre> || {{Specs-Link|a-26c-45-dt}}
+|-
+| <pre>p-51_a-36</pre> || {{Specs-Link|p-51_a-36}}
+|-
+| <pre>a_4b</pre> || {{Specs-Link|a_4b}}
+|-
+| <pre>a_4e_early</pre> || {{Specs-Link|a_4e_early}}
+|-
+| <pre>a_6e_tram</pre> || {{Specs-Link|a_6e_tram}}
+|-
+| <pre>a_7d</pre> || {{Specs-Link|a_7d}}
+|-
+| <pre>a_7e</pre> || {{Specs-Link|a_7e}}
+|-
+| <pre>a_7k</pre> || {{Specs-Link|a_7k}}
+|-
+| <pre>a2d</pre> || {{Specs-Link|a2d}}
+|-
+| <pre>douglas_ad_2</pre> || {{Specs-Link|douglas_ad_2}}
+|-
+| <pre>douglas_ad_4</pre> || {{Specs-Link|douglas_ad_4}}
+|-
+| <pre>am_1_mauler</pre> || {{Specs-Link|am_1_mauler}}
+|-
+| <pre>f4u-6_au-1</pre> || {{Specs-Link|f4u-6_au-1}}
+|-
+| <pre>av_8a</pre> || {{Specs-Link|av_8a}}
+|-
+| <pre>av_8c</pre> || {{Specs-Link|av_8c}}
+|-
+| <pre>b_10b</pre> || {{Specs-Link|b_10b}}
+|-
+| <pre>b-17e</pre> || {{Specs-Link|b-17e}}
+|-
+| <pre>b-17e_late</pre> || {{Specs-Link|b-17e_late}}
+|-
+| <pre>b-17g</pre> || {{Specs-Link|b-17g}}
+|-
+| <pre>b_18a</pre> || {{Specs-Link|b_18a}}
+|-
+| <pre>b_24d</pre> || {{Specs-Link|b_24d}}
+|-
+| <pre>b_25j_1</pre> || {{Specs-Link|b_25j_1}}
+|-
+| <pre>b_25j_20</pre> || {{Specs-Link|b_25j_20}}
+|-
+| <pre>b_26b_c</pre> || {{Specs-Link|b_26b_c}}
+|-
+| <pre>b-29</pre> || {{Specs-Link|b-29}}
+|-
+| <pre>b_34</pre> || {{Specs-Link|b_34}}
+|-
+| <pre>b-57</pre> || {{Specs-Link|b-57}}
+|-
+| <pre>b-57b</pre> || {{Specs-Link|b-57b}}
+|-
+| <pre>bf2c_1</pre> || {{Specs-Link|bf2c_1}}
+|-
+| <pre>p-38j_marge</pre> || {{Specs-Link|p-38j_marge}}
+|-
+| <pre>btd-1</pre> || {{Specs-Link|btd-1}}
+|-
+| <pre>f-100d</pre> || {{Specs-Link|f-100d}}
+|-
+| <pre>f-104a</pre> || {{Specs-Link|f-104a}}
+|-
+| <pre>f-104c</pre> || {{Specs-Link|f-104c}}
+|-
+| <pre>f-105d</pre> || {{Specs-Link|f-105d}}
+|-
+| <pre>f_14a_early</pre> || {{Specs-Link|f_14a_early}}
+|-
+| <pre>f_14b</pre> || {{Specs-Link|f_14b}}
+|-
+| <pre>f_16a_block_10</pre> || {{Specs-Link|f_16a_block_10}}
+|-
+| <pre>f_16a_block_15_adf</pre> || {{Specs-Link|f_16a_block_15_adf}}
+|-
+| <pre>f-4c</pre> || {{Specs-Link|f-4c}}
+|-
+| <pre>f-4e</pre> || {{Specs-Link|f-4e}}
+|-
+| <pre>f-4j</pre> || {{Specs-Link|f-4j}}
+|-
+| <pre>f-4s</pre> || {{Specs-Link|f-4s}}
+|-
+| <pre>f-5a</pre> || {{Specs-Link|f-5a}}
+|-
+| <pre>f-5c</pre> || {{Specs-Link|f-5c}}
+|-
+| <pre>f-5e</pre> || {{Specs-Link|f-5e}}
+|-
+| <pre>f-80a</pre> || {{Specs-Link|f-80a}}
+|-
+| <pre>f-80</pre> || {{Specs-Link|f-80}}
+|-
+| <pre>f-82e</pre> || {{Specs-Link|f-82e}}
+|-
+| <pre>f-84b</pre> || {{Specs-Link|f-84b}}
+|-
+| <pre>f-84f</pre> || {{Specs-Link|f-84f}}
+|-
+| <pre>f-84g</pre> || {{Specs-Link|f-84g}}
+|-
+| <pre>f-86a-5</pre> || {{Specs-Link|f-86a-5}}
+|-
+| <pre>f-86f-2</pre> || {{Specs-Link|f-86f-2}}
+|-
+| <pre>f-86f-25</pre> || {{Specs-Link|f-86f-25}}
+|-
+| <pre>f-86f-35</pre> || {{Specs-Link|f-86f-35}}
+|-
+| <pre>f-89b</pre> || {{Specs-Link|f-89b}}
+|-
+| <pre>f-89d</pre> || {{Specs-Link|f-89d}}
+|-
+| <pre>f-8e</pre> || {{Specs-Link|f-8e}}
+|-
+| <pre>f11f_1_late</pre> || {{Specs-Link|f11f_1_late}}
+|-
+| <pre>f2a-1</pre> || {{Specs-Link|f2a-1}}
+|-
+| <pre>f2a-3</pre> || {{Specs-Link|f2a-3}}
+|-
+| <pre>f2g-1</pre> || {{Specs-Link|f2g-1}}
+|-
+| <pre>f2h-2</pre> || {{Specs-Link|f2h-2}}
+|-
+| <pre>f3d_1</pre> || {{Specs-Link|f3d_1}}
+|-
+| <pre>f3f-2</pre> || {{Specs-Link|f3f-2}}
+|-
+| <pre>f3h-2</pre> || {{Specs-Link|f3h-2}}
+|-
+| <pre>f4d_1</pre> || {{Specs-Link|f4d_1}}
+|-
+| <pre>f4f-3</pre> || {{Specs-Link|f4f-3}}
+|-
+| <pre>f4f-4</pre> || {{Specs-Link|f4f-4}}
+|-
+| <pre>f4u-1a</pre> || {{Specs-Link|f4u-1a}}
+|-
+| <pre>f4u-1a_usmc</pre> || {{Specs-Link|f4u-1a_usmc}}
+|-
+| <pre>f4u-1c</pre> || {{Specs-Link|f4u-1c}}
+|-
+| <pre>f4u-1d</pre> || {{Specs-Link|f4u-1d}}
+|-
+| <pre>f4u-4</pre> || {{Specs-Link|f4u-4}}
+|-
+| <pre>f4u-4b</pre> || {{Specs-Link|f4u-4b}}
+|-
+| <pre>f4u-4b_vmf_214</pre> || {{Specs-Link|f4u-4b_vmf_214}}
+|-
+| <pre>f6f-3</pre> || {{Specs-Link|f6f-3}}
+|-
+| <pre>f6f-5n</pre> || {{Specs-Link|f6f-5n}}
+|-
+| <pre>f7f1</pre> || {{Specs-Link|f7f1}}
+|-
+| <pre>f7f3</pre> || {{Specs-Link|f7f3}}
+|-
+| <pre>f8f1</pre> || {{Specs-Link|f8f1}}
+|-
+| <pre>f8f1b</pre> || {{Specs-Link|f8f1b}}
+|-
+| <pre>f8u-2</pre> || {{Specs-Link|f8u-2}}
+|-
+| <pre>f9f-2</pre> || {{Specs-Link|f9f-2}}
+|-
+| <pre>f9f-5</pre> || {{Specs-Link|f9f-5}}
+|-
+| <pre>f9f-8</pre> || {{Specs-Link|f9f-8}}
+|-
+| <pre>fj_4b</pre> || {{Specs-Link|fj_4b}}
+|-
+| <pre>fj_4b_agm_12b</pre> || {{Specs-Link|fj_4b_agm_12b}}
+|-
+| <pre>f3f-2_galer</pre> || {{Specs-Link|f3f-2_galer}}
+|-
+| <pre>o3u_1</pre> || {{Specs-Link|o3u_1}}
+|-
+| <pre>os2u_1</pre> || {{Specs-Link|os2u_1}}
+|-
+| <pre>os2u_1_naval</pre> || {{Specs-Link|os2u_1_naval}}
+|-
+| <pre>os2u_3</pre> || {{Specs-Link|os2u_3}}
+|-
+| <pre>p-26a_33</pre> || {{Specs-Link|p-26a_33}}
+|-
+| <pre>p-26a_34</pre> || {{Specs-Link|p-26a_34}}
+|-
+| <pre>p-26a_34_m2</pre> || {{Specs-Link|p-26a_34_m2}}
+|-
+| <pre>p-26b_35</pre> || {{Specs-Link|p-26b_35}}
+|-
+| <pre>p-36a</pre> || {{Specs-Link|p-36a}}
+|-
+| <pre>p-36c</pre> || {{Specs-Link|p-36c}}
+|-
+| <pre>p-36g</pre> || {{Specs-Link|p-36g}}
+|-
+| <pre>p-38e</pre> || {{Specs-Link|p-38e}}
+|-
+| <pre>p-38g</pre> || {{Specs-Link|p-38g}}
+|-
+| <pre>p-38j</pre> || {{Specs-Link|p-38j}}
+|-
+| <pre>p-38k</pre> || {{Specs-Link|p-38k}}
+|-
+| <pre>p-38l</pre> || {{Specs-Link|p-38l}}
+|-
+| <pre>p-39n</pre> || {{Specs-Link|p-39n}}
+|-
+| <pre>p-39q_5</pre> || {{Specs-Link|p-39q_5}}
+|-
+| <pre>p-400</pre> || {{Specs-Link|p-400}}
+|-
+| <pre>p-40c</pre> || {{Specs-Link|p-40c}}
+|-
+| <pre>p-40e</pre> || {{Specs-Link|p-40e}}
+|-
+| <pre>p-40e_td</pre> || {{Specs-Link|p-40e_td}}
+|-
+| <pre>p-40f_10</pre> || {{Specs-Link|p-40f_10}}
+|-
+| <pre>p-43a-1</pre> || {{Specs-Link|p-43a-1}}
+|-
+| <pre>p-47d_22_re</pre> || {{Specs-Link|p-47d_22_re}}
+|-
+| <pre>p-47d</pre> || {{Specs-Link|p-47d}}
+|-
+| <pre>p-47d-28</pre> || {{Specs-Link|p-47d-28}}
+|-
+| <pre>p-47m-1-re</pre> || {{Specs-Link|p-47m-1-re}}
+|-
+| <pre>p-47n-15</pre> || {{Specs-Link|p-47n-15}}
+|-
+| <pre>p-51_mk1a_usaaf</pre> || {{Specs-Link|p-51_mk1a_usaaf}}
+|-
+| <pre>p-51a_tl</pre> || {{Specs-Link|p-51a_tl}}
+|-
+| <pre>p-51c-10-nt</pre> || {{Specs-Link|p-51c-10-nt}}
+|-
+| <pre>p-51d-10</pre> || {{Specs-Link|p-51d-10}}
+|-
+| <pre>p-51d-20-na</pre> || {{Specs-Link|p-51d-20-na}}
+|-
+| <pre>p-51d-30_usaaf_korea</pre> || {{Specs-Link|p-51d-30_usaaf_korea}}
+|-
+| <pre>p-51d-5</pre> || {{Specs-Link|p-51d-5}}
+|-
+| <pre>p-51h-5_na</pre> || {{Specs-Link|p-51h-5_na}}
+|-
+| <pre>p-59a</pre> || {{Specs-Link|p-59a}}
+|-
+| <pre>p-61a_1</pre> || {{Specs-Link|p-61a_1}}
+|-
+| <pre>p-61c_1</pre> || {{Specs-Link|p-61c_1}}
+|-
+| <pre>p-63a-10</pre> || {{Specs-Link|p-63a-10}}
+|-
+| <pre>p-63a-5</pre> || {{Specs-Link|p-63a-5}}
+|-
+| <pre>p-63c-5</pre> || {{Specs-Link|p-63c-5}}
+|-
+| <pre>pb4y-2</pre> || {{Specs-Link|pb4y-2}}
+|-
+| <pre>pbj_1h</pre> || {{Specs-Link|pbj_1h}}
+|-
+| <pre>pbj_1j</pre> || {{Specs-Link|pbj_1j}}
+|-
+| <pre>pbm_1</pre> || {{Specs-Link|pbm_1}}
+|-
+| <pre>pbm_3</pre> || {{Specs-Link|pbm_3}}
+|-
+| <pre>pby-5</pre> || {{Specs-Link|pby-5}}
+|-
+| <pre>pby-5a</pre> || {{Specs-Link|pby-5a}}
+|-
+| <pre>pv_2d</pre> || {{Specs-Link|pv_2d}}
+|-
+| <pre>p-36a_rasmussen</pre> || {{Specs-Link|p-36a_rasmussen}}
+|-
+| <pre>sb2c_1c</pre> || {{Specs-Link|sb2c_1c}}
+|-
+| <pre>sb2c_4</pre> || {{Specs-Link|sb2c_4}}
+|-
+| <pre>sb2u-2</pre> || {{Specs-Link|sb2u-2}}
+|-
+| <pre>sb2u-3</pre> || {{Specs-Link|sb2u-3}}
+|-
+| <pre>sbd-3</pre> || {{Specs-Link|sbd-3}}
+|-
+| <pre>soc_1</pre> || {{Specs-Link|soc_1}}
+|-
+| <pre>md_460_usa</pre> || {{Specs-Link|md_460_usa}}
+|-
+| <pre>tbd-1_1938</pre> || {{Specs-Link|tbd-1_1938}}
+|-
+| <pre>tbf-1c</pre> || {{Specs-Link|tbf-1c}}
+|-
+| <pre>f2a-1_thach</pre> || {{Specs-Link|f2a-1_thach}}
+|-
+| <pre>xa_38</pre> || {{Specs-Link|xa_38}}
+|-
+| <pre>xf5f</pre> || {{Specs-Link|xf5f}}
+|-
+| <pre>p-38g_metal</pre> || {{Specs-Link|p-38g_metal}}
+|-
+| <pre>xp-50</pre> || {{Specs-Link|xp-50}}
+|-
+| <pre>xp-55</pre> || {{Specs-Link|xp-55}}
+|-
+| <pre>yp-38</pre> || {{Specs-Link|yp-38}}
+|}
+
+----
+==== Germany ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>mc200_serie3</pre> || {{Specs-Link|mc200_serie3}}
+|-
+| <pre>mc200_serie7</pre> || {{Specs-Link|mc200_serie7}}
+|-
+| <pre>mc-202</pre> || {{Specs-Link|mc-202}}
+|-
+| <pre>fiat_cr42</pre> || {{Specs-Link|fiat_cr42}}
+|-
+| <pre>fiat_g50_seria7as</pre> || {{Specs-Link|fiat_g50_seria7as}}
+|-
+| <pre>fiat_g50_seria2</pre> || {{Specs-Link|fiat_g50_seria2}}
+|-
+| <pre>h-75a-2_finland</pre> || {{Specs-Link|h-75a-2_finland}}
+|-
+| <pre>il_2_1942_luftwaffe</pre> || {{Specs-Link|il_2_1942_luftwaffe}}
+|-
+| <pre>la-5fn_luftwaffe</pre> || {{Specs-Link|la-5fn_luftwaffe}}
+|-
+| <pre>fiat_cr42_marcolin</pre> || {{Specs-Link|fiat_cr42_marcolin}}
+|-
+| <pre>p-47d_luftwaffe</pre> || {{Specs-Link|p-47d_luftwaffe}}
+|-
+| <pre>p-47d_16_re_germany</pre> || {{Specs-Link|p-47d_16_re_germany}}
+|-
+| <pre>sm_79_1941</pre> || {{Specs-Link|sm_79_1941}}
+|-
+| <pre>sm_79_iar</pre> || {{Specs-Link|sm_79_iar}}
+|-
+| <pre>sm_79_1942</pre> || {{Specs-Link|sm_79_1942}}
+|-
+| <pre>sm_79_1943</pre> || {{Specs-Link|sm_79_1943}}
+|-
+| <pre>sm_79_1937</pre> || {{Specs-Link|sm_79_1937}}
+|-
+| <pre>sm_79_1939</pre> || {{Specs-Link|sm_79_1939}}
+|-
+| <pre>tempest_mkv_luftwaffe</pre> || {{Specs-Link|tempest_mkv_luftwaffe}}
+|-
+| <pre>wellington_mk1c_luftwaffe</pre> || {{Specs-Link|wellington_mk1c_luftwaffe}}
+|-
+| <pre>yak-1b_luftwaffe</pre> || {{Specs-Link|yak-1b_luftwaffe}}
+|-
+| <pre>f-86_canadair_german</pre> || {{Specs-Link|f-86_canadair_german}}
+|-
+| <pre>f-86_cl_13b_mk6</pre> || {{Specs-Link|f-86_cl_13b_mk6}}
+|-
+| <pre>f-104g</pre> || {{Specs-Link|f-104g}}
+|-
+| <pre>f-4f_late</pre> || {{Specs-Link|f-4f_late}}
+|-
+| <pre>f-4f</pre> || {{Specs-Link|f-4f}}
+|-
+| <pre>f-84f_germany</pre> || {{Specs-Link|f-84f_germany}}
+|-
+| <pre>f-86k_late_german</pre> || {{Specs-Link|f-86k_late_german}}
+|-
+| <pre>fiat_g91_r3</pre> || {{Specs-Link|fiat_g91_r3}}
+|-
+| <pre>fiat_g91_r4_german</pre> || {{Specs-Link|fiat_g91_r4_german}}
+|-
+| <pre>mig-21_sps_k</pre> || {{Specs-Link|mig-21_sps_k}}
+|-
+| <pre>sea_hawk_mk100</pre> || {{Specs-Link|sea_hawk_mk100}}
+|-
+| <pre>tornado_ids_de_mfg</pre> || {{Specs-Link|tornado_ids_de_mfg}}
+|-
+| <pre>tornado_ids_de_assta1</pre> || {{Specs-Link|tornado_ids_de_assta1}}
+|-
+| <pre>il_28_german</pre> || {{Specs-Link|il_28_german}}
+|-
+| <pre>mig-17p_lim_5p</pre> || {{Specs-Link|mig-17p_lim_5p}}
+|-
+| <pre>mig-15bis_nr23_german</pre> || {{Specs-Link|mig-15bis_nr23_german}}
+|-
+| <pre>mig-19s</pre> || {{Specs-Link|mig-19s}}
+|-
+| <pre>mig-21_bis_lazur</pre> || {{Specs-Link|mig-21_bis_lazur}}
+|-
+| <pre>mig-21_bis_sau</pre> || {{Specs-Link|mig-21_bis_sau}}
+|-
+| <pre>mig-21_mf</pre> || {{Specs-Link|mig-21_mf}}
+|-
+| <pre>mig_23bn</pre> || {{Specs-Link|mig_23bn}}
+|-
+| <pre>mig_23mf_germany</pre> || {{Specs-Link|mig_23mf_germany}}
+|-
+| <pre>mig_23mla</pre> || {{Specs-Link|mig_23mla}}
+|-
+| <pre>mig_29_9_12_germany</pre> || {{Specs-Link|mig_29_9_12_germany}}
+|-
+| <pre>su_22m4</pre> || {{Specs-Link|su_22m4}}
+|-
+| <pre>su_22um3k</pre> || {{Specs-Link|su_22um3k}}
+|-
+| <pre>hunter_f58_switzerland</pre> || {{Specs-Link|hunter_f58_switzerland}}
+|-
+| <pre>arado-196a-3</pre> || {{Specs-Link|arado-196a-3}}
+|-
+| <pre>arado-234</pre> || {{Specs-Link|arado-234}}
+|-
+| <pre>arado-234c-3</pre> || {{Specs-Link|arado-234c-3}}
+|-
+| <pre>bf-109b_2</pre> || {{Specs-Link|bf-109b_2}}
+|-
+| <pre>bf-109e-1</pre> || {{Specs-Link|bf-109e-1}}
+|-
+| <pre>bf-109e-3</pre> || {{Specs-Link|bf-109e-3}}
+|-
+| <pre>bf-109e-4</pre> || {{Specs-Link|bf-109e-4}}
+|-
+| <pre>bf-109e-7</pre> || {{Specs-Link|bf-109e-7}}
+|-
+| <pre>bf-109f-1</pre> || {{Specs-Link|bf-109f-1}}
+|-
+| <pre>bf-109f-2</pre> || {{Specs-Link|bf-109f-2}}
+|-
+| <pre>bf-109f-4</pre> || {{Specs-Link|bf-109f-4}}
+|-
+| <pre>bf-109f-4_trop</pre> || {{Specs-Link|bf-109f-4_trop}}
+|-
+| <pre>bf-109g-10</pre> || {{Specs-Link|bf-109g-10}}
+|-
+| <pre>bf-109g-14</pre> || {{Specs-Link|bf-109g-14}}
+|-
+| <pre>bf-109g-2_romania</pre> || {{Specs-Link|bf-109g-2_romania}}
+|-
+| <pre>bf-109g-2</pre> || {{Specs-Link|bf-109g-2}}
+|-
+| <pre>bf-109g-6</pre> || {{Specs-Link|bf-109g-6}}
+|-
+| <pre>bf-109k-4</pre> || {{Specs-Link|bf-109k-4}}
+|-
+| <pre>bf-109z</pre> || {{Specs-Link|bf-109z}}
+|-
+| <pre>bf-110c-6</pre> || {{Specs-Link|bf-110c-6}}
+|-
+| <pre>bf-110c-4</pre> || {{Specs-Link|bf-110c-4}}
+|-
+| <pre>bf-110f-2</pre> || {{Specs-Link|bf-110f-2}}
+|-
+| <pre>bf-110g-2</pre> || {{Specs-Link|bf-110g-2}}
+|-
+| <pre>bf_110g_4</pre> || {{Specs-Link|bf_110g_4}}
+|-
+| <pre>bv-138c-1</pre> || {{Specs-Link|bv-138c-1}}
+|-
+| <pre>bv-155b-1</pre> || {{Specs-Link|bv-155b-1}}
+|-
+| <pre>bv-238</pre> || {{Specs-Link|bv-238}}
+|-
+| <pre>do_17e_1</pre> || {{Specs-Link|do_17e_1}}
+|-
+| <pre>do_17z_2</pre> || {{Specs-Link|do_17z_2}}
+|-
+| <pre>do_17z_7</pre> || {{Specs-Link|do_17z_7}}
+|-
+| <pre>do_217e_2</pre> || {{Specs-Link|do_217e_2}}
+|-
+| <pre>do_217e_4</pre> || {{Specs-Link|do_217e_4}}
+|-
+| <pre>do_217j_1</pre> || {{Specs-Link|do_217j_1}}
+|-
+| <pre>do_217j_2</pre> || {{Specs-Link|do_217j_2}}
+|-
+| <pre>do_217k_1</pre> || {{Specs-Link|do_217k_1}}
+|-
+| <pre>do_217m_1</pre> || {{Specs-Link|do_217m_1}}
+|-
+| <pre>do_217n_1</pre> || {{Specs-Link|do_217n_1}}
+|-
+| <pre>do_217n_2</pre> || {{Specs-Link|do_217n_2}}
+|-
+| <pre>do_335a_0</pre> || {{Specs-Link|do_335a_0}}
+|-
+| <pre>do_335a_1</pre> || {{Specs-Link|do_335a_1}}
+|-
+| <pre>do_335b_2</pre> || {{Specs-Link|do_335b_2}}
+|-
+| <pre>bf-109a_1</pre> || {{Specs-Link|bf-109a_1}}
+|-
+| <pre>fw-189a-1</pre> || {{Specs-Link|fw-189a-1}}
+|-
+| <pre>fw-190a-1</pre> || {{Specs-Link|fw-190a-1}}
+|-
+| <pre>fw-190a-4</pre> || {{Specs-Link|fw-190a-4}}
+|-
+| <pre>fw-190a-5_cannons</pre> || {{Specs-Link|fw-190a-5_cannons}}
+|-
+| <pre>fw-190a-5</pre> || {{Specs-Link|fw-190a-5}}
+|-
+| <pre>fw_190a_5_u14</pre> || {{Specs-Link|fw_190a_5_u14}}
+|-
+| <pre>fw-190a-5_u2</pre> || {{Specs-Link|fw-190a-5_u2}}
+|-
+| <pre>fw-190a-8</pre> || {{Specs-Link|fw-190a-8}}
+|-
+| <pre>fw-190c</pre> || {{Specs-Link|fw-190c}}
+|-
+| <pre>fw-190d-12</pre> || {{Specs-Link|fw-190d-12}}
+|-
+| <pre>fw-190d-13</pre> || {{Specs-Link|fw-190d-13}}
+|-
+| <pre>fw-190d-9</pre> || {{Specs-Link|fw-190d-9}}
+|-
+| <pre>fw-190f-8</pre> || {{Specs-Link|fw-190f-8}}
+|-
+| <pre>fw_200c_1</pre> || {{Specs-Link|fw_200c_1}}
+|-
+| <pre>he_100d_1</pre> || {{Specs-Link|he_100d_1}}
+|-
+| <pre>he-111h-16_winter</pre> || {{Specs-Link|he-111h-16_winter}}
+|-
+| <pre>he-111h-2</pre> || {{Specs-Link|he-111h-2}}
+|-
+| <pre>he-111h-6</pre> || {{Specs-Link|he-111h-6}}
+|-
+| <pre>he_112a_0</pre> || {{Specs-Link|he_112a_0}}
+|-
+| <pre>he_112b_0</pre> || {{Specs-Link|he_112b_0}}
+|-
+| <pre>he_112b_1</pre> || {{Specs-Link|he_112b_1}}
+|-
+| <pre>he_112b_2</pre> || {{Specs-Link|he_112b_2}}
+|-
+| <pre>he_112v_5</pre> || {{Specs-Link|he_112v_5}}
+|-
+| <pre>he-162a-1</pre> || {{Specs-Link|he-162a-1}}
+|-
+| <pre>he-162a-2</pre> || {{Specs-Link|he-162a-2}}
+|-
+| <pre>he-177a-5</pre> || {{Specs-Link|he-177a-5}}
+|-
+| <pre>he_219a_7</pre> || {{Specs-Link|he_219a_7}}
+|-
+| <pre>he51a1</pre> || {{Specs-Link|he51a1}}
+|-
+| <pre>he51b1</pre> || {{Specs-Link|he51b1}}
+|-
+| <pre>he51b_2w</pre> || {{Specs-Link|he51b_2w}}
+|-
+| <pre>he51c1</pre> || {{Specs-Link|he51c1}}
+|-
+| <pre>he51c1_late</pre> || {{Specs-Link|he51c1_late}}
+|-
+| <pre>go229_v3</pre> || {{Specs-Link|go229_v3}}
+|-
+| <pre>hs-123a-1</pre> || {{Specs-Link|hs-123a-1}}
+|-
+| <pre>hs-129b-2</pre> || {{Specs-Link|hs-129b-2}}
+|-
+| <pre>hs-129b-2_romania</pre> || {{Specs-Link|hs-129b-2_romania}}
+|-
+| <pre>hs-129b-3</pre> || {{Specs-Link|hs-129b-3}}
+|-
+| <pre>ju-188a-2</pre> || {{Specs-Link|ju-188a-2}}
+|-
+| <pre>ju-288c</pre> || {{Specs-Link|ju-288c}}
+|-
+| <pre>ju-388j</pre> || {{Specs-Link|ju-388j}}
+|-
+| <pre>ju-87b-2</pre> || {{Specs-Link|ju-87b-2}}
+|-
+| <pre>ju-87d-3</pre> || {{Specs-Link|ju-87d-3}}
+|-
+| <pre>ju-87d-5</pre> || {{Specs-Link|ju-87d-5}}
+|-
+| <pre>ju-87g_1</pre> || {{Specs-Link|ju-87g_1}}
+|-
+| <pre>ju-87g_2</pre> || {{Specs-Link|ju-87g_2}}
+|-
+| <pre>ju-87r-2</pre> || {{Specs-Link|ju-87r-2}}
+|-
+| <pre>ju-87r-2_snake</pre> || {{Specs-Link|ju-87r-2_snake}}
+|-
+| <pre>ju-88a-1</pre> || {{Specs-Link|ju-88a-1}}
+|-
+| <pre>ju-88a-4</pre> || {{Specs-Link|ju-88a-4}}
+|-
+| <pre>ju-88c-6</pre> || {{Specs-Link|ju-88c-6}}
+|-
+| <pre>me-163b</pre> || {{Specs-Link|me-163b}}
+|-
+| <pre>me-163b-0</pre> || {{Specs-Link|me-163b-0}}
+|-
+| <pre>me-262a-1a_u4</pre> || {{Specs-Link|me-262a-1a_u4}}
+|-
+| <pre>me-262a-1a</pre> || {{Specs-Link|me-262a-1a}}
+|-
+| <pre>me-262a-1a_early</pre> || {{Specs-Link|me-262a-1a_early}}
+|-
+| <pre>me-262a1_u1</pre> || {{Specs-Link|me-262a1_u1}}
+|-
+| <pre>me-262a-2a</pre> || {{Specs-Link|me-262a-2a}}
+|-
+| <pre>me-262c-1a</pre> || {{Specs-Link|me-262c-1a}}
+|-
+| <pre>me-262c-2b</pre> || {{Specs-Link|me-262c-2b}}
+|-
+| <pre>me_264</pre> || {{Specs-Link|me_264}}
+|-
+| <pre>me-410a-1</pre> || {{Specs-Link|me-410a-1}}
+|-
+| <pre>me-410a-1_u2</pre> || {{Specs-Link|me-410a-1_u2}}
+|-
+| <pre>me-410a-1_u4</pre> || {{Specs-Link|me-410a-1_u4}}
+|-
+| <pre>me-410b-1</pre> || {{Specs-Link|me-410b-1}}
+|-
+| <pre>me-410b-1_u2</pre> || {{Specs-Link|me-410b-1_u2}}
+|-
+| <pre>me-410b-2_u4</pre> || {{Specs-Link|me-410b-2_u4}}
+|-
+| <pre>me-410b-6_r3</pre> || {{Specs-Link|me-410b-6_r3}}
+|-
+| <pre>ta-152c</pre> || {{Specs-Link|ta-152c}}
+|-
+| <pre>ta-152h-1</pre> || {{Specs-Link|ta-152h-1}}
+|-
+| <pre>ta_154a_1</pre> || {{Specs-Link|ta_154a_1}}
+|}
+
+----
+==== USSR ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>a_20g_30_ussr</pre> || {{Specs-Link|a_20g_30_ussr}}
+|-
+| <pre>b_25j_30_vvs_ussr</pre> || {{Specs-Link|b_25j_30_vvs_ussr}}
+|-
+| <pre>fw-190d-9_ussr</pre> || {{Specs-Link|fw-190d-9_ussr}}
+|-
+| <pre>hp52_hampden_tbmk1_ussr_utk1</pre> || {{Specs-Link|hp52_hampden_tbmk1_ussr_utk1}}
+|-
+| <pre>hurricanemkii_ussr</pre> || {{Specs-Link|hurricanemkii_ussr}}
+|-
+| <pre>p-39k_1</pre> || {{Specs-Link|p-39k_1}}
+|-
+| <pre>p-39q_15</pre> || {{Specs-Link|p-39q_15}}
+|-
+| <pre>p-40e_ussr</pre> || {{Specs-Link|p-40e_ussr}}
+|-
+| <pre>p-47d_ussr</pre> || {{Specs-Link|p-47d_ussr}}
+|-
+| <pre>p-63a-10_ussr</pre> || {{Specs-Link|p-63a-10_ussr}}
+|-
+| <pre>p-63a-5_ussr</pre> || {{Specs-Link|p-63a-5_ussr}}
+|-
+| <pre>p-63c-5_ussr</pre> || {{Specs-Link|p-63c-5_ussr}}
+|-
+| <pre>pby-5a_ussr</pre> || {{Specs-Link|pby-5a_ussr}}
+|-
+| <pre>p-39n_su</pre> || {{Specs-Link|p-39n_su}}
+|-
+| <pre>spitfire_ix_ussr</pre> || {{Specs-Link|spitfire_ix_ussr}}
+|-
+| <pre>ar_2</pre> || {{Specs-Link|ar_2}}
+|-
+| <pre>bb-1</pre> || {{Specs-Link|bb-1}}
+|-
+| <pre>be_6</pre> || {{Specs-Link|be_6}}
+|-
+| <pre>bi</pre> || {{Specs-Link|bi}}
+|-
+| <pre>db_3b</pre> || {{Specs-Link|db_3b}}
+|-
+| <pre>la-7_dolgushin</pre> || {{Specs-Link|la-7_dolgushin}}
+|-
+| <pre>yak-9m</pre> || {{Specs-Link|yak-9m}}
+|-
+| <pre>i-15_1935</pre> || {{Specs-Link|i-15_1935}}
+|-
+| <pre>i-15_1935_moscow</pre> || {{Specs-Link|i-15_1935_moscow}}
+|-
+| <pre>i-15_1934</pre> || {{Specs-Link|i-15_1934}}
+|-
+| <pre>i-153_m62</pre> || {{Specs-Link|i-153_m62}}
+|-
+| <pre>i-153p</pre> || {{Specs-Link|i-153p}}
+|-
+| <pre>i-15bis</pre> || {{Specs-Link|i-15bis}}
+|-
+| <pre>i-16_type10</pre> || {{Specs-Link|i-16_type10}}
+|-
+| <pre>i-16_type18</pre> || {{Specs-Link|i-16_type18}}
+|-
+| <pre>i-16_type24</pre> || {{Specs-Link|i-16_type24}}
+|-
+| <pre>i-16_type27</pre> || {{Specs-Link|i-16_type27}}
+|-
+| <pre>i-16_type28</pre> || {{Specs-Link|i-16_type28}}
+|-
+| <pre>i-16_type5</pre> || {{Specs-Link|i-16_type5}}
+|-
+| <pre>i_180</pre> || {{Specs-Link|i_180}}
+|-
+| <pre>i_185_m71_standard</pre> || {{Specs-Link|i_185_m71_standard}}
+|-
+| <pre>i_185_m82</pre> || {{Specs-Link|i_185_m82}}
+|-
+| <pre>i_225</pre> || {{Specs-Link|i_225}}
+|-
+| <pre>i_29</pre> || {{Specs-Link|i_29}}
+|-
+| <pre>lagg-i-301</pre> || {{Specs-Link|lagg-i-301}}
+|-
+| <pre>il-10</pre> || {{Specs-Link|il-10}}
+|-
+| <pre>il-10_1946</pre> || {{Specs-Link|il-10_1946}}
+|-
+| <pre>il_2_1941</pre> || {{Specs-Link|il_2_1941}}
+|-
+| <pre>il-2i</pre> || {{Specs-Link|il-2i}}
+|-
+| <pre>il_2_m82</pre> || {{Specs-Link|il_2_m82}}
+|-
+| <pre>il_2_37_1943</pre> || {{Specs-Link|il_2_37_1943}}
+|-
+| <pre>il_28</pre> || {{Specs-Link|il_28}}
+|-
+| <pre>il_28sh</pre> || {{Specs-Link|il_28sh}}
+|-
+| <pre>il_2m_1943</pre> || {{Specs-Link|il_2m_1943}}
+|-
+| <pre>il-2m_mstitel</pre> || {{Specs-Link|il-2m_mstitel}}
+|-
+| <pre>il-2m</pre> || {{Specs-Link|il-2m}}
+|-
+| <pre>il-4</pre> || {{Specs-Link|il-4}}
+|-
+| <pre>itp_m1</pre> || {{Specs-Link|itp_m1}}
+|-
+| <pre>kor_1</pre> || {{Specs-Link|kor_1}}
+|-
+| <pre>i-15bis_krasnolutsky</pre> || {{Specs-Link|i-15bis_krasnolutsky}}
+|-
+| <pre>la-11</pre> || {{Specs-Link|la-11}}
+|-
+| <pre>la-15</pre> || {{Specs-Link|la-15}}
+|-
+| <pre>la_174</pre> || {{Specs-Link|la_174}}
+|-
+| <pre>la_200_toriy</pre> || {{Specs-Link|la_200_toriy}}
+|-
+| <pre>la-5_type37_early</pre> || {{Specs-Link|la-5_type37_early}}
+|-
+| <pre>la-5_type39</pre> || {{Specs-Link|la-5_type39}}
+|-
+| <pre>la-5fn</pre> || {{Specs-Link|la-5fn}}
+|-
+| <pre>la-7</pre> || {{Specs-Link|la-7}}
+|-
+| <pre>la-7b-20</pre> || {{Specs-Link|la-7b-20}}
+|-
+| <pre>la-9</pre> || {{Specs-Link|la-9}}
+|-
+| <pre>lagg-3-11</pre> || {{Specs-Link|lagg-3-11}}
+|-
+| <pre>lagg-3-23</pre> || {{Specs-Link|lagg-3-23}}
+|-
+| <pre>lagg-3-34</pre> || {{Specs-Link|lagg-3-34}}
+|-
+| <pre>lagg-3-35</pre> || {{Specs-Link|lagg-3-35}}
+|-
+| <pre>lagg-3-4</pre> || {{Specs-Link|lagg-3-4}}
+|-
+| <pre>lagg-3-66</pre> || {{Specs-Link|lagg-3-66}}
+|-
+| <pre>lagg-3-8</pre> || {{Specs-Link|lagg-3-8}}
+|-
+| <pre>mbr-2</pre> || {{Specs-Link|mbr-2}}
+|-
+| <pre>mig-15_ns23</pre> || {{Specs-Link|mig-15_ns23}}
+|-
+| <pre>mig-15</pre> || {{Specs-Link|mig-15}}
+|-
+| <pre>mig-15bis_ish</pre> || {{Specs-Link|mig-15bis_ish}}
+|-
+| <pre>mig-17</pre> || {{Specs-Link|mig-17}}
+|-
+| <pre>mig-17_cuba</pre> || {{Specs-Link|mig-17_cuba}}
+|-
+| <pre>mig-19pt</pre> || {{Specs-Link|mig-19pt}}
+|-
+| <pre>mig-21_bis</pre> || {{Specs-Link|mig-21_bis}}
+|-
+| <pre>mig-21_f13</pre> || {{Specs-Link|mig-21_f13}}
+|-
+| <pre>mig-21_pfm</pre> || {{Specs-Link|mig-21_pfm}}
+|-
+| <pre>mig-21_s</pre> || {{Specs-Link|mig-21_s}}
+|-
+| <pre>mig-21_smt</pre> || {{Specs-Link|mig-21_smt}}
+|-
+| <pre>mig_23m</pre> || {{Specs-Link|mig_23m}}
+|-
+| <pre>mig_23ml</pre> || {{Specs-Link|mig_23ml}}
+|-
+| <pre>mig_23mld</pre> || {{Specs-Link|mig_23mld}}
+|-
+| <pre>mig_27k</pre> || {{Specs-Link|mig_27k}}
+|-
+| <pre>mig_27m</pre> || {{Specs-Link|mig_27m}}
+|-
+| <pre>mig_29_9_13</pre> || {{Specs-Link|mig_29_9_13}}
+|-
+| <pre>mig_3_series_1_15</pre> || {{Specs-Link|mig_3_series_1_15}}
+|-
+| <pre>mig_3_series_1_15_bk_pod</pre> || {{Specs-Link|mig_3_series_1_15_bk_pod}}
+|-
+| <pre>mig_3_series_34</pre> || {{Specs-Link|mig_3_series_34}}
+|-
+| <pre>mig-9</pre> || {{Specs-Link|mig-9}}
+|-
+| <pre>mig-9_ussr</pre> || {{Specs-Link|mig-9_ussr}}
+|-
+| <pre>pe-2-1</pre> || {{Specs-Link|pe-2-1}}
+|-
+| <pre>pe-2-110</pre> || {{Specs-Link|pe-2-110}}
+|-
+| <pre>pe-2-205</pre> || {{Specs-Link|pe-2-205}}
+|-
+| <pre>pe-2-31</pre> || {{Specs-Link|pe-2-31}}
+|-
+| <pre>pe-2-359</pre> || {{Specs-Link|pe-2-359}}
+|-
+| <pre>pe-2-83</pre> || {{Specs-Link|pe-2-83}}
+|-
+| <pre>pe-3</pre> || {{Specs-Link|pe-3}}
+|-
+| <pre>pe-3_early</pre> || {{Specs-Link|pe-3_early}}
+|-
+| <pre>pe-3_bis</pre> || {{Specs-Link|pe-3_bis}}
+|-
+| <pre>pe-8_m82</pre> || {{Specs-Link|pe-8_m82}}
+|-
+| <pre>po-2</pre> || {{Specs-Link|po-2}}
+|-
+| <pre>po-2_nw</pre> || {{Specs-Link|po-2_nw}}
+|-
+| <pre>po_2op_event</pre> || {{Specs-Link|po_2op_event}}
+|-
+| <pre>po-2m</pre> || {{Specs-Link|po-2m}}
+|-
+| <pre>sb_2m_100</pre> || {{Specs-Link|sb_2m_100}}
+|-
+| <pre>sb_2m_103c</pre> || {{Specs-Link|sb_2m_103c}}
+|-
+| <pre>sb_2m_103_mv3</pre> || {{Specs-Link|sb_2m_103_mv3}}
+|-
+| <pre>sb_2m_103u</pre> || {{Specs-Link|sb_2m_103u}}
+|-
+| <pre>sb_2m_103u_mv3</pre> || {{Specs-Link|sb_2m_103u_mv3}}
+|-
+| <pre>sb_2m_105</pre> || {{Specs-Link|sb_2m_105}}
+|-
+| <pre>su-11</pre> || {{Specs-Link|su-11}}
+|-
+| <pre>su_17m2</pre> || {{Specs-Link|su_17m2}}
+|-
+| <pre>su_17m4</pre> || {{Specs-Link|su_17m4}}
+|-
+| <pre>su-2_m82</pre> || {{Specs-Link|su-2_m82}}
+|-
+| <pre>su-2_mv5</pre> || {{Specs-Link|su-2_mv5}}
+|-
+| <pre>su-2_tss1</pre> || {{Specs-Link|su-2_tss1}}
+|-
+| <pre>su_22m3</pre> || {{Specs-Link|su_22m3}}
+|-
+| <pre>su_25</pre> || {{Specs-Link|su_25}}
+|-
+| <pre>su_25k</pre> || {{Specs-Link|su_25k}}
+|-
+| <pre>su_25t</pre> || {{Specs-Link|su_25t}}
+|-
+| <pre>su_25tm</pre> || {{Specs-Link|su_25tm}}
+|-
+| <pre>su_6_single</pre> || {{Specs-Link|su_6_single}}
+|-
+| <pre>su-6_am42</pre> || {{Specs-Link|su-6_am42}}
+|-
+| <pre>su-6_m71</pre> || {{Specs-Link|su-6_m71}}
+|-
+| <pre>su-7b</pre> || {{Specs-Link|su-7b}}
+|-
+| <pre>su-7bkl</pre> || {{Specs-Link|su-7bkl}}
+|-
+| <pre>su-7bmk</pre> || {{Specs-Link|su-7bmk}}
+|-
+| <pre>su-8</pre> || {{Specs-Link|su-8}}
+|-
+| <pre>su-9</pre> || {{Specs-Link|su-9}}
+|-
+| <pre>tandem_mai</pre> || {{Specs-Link|tandem_mai}}
+|-
+| <pre>tb_3_m17_32</pre> || {{Specs-Link|tb_3_m17_32}}
+|-
+| <pre>tis_ma</pre> || {{Specs-Link|tis_ma}}
+|-
+| <pre>tu-1</pre> || {{Specs-Link|tu-1}}
+|-
+| <pre>tu_14t</pre> || {{Specs-Link|tu_14t}}
+|-
+| <pre>tu-2_early</pre> || {{Specs-Link|tu-2_early}}
+|-
+| <pre>tu-2</pre> || {{Specs-Link|tu-2}}
+|-
+| <pre>tu-2_postwar</pre> || {{Specs-Link|tu-2_postwar}}
+|-
+| <pre>tu-2_postwar_late</pre> || {{Specs-Link|tu-2_postwar_late}}
+|-
+| <pre>tu_4</pre> || {{Specs-Link|tu_4}}
+|-
+| <pre>yak-1_early</pre> || {{Specs-Link|yak-1_early}}
+|-
+| <pre>yak_141</pre> || {{Specs-Link|yak_141}}
+|-
+| <pre>yak-15</pre> || {{Specs-Link|yak-15}}
+|-
+| <pre>yak-15_early</pre> || {{Specs-Link|yak-15_early}}
+|-
+| <pre>yak-17</pre> || {{Specs-Link|yak-17}}
+|-
+| <pre>yak-1b</pre> || {{Specs-Link|yak-1b}}
+|-
+| <pre>yak_2_kabb</pre> || {{Specs-Link|yak_2_kabb}}
+|-
+| <pre>yak-23</pre> || {{Specs-Link|yak-23}}
+|-
+| <pre>yak-28b</pre> || {{Specs-Link|yak-28b}}
+|-
+| <pre>yak-3</pre> || {{Specs-Link|yak-3}}
+|-
+| <pre>yak-3_vk107</pre> || {{Specs-Link|yak-3_vk107}}
+|-
+| <pre>yak-30d</pre> || {{Specs-Link|yak-30d}}
+|-
+| <pre>yak-38</pre> || {{Specs-Link|yak-38}}
+|-
+| <pre>yak-38m</pre> || {{Specs-Link|yak-38m}}
+|-
+| <pre>yak-3p</pre> || {{Specs-Link|yak-3p}}
+|-
+| <pre>yak-3t</pre> || {{Specs-Link|yak-3t}}
+|-
+| <pre>yak-3u</pre> || {{Specs-Link|yak-3u}}
+|-
+| <pre>yak-4</pre> || {{Specs-Link|yak-4}}
+|-
+| <pre>yak-7b</pre> || {{Specs-Link|yak-7b}}
+|-
+| <pre>yak-9</pre> || {{Specs-Link|yak-9}}
+|-
+| <pre>yak-9b</pre> || {{Specs-Link|yak-9b}}
+|-
+| <pre>yak-9k</pre> || {{Specs-Link|yak-9k}}
+|-
+| <pre>yak-9p</pre> || {{Specs-Link|yak-9p}}
+|-
+| <pre>yak-9t</pre> || {{Specs-Link|yak-9t}}
+|-
+| <pre>yak-9u</pre> || {{Specs-Link|yak-9u}}
+|-
+| <pre>yak-9ut</pre> || {{Specs-Link|yak-9ut}}
+|-
+| <pre>er-2_ach30b_early</pre> || {{Specs-Link|er-2_ach30b_early}}
+|-
+| <pre>er-2_ach30b_late</pre> || {{Specs-Link|er-2_ach30b_late}}
+|-
+| <pre>er-2_m105_mv3</pre> || {{Specs-Link|er-2_m105_mv3}}
+|-
+| <pre>er-2_m105_tat</pre> || {{Specs-Link|er-2_m105_tat}}
+|-
+| <pre>er-2_m105r_lu2b</pre> || {{Specs-Link|er-2_m105r_lu2b}}
+|-
+| <pre>er-2_m105r_tat</pre> || {{Specs-Link|er-2_m105r_tat}}
+|-
+| <pre>i-153_m62_zhukovskiy</pre> || {{Specs-Link|i-153_m62_zhukovskiy}}
+|}
+
+----
+==== Great Britain ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>avenger_mk1</pre> || {{Specs-Link|avenger_mk1}}
+|-
+| <pre>boomerang_mki</pre> || {{Specs-Link|boomerang_mki}}
+|-
+| <pre>boomerang_mkii</pre> || {{Specs-Link|boomerang_mkii}}
+|-
+| <pre>boston_mk_1</pre> || {{Specs-Link|boston_mk_1}}
+|-
+| <pre>pby-5a_raf</pre> || {{Specs-Link|pby-5a_raf}}
+|-
+| <pre>corsair_fmk2</pre> || {{Specs-Link|corsair_fmk2}}
+|-
+| <pre>d_520</pre> || {{Specs-Link|d_520}}
+|-
+| <pre>d_521</pre> || {{Specs-Link|d_521}}
+|-
+| <pre>db_7</pre> || {{Specs-Link|db_7}}
+|-
+| <pre>intruder_mk_1</pre> || {{Specs-Link|intruder_mk_1}}
+|-
+| <pre>hellcat_fmk1</pre> || {{Specs-Link|hellcat_fmk1}}
+|-
+| <pre>hudson_mk_v</pre> || {{Specs-Link|hudson_mk_v}}
+|-
+| <pre>f4f-4_martlet_mk4</pre> || {{Specs-Link|f4f-4_martlet_mk4}}
+|-
+| <pre>p-51b</pre> || {{Specs-Link|p-51b}}
+|-
+| <pre>thunderbolt_mk1</pre> || {{Specs-Link|thunderbolt_mk1}}
+|-
+| <pre>wirraway</pre> || {{Specs-Link|wirraway}}
+|-
+| <pre>attaker_fb1</pre> || {{Specs-Link|attaker_fb1}}
+|-
+| <pre>attaker_fb2</pre> || {{Specs-Link|attaker_fb2}}
+|-
+| <pre>beaufighter_mk21</pre> || {{Specs-Link|beaufighter_mk21}}
+|-
+| <pre>beaufighter_mk1_40mm</pre> || {{Specs-Link|beaufighter_mk1_40mm}}
+|-
+| <pre>beaufighter_mk6c</pre> || {{Specs-Link|beaufighter_mk6c}}
+|-
+| <pre>beaufighter_mkx</pre> || {{Specs-Link|beaufighter_mkx}}
+|-
+| <pre>beaufort_mkviii</pre> || {{Specs-Link|beaufort_mkviii}}
+|-
+| <pre>blenheim_mkiv</pre> || {{Specs-Link|blenheim_mkiv}}
+|-
+| <pre>brigand_b1</pre> || {{Specs-Link|brigand_b1}}
+|-
+| <pre>buccaneer_s1</pre> || {{Specs-Link|buccaneer_s1}}
+|-
+| <pre>buccaneer_s2</pre> || {{Specs-Link|buccaneer_s2}}
+|-
+| <pre>canberra_bimk6</pre> || {{Specs-Link|canberra_bimk6}}
+|-
+| <pre>canberra_bmk2</pre> || {{Specs-Link|canberra_bmk2}}
+|-
+| <pre>f-4jk</pre> || {{Specs-Link|f-4jk}}
+|-
+| <pre>fairey_3f_mk3b</pre> || {{Specs-Link|fairey_3f_mk3b}}
+|-
+| <pre>firebrand_tf4</pre> || {{Specs-Link|firebrand_tf4}}
+|-
+| <pre>b_48_firecrest</pre> || {{Specs-Link|b_48_firecrest}}
+|-
+| <pre>firefly_mk1</pre> || {{Specs-Link|firefly_mk1}}
+|-
+| <pre>firefly_mk5</pre> || {{Specs-Link|firefly_mk5}}
+|-
+| <pre>fury_mk1</pre> || {{Specs-Link|fury_mk1}}
+|-
+| <pre>fury_mk2</pre> || {{Specs-Link|fury_mk2}}
+|-
+| <pre>gladiator_mk2</pre> || {{Specs-Link|gladiator_mk2}}
+|-
+| <pre>gladiator_mk2_france</pre> || {{Specs-Link|gladiator_mk2_france}}
+|-
+| <pre>gladiator_mk2_silver</pre> || {{Specs-Link|gladiator_mk2_silver}}
+|-
+| <pre>halifax_mk3</pre> || {{Specs-Link|halifax_mk3}}
+|-
+| <pre>hp52_hampden_mk1_late</pre> || {{Specs-Link|hp52_hampden_mk1_late}}
+|-
+| <pre>hp52_hampden_tbmk1</pre> || {{Specs-Link|hp52_hampden_tbmk1}}
+|-
+| <pre>harrier_gr1</pre> || {{Specs-Link|harrier_gr1}}
+|-
+| <pre>harrier_gr3</pre> || {{Specs-Link|harrier_gr3}}
+|-
+| <pre>harrier_gr7</pre> || {{Specs-Link|harrier_gr7}}
+|-
+| <pre>hornet_mk1</pre> || {{Specs-Link|hornet_mk1}}
+|-
+| <pre>hornet_mk3</pre> || {{Specs-Link|hornet_mk3}}
+|-
+| <pre>hunter_f1</pre> || {{Specs-Link|hunter_f1}}
+|-
+| <pre>hunter_f6</pre> || {{Specs-Link|hunter_f6}}
+|-
+| <pre>hunter_f9_rhodesia</pre> || {{Specs-Link|hunter_f9_rhodesia}}
+|-
+| <pre>hurricane_mk1</pre> || {{Specs-Link|hurricane_mk1}}
+|-
+| <pre>hurricanemkii</pre> || {{Specs-Link|hurricanemkii}}
+|-
+| <pre>hurricane_mk4</pre> || {{Specs-Link|hurricane_mk4}}
+|-
+| <pre>hurricane_mk1_late_ep</pre> || {{Specs-Link|hurricane_mk1_late_ep}}
+|-
+| <pre>jaguar_gr1</pre> || {{Specs-Link|jaguar_gr1}}
+|-
+| <pre>jaguar_gr1a</pre> || {{Specs-Link|jaguar_gr1a}}
+|-
+| <pre>javelin_fmk9</pre> || {{Specs-Link|javelin_fmk9}}
+|-
+| <pre>lancaster_mk1</pre> || {{Specs-Link|lancaster_mk1}}
+|-
+| <pre>lancaster_mk3</pre> || {{Specs-Link|lancaster_mk3}}
+|-
+| <pre>lightning_f53</pre> || {{Specs-Link|lightning_f53}}
+|-
+| <pre>lightning_f6</pre> || {{Specs-Link|lightning_f6}}
+|-
+| <pre>lincoln_b2</pre> || {{Specs-Link|lincoln_b2}}
+|-
+| <pre>mb_5</pre> || {{Specs-Link|mb_5}}
+|-
+| <pre>meteor_fmk3</pre> || {{Specs-Link|meteor_fmk3}}
+|-
+| <pre>meteor_fmk4_lw</pre> || {{Specs-Link|meteor_fmk4_lw}}
+|-
+| <pre>meteor_fmk4_sw</pre> || {{Specs-Link|meteor_fmk4_sw}}
+|-
+| <pre>meteor_fmk8</pre> || {{Specs-Link|meteor_fmk8}}
+|-
+| <pre>meteor_fmk8_reaper</pre> || {{Specs-Link|meteor_fmk8_reaper}}
+|-
+| <pre>mosquito_fb_mk6</pre> || {{Specs-Link|mosquito_fb_mk6}}
+|-
+| <pre>mosquito_fb_mk18</pre> || {{Specs-Link|mosquito_fb_mk18}}
+|-
+| <pre>nimrod_mk1</pre> || {{Specs-Link|nimrod_mk1}}
+|-
+| <pre>nimrod_mk2</pre> || {{Specs-Link|nimrod_mk2}}
+|-
+| <pre>osprey_mk4</pre> || {{Specs-Link|osprey_mk4}}
+|-
+| <pre>f-4k</pre> || {{Specs-Link|f-4k}}
+|-
+| <pre>f-4m_fgr2</pre> || {{Specs-Link|f-4m_fgr2}}
+|-
+| <pre>spitfire_ix_plagis</pre> || {{Specs-Link|spitfire_ix_plagis}}
+|-
+| <pre>scimitar_f1</pre> || {{Specs-Link|scimitar_f1}}
+|-
+| <pre>sea_fury_fb11</pre> || {{Specs-Link|sea_fury_fb11}}
+|-
+| <pre>gladiator_mk2_navy</pre> || {{Specs-Link|gladiator_mk2_navy}}
+|-
+| <pre>harrier_frs1</pre> || {{Specs-Link|harrier_frs1}}
+|-
+| <pre>sea_hawk_fga6</pre> || {{Specs-Link|sea_hawk_fga6}}
+|-
+| <pre>hurricane_mk1b</pre> || {{Specs-Link|hurricane_mk1b}}
+|-
+| <pre>hurricane_mk1c</pre> || {{Specs-Link|hurricane_mk1c}}
+|-
+| <pre>meteor_fmk3_navy</pre> || {{Specs-Link|meteor_fmk3_navy}}
+|-
+| <pre>sea_venom_faw20</pre> || {{Specs-Link|sea_venom_faw20}}
+|-
+| <pre>dh_110_sea_vixen</pre> || {{Specs-Link|dh_110_sea_vixen}}
+|-
+| <pre>seafire_mk17</pre> || {{Specs-Link|seafire_mk17}}
+|-
+| <pre>seafire_fr47</pre> || {{Specs-Link|seafire_fr47}}
+|-
+| <pre>seafire_mk3</pre> || {{Specs-Link|seafire_mk3}}
+|-
+| <pre>shackleton_mr_mk_2</pre> || {{Specs-Link|shackleton_mr_mk_2}}
+|-
+| <pre>spitfire_f22</pre> || {{Specs-Link|spitfire_f22}}
+|-
+| <pre>spitfire_f24</pre> || {{Specs-Link|spitfire_f24}}
+|-
+| <pre>spitfire_ix_early</pre> || {{Specs-Link|spitfire_ix_early}}
+|-
+| <pre>spitfire_mk9c_4cannons</pre> || {{Specs-Link|spitfire_mk9c_4cannons}}
+|-
+| <pre>spitfire_mk14c</pre> || {{Specs-Link|spitfire_mk14c}}
+|-
+| <pre>spitfire_mk14e</pre> || {{Specs-Link|spitfire_mk14e}}
+|-
+| <pre>spitfire_xvi</pre> || {{Specs-Link|spitfire_xvi}}
+|-
+| <pre>spitfire_mk18e</pre> || {{Specs-Link|spitfire_mk18e}}
+|-
+| <pre>spitfire_fr_mk14e</pre> || {{Specs-Link|spitfire_fr_mk14e}}
+|-
+| <pre>spitfire_ix</pre> || {{Specs-Link|spitfire_ix}}
+|-
+| <pre>spitfire_mk1</pre> || {{Specs-Link|spitfire_mk1}}
+|-
+| <pre>spitfiremkiia</pre> || {{Specs-Link|spitfiremkiia}}
+|-
+| <pre>spitfiremkii</pre> || {{Specs-Link|spitfiremkii}}
+|-
+| <pre>spitfire_mk5b_notrop</pre> || {{Specs-Link|spitfire_mk5b_notrop}}
+|-
+| <pre>spitfire_mk5b</pre> || {{Specs-Link|spitfire_mk5b}}
+|-
+| <pre>spitfire_mk5c_notrop</pre> || {{Specs-Link|spitfire_mk5c_notrop}}
+|-
+| <pre>spitfire_mk5c</pre> || {{Specs-Link|spitfire_mk5c}}
+|-
+| <pre>spitfiremkiia_ep</pre> || {{Specs-Link|spitfiremkiia_ep}}
+|-
+| <pre>stirling_mk1</pre> || {{Specs-Link|stirling_mk1}}
+|-
+| <pre>stirling_mk3</pre> || {{Specs-Link|stirling_mk3}}
+|-
+| <pre>sunderland_mk3a</pre> || {{Specs-Link|sunderland_mk3a}}
+|-
+| <pre>sunderland_mk5</pre> || {{Specs-Link|sunderland_mk5}}
+|-
+| <pre>swift_f1</pre> || {{Specs-Link|swift_f1}}
+|-
+| <pre>swift_f7</pre> || {{Specs-Link|swift_f7}}
+|-
+| <pre>swordfish_mk1</pre> || {{Specs-Link|swordfish_mk1}}
+|-
+| <pre>swordfish_mk2</pre> || {{Specs-Link|swordfish_mk2}}
+|-
+| <pre>tempest_mk2</pre> || {{Specs-Link|tempest_mk2}}
+|-
+| <pre>tempest_mkv</pre> || {{Specs-Link|tempest_mkv}}
+|-
+| <pre>tempest_mkv_vikkers</pre> || {{Specs-Link|tempest_mkv_vikkers}}
+|-
+| <pre>tornado_f3</pre> || {{Specs-Link|tornado_f3}}
+|-
+| <pre>tornado_gr1</pre> || {{Specs-Link|tornado_gr1}}
+|-
+| <pre>gladiator_mk2_tuck</pre> || {{Specs-Link|gladiator_mk2_tuck}}
+|-
+| <pre>typhoon_mk1a</pre> || {{Specs-Link|typhoon_mk1a}}
+|-
+| <pre>typhoon_mk1b</pre> || {{Specs-Link|typhoon_mk1b}}
+|-
+| <pre>typhoon_mk1b_late</pre> || {{Specs-Link|typhoon_mk1b_late}}
+|-
+| <pre>v_156_b1</pre> || {{Specs-Link|v_156_b1}}
+|-
+| <pre>vampire_fb5</pre> || {{Specs-Link|vampire_fb5}}
+|-
+| <pre>venom_fb4</pre> || {{Specs-Link|venom_fb4}}
+|-
+| <pre>walrus_mk1</pre> || {{Specs-Link|walrus_mk1}}
+|-
+| <pre>wellington_mk1c</pre> || {{Specs-Link|wellington_mk1c}}
+|-
+| <pre>wellington_mk1c_late</pre> || {{Specs-Link|wellington_mk1c_late}}
+|-
+| <pre>wellington_mk3</pre> || {{Specs-Link|wellington_mk3}}
+|-
+| <pre>wellington_mk10</pre> || {{Specs-Link|wellington_mk10}}
+|-
+| <pre>whirlwind_mk1</pre> || {{Specs-Link|whirlwind_mk1}}
+|-
+| <pre>whirlwind_p9</pre> || {{Specs-Link|whirlwind_p9}}
+|-
+| <pre>wyvern_s4</pre> || {{Specs-Link|wyvern_s4}}
+|}
+
+----
+==== Japan ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>b-17e_japan</pre> || {{Specs-Link|b-17e_japan}}
+|-
+| <pre>bf-109e-3_japan</pre> || {{Specs-Link|bf-109e-3_japan}}
+|-
+| <pre>f4u-1a_japan</pre> || {{Specs-Link|f4u-1a_japan}}
+|-
+| <pre>fw-190a-5_japan</pre> || {{Specs-Link|fw-190a-5_japan}}
+|-
+| <pre>p-51c-11-nt_japan</pre> || {{Specs-Link|p-51c-11-nt_japan}}
+|-
+| <pre>a5m4</pre> || {{Specs-Link|a5m4}}
+|-
+| <pre>a6m2_zero</pre> || {{Specs-Link|a6m2_zero}}
+|-
+| <pre>a6m2_mod11</pre> || {{Specs-Link|a6m2_mod11}}
+|-
+| <pre>a6m2_n_zero</pre> || {{Specs-Link|a6m2_n_zero}}
+|-
+| <pre>a6m3_zero</pre> || {{Specs-Link|a6m3_zero}}
+|-
+| <pre>a6m3_mod22_zero</pre> || {{Specs-Link|a6m3_mod22_zero}}
+|-
+| <pre>a6m3_mod22ko_zero</pre> || {{Specs-Link|a6m3_mod22ko_zero}}
+|-
+| <pre>a6m5_zero</pre> || {{Specs-Link|a6m5_zero}}
+|-
+| <pre>a6m5hei</pre> || {{Specs-Link|a6m5hei}}
+|-
+| <pre>a6m5ko</pre> || {{Specs-Link|a6m5ko}}
+|-
+| <pre>a6m5otsu</pre> || {{Specs-Link|a6m5otsu}}
+|-
+| <pre>a6m6c</pre> || {{Specs-Link|a6m6c}}
+|-
+| <pre>a7he1</pre> || {{Specs-Link|a7he1}}
+|-
+| <pre>a7m1</pre> || {{Specs-Link|a7m1}}
+|-
+| <pre>a7m2</pre> || {{Specs-Link|a7m2}}
+|-
+| <pre>aichi_e13a</pre> || {{Specs-Link|aichi_e13a}}
+|-
+| <pre>b5n2</pre> || {{Specs-Link|b5n2}}
+|-
+| <pre>b6n1</pre> || {{Specs-Link|b6n1}}
+|-
+| <pre>b6n2</pre> || {{Specs-Link|b6n2}}
+|-
+| <pre>b6n2a</pre> || {{Specs-Link|b6n2a}}
+|-
+| <pre>b7a2</pre> || {{Specs-Link|b7a2}}
+|-
+| <pre>d3a1</pre> || {{Specs-Link|d3a1}}
+|-
+| <pre>d4y1</pre> || {{Specs-Link|d4y1}}
+|-
+| <pre>d4y2</pre> || {{Specs-Link|d4y2}}
+|-
+| <pre>d4y3</pre> || {{Specs-Link|d4y3}}
+|-
+| <pre>e7k2</pre> || {{Specs-Link|e7k2}}
+|-
+| <pre>e8n2</pre> || {{Specs-Link|e8n2}}
+|-
+| <pre>f1</pre> || {{Specs-Link|f1}}
+|-
+| <pre>f-104j</pre> || {{Specs-Link|f-104j}}
+|-
+| <pre>f_16aj</pre> || {{Specs-Link|f_16aj}}
+|-
+| <pre>f-4ej_adtw</pre> || {{Specs-Link|f-4ej_adtw}}
+|-
+| <pre>f-4ej_kai</pre> || {{Specs-Link|f-4ej_kai}}
+|-
+| <pre>f-4ej</pre> || {{Specs-Link|f-4ej}}
+|-
+| <pre>f-86f-30_japan</pre> || {{Specs-Link|f-86f-30_japan}}
+|-
+| <pre>f-86f-40_japan</pre> || {{Specs-Link|f-86f-40_japan}}
+|-
+| <pre>f-86f-40_japan_blue_impulse</pre> || {{Specs-Link|f-86f-40_japan_blue_impulse}}
+|-
+| <pre>f1m2</pre> || {{Specs-Link|f1m2}}
+|-
+| <pre>g4m1</pre> || {{Specs-Link|g4m1}}
+|-
+| <pre>g5n1</pre> || {{Specs-Link|g5n1}}
+|-
+| <pre>g8n1</pre> || {{Specs-Link|g8n1}}
+|-
+| <pre>h6k4</pre> || {{Specs-Link|h6k4}}
+|-
+| <pre>h8k2</pre> || {{Specs-Link|h8k2}}
+|-
+| <pre>h8k3</pre> || {{Specs-Link|h8k3}}
+|-
+| <pre>a5m4_hagiri</pre> || {{Specs-Link|a5m4_hagiri}}
+|-
+| <pre>j1n1_mod11_early</pre> || {{Specs-Link|j1n1_mod11_early}}
+|-
+| <pre>j2m2</pre> || {{Specs-Link|j2m2}}
+|-
+| <pre>j2m3</pre> || {{Specs-Link|j2m3}}
+|-
+| <pre>j2m4_kai</pre> || {{Specs-Link|j2m4_kai}}
+|-
+| <pre>j2m5</pre> || {{Specs-Link|j2m5}}
+|-
+| <pre>j2m5_30mm</pre> || {{Specs-Link|j2m5_30mm}}
+|-
+| <pre>j5n1</pre> || {{Specs-Link|j5n1}}
+|-
+| <pre>j6k1</pre> || {{Specs-Link|j6k1}}
+|-
+| <pre>j7w1</pre> || {{Specs-Link|j7w1}}
+|-
+| <pre>ki_10_1</pre> || {{Specs-Link|ki_10_1}}
+|-
+| <pre>ki_10_1_commander</pre> || {{Specs-Link|ki_10_1_commander}}
+|-
+| <pre>ki_10_2</pre> || {{Specs-Link|ki_10_2}}
+|-
+| <pre>ki_10_2_commander</pre> || {{Specs-Link|ki_10_2_commander}}
+|-
+| <pre>ki_100_early</pre> || {{Specs-Link|ki_100_early}}
+|-
+| <pre>ki_100_2</pre> || {{Specs-Link|ki_100_2}}
+|-
+| <pre>ki_102_otsu</pre> || {{Specs-Link|ki_102_otsu}}
+|-
+| <pre>ki_108</pre> || {{Specs-Link|ki_108}}
+|-
+| <pre>ki_109</pre> || {{Specs-Link|ki_109}}
+|-
+| <pre>j8m1</pre> || {{Specs-Link|j8m1}}
+|-
+| <pre>ki_21_1hei</pre> || {{Specs-Link|ki_21_1hei}}
+|-
+| <pre>ki_21_1ko</pre> || {{Specs-Link|ki_21_1ko}}
+|-
+| <pre>ki-27_otsu</pre> || {{Specs-Link|ki-27_otsu}}
+|-
+| <pre>ki-27_otsu_ep</pre> || {{Specs-Link|ki-27_otsu_ep}}
+|-
+| <pre>ki_32</pre> || {{Specs-Link|ki_32}}
+|-
+| <pre>ki_43_1</pre> || {{Specs-Link|ki_43_1}}
+|-
+| <pre>ki_43_2</pre> || {{Specs-Link|ki_43_2}}
+|-
+| <pre>ki_43_3_otsu</pre> || {{Specs-Link|ki_43_3_otsu}}
+|-
+| <pre>ki_44_1</pre> || {{Specs-Link|ki_44_1}}
+|-
+| <pre>ki_44_1_ep</pre> || {{Specs-Link|ki_44_1_ep}}
+|-
+| <pre>ki_44_2_hei</pre> || {{Specs-Link|ki_44_2_hei}}
+|-
+| <pre>ki_44_2_otsu</pre> || {{Specs-Link|ki_44_2_otsu}}
+|-
+| <pre>ki-45_hei</pre> || {{Specs-Link|ki-45_hei}}
+|-
+| <pre>ki-45_ko</pre> || {{Specs-Link|ki-45_ko}}
+|-
+| <pre>ki-45_otsu</pre> || {{Specs-Link|ki-45_otsu}}
+|-
+| <pre>ki-45_tei</pre> || {{Specs-Link|ki-45_tei}}
+|-
+| <pre>ki-49_1</pre> || {{Specs-Link|ki-49_1}}
+|-
+| <pre>ki-49_2a</pre> || {{Specs-Link|ki-49_2a}}
+|-
+| <pre>ki-49_2b</pre> || {{Specs-Link|ki-49_2b}}
+|-
+| <pre>ki-49_2b_late</pre> || {{Specs-Link|ki-49_2b_late}}
+|-
+| <pre>ki_61_1a_hei</pre> || {{Specs-Link|ki_61_1a_hei}}
+|-
+| <pre>ki_61_1a_hei_ep</pre> || {{Specs-Link|ki_61_1a_hei_ep}}
+|-
+| <pre>ki_61_1a_ko</pre> || {{Specs-Link|ki_61_1a_ko}}
+|-
+| <pre>ki_61_1a_otsu</pre> || {{Specs-Link|ki_61_1a_otsu}}
+|-
+| <pre>ki_61_1a_tei</pre> || {{Specs-Link|ki_61_1a_tei}}
+|-
+| <pre>ki_61_2_early</pre> || {{Specs-Link|ki_61_2_early}}
+|-
+| <pre>ki_67_1_ko</pre> || {{Specs-Link|ki_67_1_ko}}
+|-
+| <pre>ki_67_1_otsu</pre> || {{Specs-Link|ki_67_1_otsu}}
+|-
+| <pre>ki-83</pre> || {{Specs-Link|ki-83}}
+|-
+| <pre>ki_84_hei</pre> || {{Specs-Link|ki_84_hei}}
+|-
+| <pre>ki_84_ko</pre> || {{Specs-Link|ki_84_ko}}
+|-
+| <pre>ki_84_otsu</pre> || {{Specs-Link|ki_84_otsu}}
+|-
+| <pre>ki_87</pre> || {{Specs-Link|ki_87}}
+|-
+| <pre>ki_94_2</pre> || {{Specs-Link|ki_94_2}}
+|-
+| <pre>ki-96</pre> || {{Specs-Link|ki-96}}
+|-
+| <pre>kitsuka</pre> || {{Specs-Link|kitsuka}}
+|-
+| <pre>n1k1_kyuofu</pre> || {{Specs-Link|n1k1_kyuofu}}
+|-
+| <pre>n1k1_ja</pre> || {{Specs-Link|n1k1_ja}}
+|-
+| <pre>n1k2_j</pre> || {{Specs-Link|n1k2_j}}
+|-
+| <pre>n1k2_jko</pre> || {{Specs-Link|n1k2_jko}}
+|-
+| <pre>p1y1_mod11</pre> || {{Specs-Link|p1y1_mod11}}
+|-
+| <pre>r2y2_v1</pre> || {{Specs-Link|r2y2_v1}}
+|-
+| <pre>r2y2_v2</pre> || {{Specs-Link|r2y2_v2}}
+|-
+| <pre>r2y2_kai</pre> || {{Specs-Link|r2y2_kai}}
+|-
+| <pre>t2</pre> || {{Specs-Link|t2}}
+|-
+| <pre>t2_early</pre> || {{Specs-Link|t2_early}}
+|}
+
+----
+==== China ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>a6m2_zero_china</pre> || {{Specs-Link|a6m2_zero_china}}
+|-
+| <pre>b_25j_30_china</pre> || {{Specs-Link|b_25j_30_china}}
+|-
+| <pre>db_3a_china</pre> || {{Specs-Link|db_3a_china}}
+|-
+| <pre>f-100a_china</pre> || {{Specs-Link|f-100a_china}}
+|-
+| <pre>f-104a_china</pre> || {{Specs-Link|f-104a_china}}
+|-
+| <pre>f-104g_china</pre> || {{Specs-Link|f-104g_china}}
+|-
+| <pre>f_16a_block_20_mlu</pre> || {{Specs-Link|f_16a_block_20_mlu}}
+|-
+| <pre>f-5a_china</pre> || {{Specs-Link|f-5a_china}}
+|-
+| <pre>f-5e_aidc</pre> || {{Specs-Link|f-5e_aidc}}
+|-
+| <pre>f-84g_china</pre> || {{Specs-Link|f-84g_china}}
+|-
+| <pre>f-84g-31-re_china</pre> || {{Specs-Link|f-84g-31-re_china}}
+|-
+| <pre>f-86f-30_china</pre> || {{Specs-Link|f-86f-30_china}}
+|-
+| <pre>f-86f-40_china</pre> || {{Specs-Link|f-86f-40_china}}
+|-
+| <pre>gladiator_mk1_china</pre> || {{Specs-Link|gladiator_mk1_china}}
+|-
+| <pre>hs-123a-1_china</pre> || {{Specs-Link|hs-123a-1_china}}
+|-
+| <pre>i-153_m62_china</pre> || {{Specs-Link|i-153_m62_china}}
+|-
+| <pre>i-15bis_china</pre> || {{Specs-Link|i-15bis_china}}
+|-
+| <pre>i-16_chung_28</pre> || {{Specs-Link|i-16_chung_28}}
+|-
+| <pre>i-16_type10_china</pre> || {{Specs-Link|i-16_type10_china}}
+|-
+| <pre>i-16_type17_china</pre> || {{Specs-Link|i-16_type17_china}}
+|-
+| <pre>i-16_type5_1935_china</pre> || {{Specs-Link|i-16_type5_1935_china}}
+|-
+| <pre>il-10_1946_china</pre> || {{Specs-Link|il-10_1946_china}}
+|-
+| <pre>ki-27_otsu_china</pre> || {{Specs-Link|ki-27_otsu_china}}
+|-
+| <pre>ki_43_3_ko</pre> || {{Specs-Link|ki_43_3_ko}}
+|-
+| <pre>ki_44_2_hei_china</pre> || {{Specs-Link|ki_44_2_hei_china}}
+|-
+| <pre>ki-45_hei_tei_china</pre> || {{Specs-Link|ki-45_hei_tei_china}}
+|-
+| <pre>ki_61_1a_otsu_china</pre> || {{Specs-Link|ki_61_1a_otsu_china}}
+|-
+| <pre>ki_84_ko_china</pre> || {{Specs-Link|ki_84_ko_china}}
+|-
+| <pre>la-11_china</pre> || {{Specs-Link|la-11_china}}
+|-
+| <pre>la-9_china</pre> || {{Specs-Link|la-9_china}}
+|-
+| <pre>mig-9_china</pre> || {{Specs-Link|mig-9_china}}
+|-
+| <pre>mig-9_late_china</pre> || {{Specs-Link|mig-9_late_china}}
+|-
+| <pre>p-38l_1_china_rocaf</pre> || {{Specs-Link|p-38l_1_china_rocaf}}
+|-
+| <pre>p-40e_china</pre> || {{Specs-Link|p-40e_china}}
+|-
+| <pre>p-43a-1_china</pre> || {{Specs-Link|p-43a-1_china}}
+|-
+| <pre>p-47d_23_ra_china_rocaf</pre> || {{Specs-Link|p-47d_23_ra_china_rocaf}}
+|-
+| <pre>p-47d_30_china</pre> || {{Specs-Link|p-47d_30_china}}
+|-
+| <pre>p-51d-20_china</pre> || {{Specs-Link|p-51d-20_china}}
+|-
+| <pre>p-51k</pre> || {{Specs-Link|p-51k}}
+|-
+| <pre>p1y1_mod11_china</pre> || {{Specs-Link|p1y1_mod11_china}}
+|-
+| <pre>pb4y-2_china</pre> || {{Specs-Link|pb4y-2_china}}
+|-
+| <pre>sb_2m_103u_china</pre> || {{Specs-Link|sb_2m_103u_china}}
+|-
+| <pre>tu-2_postwar_china</pre> || {{Specs-Link|tu-2_postwar_china}}
+|-
+| <pre>tu_4_china</pre> || {{Specs-Link|tu_4_china}}
+|-
+| <pre>a_29_hudson</pre> || {{Specs-Link|a_29_hudson}}
+|-
+| <pre>a_5c</pre> || {{Specs-Link|a_5c}}
+|-
+| <pre>cw_21</pre> || {{Specs-Link|cw_21}}
+|-
+| <pre>il_28_china</pre> || {{Specs-Link|il_28_china}}
+|-
+| <pre>p-40c_china</pre> || {{Specs-Link|p-40c_china}}
+|-
+| <pre>hawk_iii</pre> || {{Specs-Link|hawk_iii}}
+|-
+| <pre>mig-15bis_nr23_china</pre> || {{Specs-Link|mig-15bis_nr23_china}}
+|-
+| <pre>mig-17_china</pre> || {{Specs-Link|mig-17_china}}
+|-
+| <pre>mig-19j_6a</pre> || {{Specs-Link|mig-19j_6a}}
+|-
+| <pre>j_7d</pre> || {{Specs-Link|j_7d}}
+|-
+| <pre>j_7e</pre> || {{Specs-Link|j_7e}}
+|-
+| <pre>j_7_mk2</pre> || {{Specs-Link|j_7_mk2}}
+|-
+| <pre>j_8b</pre> || {{Specs-Link|j_8b}}
+|-
+| <pre>j_8f</pre> || {{Specs-Link|j_8f}}
+|-
+| <pre>martin_139wc</pre> || {{Specs-Link|martin_139wc}}
+|-
+| <pre>mosquito_fb_mk26_china</pre> || {{Specs-Link|mosquito_fb_mk26_china}}
+|-
+| <pre>p-66</pre> || {{Specs-Link|p-66}}
+|-
+| <pre>q_5_early</pre> || {{Specs-Link|q_5_early}}
+|-
+| <pre>q_5a</pre> || {{Specs-Link|q_5a}}
+|-
+| <pre>q_5l</pre> || {{Specs-Link|q_5l}}
+|-
+| <pre>mig-17_f5</pre> || {{Specs-Link|mig-17_f5}}
+|-
+| <pre>v_11g</pre> || {{Specs-Link|v_11g}}
+|-
+| <pre>v_12d</pre> || {{Specs-Link|v_12d}}
+|}
+
+----
+==== Italy ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>sm_79_1936</pre> || {{Specs-Link|sm_79_1936}}
+|-
+| <pre>bf-109g-14as</pre> || {{Specs-Link|bf-109g-14as}}
+|-
+| <pre>f-104g_italy</pre> || {{Specs-Link|f-104g_italy}}
+|-
+| <pre>f-104s_cb</pre> || {{Specs-Link|f-104s_cb}}
+|-
+| <pre>f_16a_block_15_adf_italy</pre> || {{Specs-Link|f_16a_block_15_adf_italy}}
+|-
+| <pre>f-84f_italy</pre> || {{Specs-Link|f-84f_italy}}
+|-
+| <pre>f-84g_italy</pre> || {{Specs-Link|f-84g_italy}}
+|-
+| <pre>f-86k_late_italy</pre> || {{Specs-Link|f-86k_late_italy}}
+|-
+| <pre>ju-87d-3_italy</pre> || {{Specs-Link|ju-87d-3_italy}}
+|-
+| <pre>ju-87r-2_italy</pre> || {{Specs-Link|ju-87r-2_italy}}
+|-
+| <pre>p-47d_30_italy</pre> || {{Specs-Link|p-47d_30_italy}}
+|-
+| <pre>spitfire_mk5b_italy</pre> || {{Specs-Link|spitfire_mk5b_italy}}
+|-
+| <pre>tornado_ids_it_mod95</pre> || {{Specs-Link|tornado_ids_it_mod95}}
+|-
+| <pre>bf-109f-4_hungary</pre> || {{Specs-Link|bf-109f-4_hungary}}
+|-
+| <pre>bf-109g-2_hungary</pre> || {{Specs-Link|bf-109g-2_hungary}}
+|-
+| <pre>bf_110g_4_hungary</pre> || {{Specs-Link|bf_110g_4_hungary}}
+|-
+| <pre>ariete</pre> || {{Specs-Link|ariete}}
+|-
+| <pre>br_20_dr</pre> || {{Specs-Link|br_20_dr}}
+|-
+| <pre>br_20m_m1</pre> || {{Specs-Link|br_20m_m1}}
+|-
+| <pre>ba_65_k14_l</pre> || {{Specs-Link|ba_65_k14_l}}
+|-
+| <pre>breda_88</pre> || {{Specs-Link|breda_88}}
+|-
+| <pre>mc200_serie3_italy</pre> || {{Specs-Link|mc200_serie3_italy}}
+|-
+| <pre>mc200_serie7_italy</pre> || {{Specs-Link|mc200_serie7_italy}}
+|-
+| <pre>mc-202_italy</pre> || {{Specs-Link|mc-202_italy}}
+|-
+| <pre>mc-202_d</pre> || {{Specs-Link|mc-202_d}}
+|-
+| <pre>mc-202_ec</pre> || {{Specs-Link|mc-202_ec}}
+|-
+| <pre>mc-205_serie1</pre> || {{Specs-Link|mc-205_serie1}}
+|-
+| <pre>mc-205_serie3</pre> || {{Specs-Link|mc-205_serie3}}
+|-
+| <pre>mc-205_n2</pre> || {{Specs-Link|mc-205_n2}}
+|-
+| <pre>f-86_cl_13_mk4_italy</pre> || {{Specs-Link|f-86_cl_13_mk4_italy}}
+|-
+| <pre>cr_32</pre> || {{Specs-Link|cr_32}}
+|-
+| <pre>cr_32_bis</pre> || {{Specs-Link|cr_32_bis}}
+|-
+| <pre>cr_32_quater</pre> || {{Specs-Link|cr_32_quater}}
+|-
+| <pre>fiat_cr42_italy</pre> || {{Specs-Link|fiat_cr42_italy}}
+|-
+| <pre>f-104s</pre> || {{Specs-Link|f-104s}}
+|-
+| <pre>f-104s_asa</pre> || {{Specs-Link|f-104s_asa}}
+|-
+| <pre>fc_20_bis</pre> || {{Specs-Link|fc_20_bis}}
+|-
+| <pre>fiat_g50_seria7as_italy</pre> || {{Specs-Link|fiat_g50_seria7as_italy}}
+|-
+| <pre>fiat_g50_seria2_italy</pre> || {{Specs-Link|fiat_g50_seria2_italy}}
+|-
+| <pre>g_55_serie1</pre> || {{Specs-Link|g_55_serie1}}
+|-
+| <pre>g_55_serie1_ss0</pre> || {{Specs-Link|g_55_serie1_ss0}}
+|-
+| <pre>g_55s</pre> || {{Specs-Link|g_55s}}
+|-
+| <pre>g_56</pre> || {{Specs-Link|g_56}}
+|-
+| <pre>fiat_g91_ps</pre> || {{Specs-Link|fiat_g91_ps}}
+|-
+| <pre>fiat_g91_r1</pre> || {{Specs-Link|fiat_g91_r1}}
+|-
+| <pre>fiat_g91_r4</pre> || {{Specs-Link|fiat_g91_r4}}
+|-
+| <pre>fiat_g91_y</pre> || {{Specs-Link|fiat_g91_y}}
+|-
+| <pre>fiat_g91_ys</pre> || {{Specs-Link|fiat_g91_ys}}
+|-
+| <pre>he_112b_1_italy</pre> || {{Specs-Link|he_112b_1_italy}}
+|-
+| <pre>hs-129b-2_romania_italy</pre> || {{Specs-Link|hs-129b-2_romania_italy}}
+|-
+| <pre>iar_81c</pre> || {{Specs-Link|iar_81c}}
+|-
+| <pre>fiat_cr42_marcolin_italy</pre> || {{Specs-Link|fiat_cr42_marcolin_italy}}
+|-
+| <pre>p_108a_serie2</pre> || {{Specs-Link|p_108a_serie2}}
+|-
+| <pre>p_108b_serie1</pre> || {{Specs-Link|p_108b_serie1}}
+|-
+| <pre>p_108b_serie2</pre> || {{Specs-Link|p_108b_serie2}}
+|-
+| <pre>re_2000_ga</pre> || {{Specs-Link|re_2000_ga}}
+|-
+| <pre>re_2000_int</pre> || {{Specs-Link|re_2000_int}}
+|-
+| <pre>re_2001_cb</pre> || {{Specs-Link|re_2001_cb}}
+|-
+| <pre>re_2001_cn</pre> || {{Specs-Link|re_2001_cn}}
+|-
+| <pre>re_2001_serie1_ep</pre> || {{Specs-Link|re_2001_serie1_ep}}
+|-
+| <pre>re_2001_serie1</pre> || {{Specs-Link|re_2001_serie1}}
+|-
+| <pre>re_2002_early</pre> || {{Specs-Link|re_2002_early}}
+|-
+| <pre>re_2005_serie0</pre> || {{Specs-Link|re_2005_serie0}}
+|-
+| <pre>ro_43</pre> || {{Specs-Link|ro_43}}
+|-
+| <pre>ro_44</pre> || {{Specs-Link|ro_44}}
+|-
+| <pre>ro_57_quadriarma</pre> || {{Specs-Link|ro_57_quadriarma}}
+|-
+| <pre>s_81_ar125</pre> || {{Specs-Link|s_81_ar125}}
+|-
+| <pre>sm_79_1941_italy</pre> || {{Specs-Link|sm_79_1941_italy}}
+|-
+| <pre>sm_79_iar_italy</pre> || {{Specs-Link|sm_79_iar_italy}}
+|-
+| <pre>sm_79_1943_italy</pre> || {{Specs-Link|sm_79_1943_italy}}
+|-
+| <pre>sm_79_1936_italy</pre> || {{Specs-Link|sm_79_1936_italy}}
+|-
+| <pre>sm_79_1939_italy</pre> || {{Specs-Link|sm_79_1939_italy}}
+|-
+| <pre>sagittario_2</pre> || {{Specs-Link|sagittario_2}}
+|-
+| <pre>sm_91</pre> || {{Specs-Link|sm_91}}
+|-
+| <pre>sm_92</pre> || {{Specs-Link|sm_92}}
+|-
+| <pre>tornado_adv</pre> || {{Specs-Link|tornado_adv}}
+|-
+| <pre>vampire_fb52a_italy</pre> || {{Specs-Link|vampire_fb52a_italy}}
+|-
+| <pre>z_1007_bis_serie3</pre> || {{Specs-Link|z_1007_bis_serie3}}
+|-
+| <pre>z_1007_bis_serie5</pre> || {{Specs-Link|z_1007_bis_serie5}}
+|}
+
+----
+==== France ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>md_460_yt_cup_2019</pre> || {{Specs-Link|md_460_yt_cup_2019}}
+|-
+| <pre>a-35b</pre> || {{Specs-Link|a-35b}}
+|-
+| <pre>douglas_ad_4_france</pre> || {{Specs-Link|douglas_ad_4_france}}
+|-
+| <pre>douglas_ad_4na_france</pre> || {{Specs-Link|douglas_ad_4na_france}}
+|-
+| <pre>f-100d_france</pre> || {{Specs-Link|f-100d_france}}
+|-
+| <pre>f-84f_france</pre> || {{Specs-Link|f-84f_france}}
+|-
+| <pre>f-84g_france</pre> || {{Specs-Link|f-84g_france}}
+|-
+| <pre>f-86k_late</pre> || {{Specs-Link|f-86k_late}}
+|-
+| <pre>f-8e_fn</pre> || {{Specs-Link|f-8e_fn}}
+|-
+| <pre>f6f-5_france</pre> || {{Specs-Link|f6f-5_france}}
+|-
+| <pre>f6f-5n_france</pre> || {{Specs-Link|f6f-5n_france}}
+|-
+| <pre>f8f1b_france</pre> || {{Specs-Link|f8f1b_france}}
+|-
+| <pre>p-39q_25_france</pre> || {{Specs-Link|p-39q_25_france}}
+|-
+| <pre>p-40f-5_france_ep</pre> || {{Specs-Link|p-40f-5_france_ep}}
+|-
+| <pre>p-47d_22_re_france</pre> || {{Specs-Link|p-47d_22_re_france}}
+|-
+| <pre>p-63c-5_france</pre> || {{Specs-Link|p-63c-5_france}}
+|-
+| <pre>pb4y-2_france</pre> || {{Specs-Link|pb4y-2_france}}
+|-
+| <pre>pby-5a_late_france</pre> || {{Specs-Link|pby-5a_late_france}}
+|-
+| <pre>sb2c_5_france</pre> || {{Specs-Link|sb2c_5_france}}
+|-
+| <pre>seafire_mk3_france</pre> || {{Specs-Link|seafire_mk3_france}}
+|-
+| <pre>yak-3_france</pre> || {{Specs-Link|yak-3_france}}
+|-
+| <pre>b_26c_france</pre> || {{Specs-Link|b_26c_france}}
+|-
+| <pre>br_693_ab2</pre> || {{Specs-Link|br_693_ab2}}
+|-
+| <pre>caudron_cr714</pre> || {{Specs-Link|caudron_cr714}}
+|-
+| <pre>yak-9t_france</pre> || {{Specs-Link|yak-9t_france}}
+|-
+| <pre>d_371</pre> || {{Specs-Link|d_371}}
+|-
+| <pre>d_371_hs9</pre> || {{Specs-Link|d_371_hs9}}
+|-
+| <pre>d_373</pre> || {{Specs-Link|d_373}}
+|-
+| <pre>d_500</pre> || {{Specs-Link|d_500}}
+|-
+| <pre>d_501</pre> || {{Specs-Link|d_501}}
+|-
+| <pre>d_520_france</pre> || {{Specs-Link|d_520_france}}
+|-
+| <pre>etndard_4m</pre> || {{Specs-Link|etndard_4m}}
+|-
+| <pre>p-51c-10_france</pre> || {{Specs-Link|p-51c-10_france}}
+|-
+| <pre>f-84f_iaf</pre> || {{Specs-Link|f-84f_iaf}}
+|-
+| <pre>f_222_2</pre> || {{Specs-Link|f_222_2}}
+|-
+| <pre>f4u-7</pre> || {{Specs-Link|f4u-7}}
+|-
+| <pre>gl_832</pre> || {{Specs-Link|gl_832}}
+|-
+| <pre>h-75a-1_france</pre> || {{Specs-Link|h-75a-1_france}}
+|-
+| <pre>h-75a-4_france</pre> || {{Specs-Link|h-75a-4_france}}
+|-
+| <pre>jaguar_a</pre> || {{Specs-Link|jaguar_a}}
+|-
+| <pre>jaguar_e</pre> || {{Specs-Link|jaguar_e}}
+|-
+| <pre>lancaster_mr7_france</pre> || {{Specs-Link|lancaster_mr7_france}}
+|-
+| <pre>late_298d</pre> || {{Specs-Link|late_298d}}
+|-
+| <pre>leo_451_early</pre> || {{Specs-Link|leo_451_early}}
+|-
+| <pre>leo_451_late</pre> || {{Specs-Link|leo_451_late}}
+|-
+| <pre>mb_152c1</pre> || {{Specs-Link|mb_152c1}}
+|-
+| <pre>mb_157</pre> || {{Specs-Link|mb_157}}
+|-
+| <pre>mb_162</pre> || {{Specs-Link|mb_162}}
+|-
+| <pre>mb_174_a3</pre> || {{Specs-Link|mb_174_a3}}
+|-
+| <pre>mb_175t</pre> || {{Specs-Link|mb_175t}}
+|-
+| <pre>md_450b_barougan</pre> || {{Specs-Link|md_450b_barougan}}
+|-
+| <pre>md_450b_ouragan</pre> || {{Specs-Link|md_450b_ouragan}}
+|-
+| <pre>md_452_mystere_2a</pre> || {{Specs-Link|md_452_mystere_2a}}
+|-
+| <pre>md_452_mystere_2c_preproduction</pre> || {{Specs-Link|md_452_mystere_2c_preproduction}}
+|-
+| <pre>ms_405c1</pre> || {{Specs-Link|ms_405c1}}
+|-
+| <pre>ms_406c1</pre> || {{Specs-Link|ms_406c1}}
+|-
+| <pre>ms_410c1</pre> || {{Specs-Link|ms_410c1}}
+|-
+| <pre>maryland_mk1_france</pre> || {{Specs-Link|maryland_mk1_france}}
+|-
+| <pre>mirage_milan</pre> || {{Specs-Link|mirage_milan}}
+|-
+| <pre>mirage_2000_5f</pre> || {{Specs-Link|mirage_2000_5f}}
+|-
+| <pre>mirage_2000c_s5</pre> || {{Specs-Link|mirage_2000c_s5}}
+|-
+| <pre>mirage_2000d_r1</pre> || {{Specs-Link|mirage_2000d_r1}}
+|-
+| <pre>mirage_5f</pre> || {{Specs-Link|mirage_5f}}
+|-
+| <pre>mirage_f1c</pre> || {{Specs-Link|mirage_f1c}}
+|-
+| <pre>mirage_f1c_200</pre> || {{Specs-Link|mirage_f1c_200}}
+|-
+| <pre>mirage_f1ct</pre> || {{Specs-Link|mirage_f1ct}}
+|-
+| <pre>mirage_3c</pre> || {{Specs-Link|mirage_3c}}
+|-
+| <pre>mirage_3e</pre> || {{Specs-Link|mirage_3e}}
+|-
+| <pre>md_454_mystere_4a</pre> || {{Specs-Link|md_454_mystere_4a}}
+|-
+| <pre>nc_223_3</pre> || {{Specs-Link|nc_223_3}}
+|-
+| <pre>fw-190a-8_france</pre> || {{Specs-Link|fw-190a-8_france}}
+|-
+| <pre>d_510</pre> || {{Specs-Link|d_510}}
+|-
+| <pre>potez_630</pre> || {{Specs-Link|potez_630}}
+|-
+| <pre>potez_631</pre> || {{Specs-Link|potez_631}}
+|-
+| <pre>potez_633</pre> || {{Specs-Link|potez_633}}
+|-
+| <pre>so_4050_vautour_2a</pre> || {{Specs-Link|so_4050_vautour_2a}}
+|-
+| <pre>so_4050_vautour_2b</pre> || {{Specs-Link|so_4050_vautour_2b}}
+|-
+| <pre>so_4050_vautour_2n</pre> || {{Specs-Link|so_4050_vautour_2n}}
+|-
+| <pre>so_4050_vautour_2n_late</pre> || {{Specs-Link|so_4050_vautour_2n_late}}
+|-
+| <pre>so_8000_narval</pre> || {{Specs-Link|so_8000_narval}}
+|-
+| <pre>md_460</pre> || {{Specs-Link|md_460}}
+|-
+| <pre>v_156_f</pre> || {{Specs-Link|v_156_f}}
+|-
+| <pre>vg_33</pre> || {{Specs-Link|vg_33}}
+|-
+| <pre>so_4050_vautour_2a_iaf</pre> || {{Specs-Link|so_4050_vautour_2a_iaf}}
+|-
+| <pre>vb_10_02</pre> || {{Specs-Link|vb_10_02}}
+|-
+| <pre>vb_10c1</pre> || {{Specs-Link|vb_10c1}}
+|}
+
+----
+==== Sweden ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>arado-196a-5</pre> || {{Specs-Link|arado-196a-5}}
+|-
+| <pre>b_239_finland</pre> || {{Specs-Link|b_239_finland}}
+|-
+| <pre>bf-109g-2_finland</pre> || {{Specs-Link|bf-109g-2_finland}}
+|-
+| <pre>bf-109g-6_finland</pre> || {{Specs-Link|bf-109g-6_finland}}
+|-
+| <pre>bf-109g-6_erla_finland</pre> || {{Specs-Link|bf-109g-6_erla_finland}}
+|-
+| <pre>fokker_d21_mod20</pre> || {{Specs-Link|fokker_d21_mod20}}
+|-
+| <pre>fokker_d21_serie3_finland</pre> || {{Specs-Link|fokker_d21_serie3_finland}}
+|-
+| <pre>hurricane_mk1_late_finland</pre> || {{Specs-Link|hurricane_mk1_late_finland}}
+|-
+| <pre>ju-88a-4_finland</pre> || {{Specs-Link|ju-88a-4_finland}}
+|-
+| <pre>mig_21_bis_finland</pre> || {{Specs-Link|mig_21_bis_finland}}
+|-
+| <pre>vampire_fb52_finland</pre> || {{Specs-Link|vampire_fb52_finland}}
+|-
+| <pre>saab_a21a_3</pre> || {{Specs-Link|saab_a21a_3}}
+|-
+| <pre>saab_a21rb</pre> || {{Specs-Link|saab_a21rb}}
+|-
+| <pre>vampire_fb5_j28b</pre> || {{Specs-Link|vampire_fb5_j28b}}
+|-
+| <pre>saab_j29b</pre> || {{Specs-Link|saab_j29b}}
+|-
+| <pre>saab_a32a</pre> || {{Specs-Link|saab_a32a}}
+|-
+| <pre>saab_aj37</pre> || {{Specs-Link|saab_aj37}}
+|-
+| <pre>saab_ajs37</pre> || {{Specs-Link|saab_ajs37}}
+|-
+| <pre>saab_b17a</pre> || {{Specs-Link|saab_b17a}}
+|-
+| <pre>saab_b17b</pre> || {{Specs-Link|saab_b17b}}
+|-
+| <pre>saab_b18a</pre> || {{Specs-Link|saab_b18a}}
+|-
+| <pre>saab_b18b</pre> || {{Specs-Link|saab_b18b}}
+|-
+| <pre>saab_b3c</pre> || {{Specs-Link|saab_b3c}}
+|-
+| <pre>gladiator_j8a_iacobi</pre> || {{Specs-Link|gladiator_j8a_iacobi}}
+|-
+| <pre>fiat_cr42_j11</pre> || {{Specs-Link|fiat_cr42_j11}}
+|-
+| <pre>re_2000_j20</pre> || {{Specs-Link|re_2000_j20}}
+|-
+| <pre>saab_j21a_1</pre> || {{Specs-Link|saab_j21a_1}}
+|-
+| <pre>saab_j21a_2</pre> || {{Specs-Link|saab_j21a_2}}
+|-
+| <pre>saab_j21ra</pre> || {{Specs-Link|saab_j21ra}}
+|-
+| <pre>ffvs_j22_a</pre> || {{Specs-Link|ffvs_j22_a}}
+|-
+| <pre>ffvs_j22_b</pre> || {{Specs-Link|ffvs_j22_b}}
+|-
+| <pre>p-51d-20-na_j26</pre> || {{Specs-Link|p-51d-20-na_j26}}
+|-
+| <pre>p-51b_7_sweden</pre> || {{Specs-Link|p-51b_7_sweden}}
+|-
+| <pre>saab_j29a</pre> || {{Specs-Link|saab_j29a}}
+|-
+| <pre>saab_j29d</pre> || {{Specs-Link|saab_j29d}}
+|-
+| <pre>saab_j29f</pre> || {{Specs-Link|saab_j29f}}
+|-
+| <pre>saab_j32b</pre> || {{Specs-Link|saab_j32b}}
+|-
+| <pre>hunter_f50_sweden</pre> || {{Specs-Link|hunter_f50_sweden}}
+|-
+| <pre>saab_j35a</pre> || {{Specs-Link|saab_j35a}}
+|-
+| <pre>saab_j35d</pre> || {{Specs-Link|saab_j35d}}
+|-
+| <pre>j6b</pre> || {{Specs-Link|j6b}}
+|-
+| <pre>gladiator_j8a</pre> || {{Specs-Link|gladiator_j8a}}
+|-
+| <pre>saab_ja37</pre> || {{Specs-Link|saab_ja37}}
+|-
+| <pre>saab_ja37d</pre> || {{Specs-Link|saab_ja37d}}
+|-
+| <pre>morko_morane</pre> || {{Specs-Link|morko_morane}}
+|-
+| <pre>saab_b17bs</pre> || {{Specs-Link|saab_b17bs}}
+|-
+| <pre>saab_j35xs</pre> || {{Specs-Link|saab_j35xs}}
+|-
+| <pre>saab_105g</pre> || {{Specs-Link|saab_105g}}
+|-
+| <pre>saab_105oe</pre> || {{Specs-Link|saab_105oe}}
+|-
+| <pre>saab_sk60b</pre> || {{Specs-Link|saab_sk60b}}
+|-
+| <pre>saab_t18b_1</pre> || {{Specs-Link|saab_t18b_1}}
+|-
+| <pre>saab_t18b_2</pre> || {{Specs-Link|saab_t18b_2}}
+|-
+| <pre>vl_myrsky_2_late</pre> || {{Specs-Link|vl_myrsky_2_late}}
+|-
+| <pre>pyorremyrsky</pre> || {{Specs-Link|pyorremyrsky}}
+|}
+
+----
+==== Israel ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>a_4n</pre> || {{Specs-Link|a_4n}}
+|-
+| <pre>kfir_c2</pre> || {{Specs-Link|kfir_c2}}
+|-
+| <pre>kfir_c7</pre> || {{Specs-Link|kfir_c7}}
+|-
+| <pre>kfir_canard</pre> || {{Specs-Link|kfir_canard}}
+|-
+| <pre>f-4e_iaf</pre> || {{Specs-Link|f-4e_iaf}}
+|-
+| <pre>f-4e_kurnass_2000</pre> || {{Specs-Link|f-4e_kurnass_2000}}
+|-
+| <pre>nesher</pre> || {{Specs-Link|nesher}}
+|-
+| <pre>f_16a_block_10_iaf</pre> || {{Specs-Link|f_16a_block_10_iaf}}
+|-
+| <pre>md_460_saar</pre> || {{Specs-Link|md_460_saar}}
+|-
+| <pre>s_199</pre> || {{Specs-Link|s_199}}
+|-
+| <pre>md_460_sambad</pre> || {{Specs-Link|md_460_sambad}}
+|-
+| <pre>mirage_3cj</pre> || {{Specs-Link|mirage_3cj}}
+|-
+| <pre>a_4e_late_iaf</pre> || {{Specs-Link|a_4e_late_iaf}}
+|-
+| <pre>a_4e_early_iaf</pre> || {{Specs-Link|a_4e_early_iaf}}
+|-
+| <pre>a_4h</pre> || {{Specs-Link|a_4h}}
+|-
+| <pre>b-17g_iaf</pre> || {{Specs-Link|b-17g_iaf}}
+|-
+| <pre>f-84f_israel_iaf</pre> || {{Specs-Link|f-84f_israel_iaf}}
+|-
+| <pre>md_450b_ouragan_iaf</pre> || {{Specs-Link|md_450b_ouragan_iaf}}
+|-
+| <pre>meteor_fmk8_iaf</pre> || {{Specs-Link|meteor_fmk8_iaf}}
+|-
+| <pre>meteor_nfmk13</pre> || {{Specs-Link|meteor_nfmk13}}
+|-
+| <pre>md_454_mystere_4a_iaf</pre> || {{Specs-Link|md_454_mystere_4a_iaf}}
+|-
+| <pre>p-51d-20-na_iaf</pre> || {{Specs-Link|p-51d-20-na_iaf}}
+|-
+| <pre>spitfire_lf_mk9e_weisman</pre> || {{Specs-Link|spitfire_lf_mk9e_weisman}}
+|-
+| <pre>spitfire_mk9c_iaf</pre> || {{Specs-Link|spitfire_mk9c_iaf}}
+|-
+| <pre>spitfire_lf_mk9e_iaf</pre> || {{Specs-Link|spitfire_lf_mk9e_iaf}}
+|-
+| <pre>so_4050_vautour_2a_israel_iaf</pre> || {{Specs-Link|so_4050_vautour_2a_israel_iaf}}
+|-
+| <pre>so_4050_vautour_2n_iaf</pre> || {{Specs-Link|so_4050_vautour_2n_iaf}}
+|}
+
+----
+==== Special ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>a6m5_zero_china</pre> || ␗A6M5
+|-
+| <pre>b_25j_30</pre> || B-25J-30
+|-
+| <pre>c-47</pre> || C-47
+|-
+| <pre>d_510c</pre> || D.510C
+|-
+| <pre>fw-190a-5_cannons_tutorial</pre> || Fw 190 A-5
+|-
+| <pre>ju-52</pre> || Ju 52
+|-
+| <pre>li-2</pre> || Li-2
+|-
+| <pre>mig-15bis_ns23</pre> || MiG-15bis NS-23
+|-
+| <pre>pe-2-359_china</pre> || Pe-2-359
+|-
+| <pre>re_2000_ga_ep</pre> || Re.2000 G.A. Red 5
+|-
+| <pre>spitfire_ix_tutorial</pre> || Spitfire LF Mk IX
+|-
+| <pre>uav_quadcopter</pre> || UAV Raven's Eye
+|-
+| <pre>fau-1</pre> || V-1
+|}
+
+
+=== Helicopters ===
+----
+==== USA ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ah_64a_peten</pre> || {{Specs-Link|ah_64a_peten}}
+|-
+| <pre>ah_1f</pre> || {{Specs-Link|ah_1f}}
+|-
+| <pre>ah_1g</pre> || {{Specs-Link|ah_1g}}
+|-
+| <pre>ah_1z</pre> || {{Specs-Link|ah_1z}}
+|-
+| <pre>ah_64a</pre> || {{Specs-Link|ah_64a}}
+|-
+| <pre>ah_64a_greece_usa</pre> || {{Specs-Link|ah_64a_greece_usa}}
+|-
+| <pre>ah_64d</pre> || {{Specs-Link|ah_64d}}
+|-
+| <pre>ah_6m</pre> || {{Specs-Link|ah_6m}}
+|-
+| <pre>h_34</pre> || {{Specs-Link|h_34}}
+|-
+| <pre>uh_1b</pre> || {{Specs-Link|uh_1b}}
+|-
+| <pre>uh_1c</pre> || {{Specs-Link|uh_1c}}
+|-
+| <pre>uh_1c_xm_30</pre> || {{Specs-Link|uh_1c_xm_30}}
+|-
+| <pre>yah_64</pre> || {{Specs-Link|yah_64}}
+|}
+
+----
+==== Germany ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>mi_24p_german_hfs80</pre> || {{Specs-Link|mi_24p_german_hfs80}}
+|-
+| <pre>sa_313b</pre> || {{Specs-Link|sa_313b}}
+|-
+| <pre>uh_1d</pre> || {{Specs-Link|uh_1d}}
+|-
+| <pre>mi_24p_german</pre> || {{Specs-Link|mi_24p_german}}
+|-
+| <pre>bo_105cb2</pre> || {{Specs-Link|bo_105cb2}}
+|-
+| <pre>bo_105pah1</pre> || {{Specs-Link|bo_105pah1}}
+|-
+| <pre>bo_105pah1_a1</pre> || {{Specs-Link|bo_105pah1_a1}}
+|-
+| <pre>tiger_uht</pre> || {{Specs-Link|tiger_uht}}
+|}
+
+----
+==== USSR ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>mi_24d</pre> || {{Specs-Link|mi_24d}}
+|-
+| <pre>ka_29</pre> || {{Specs-Link|ka_29}}
+|-
+| <pre>ka_50</pre> || {{Specs-Link|ka_50}}
+|-
+| <pre>ka_52</pre> || {{Specs-Link|ka_52}}
+|-
+| <pre>mi_24a</pre> || {{Specs-Link|mi_24a}}
+|-
+| <pre>mi_24p</pre> || {{Specs-Link|mi_24p}}
+|-
+| <pre>mi_24v</pre> || {{Specs-Link|mi_24v}}
+|-
+| <pre>mi_28n</pre> || {{Specs-Link|mi_28n}}
+|-
+| <pre>mi_28nm</pre> || {{Specs-Link|mi_28nm}}
+|-
+| <pre>mi_35m</pre> || {{Specs-Link|mi_35m}}
+|-
+| <pre>mi_4av</pre> || {{Specs-Link|mi_4av}}
+|}
+
+----
+==== Great Britain ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ah_mk1</pre> || {{Specs-Link|ah_mk1}}
+|-
+| <pre>g_lynx</pre> || {{Specs-Link|g_lynx}}
+|-
+| <pre>lynx_ah_mk1</pre> || {{Specs-Link|lynx_ah_mk1}}
+|-
+| <pre>ah_2_rooivalk</pre> || {{Specs-Link|ah_2_rooivalk}}
+|-
+| <pre>scout_ah_mk1</pre> || {{Specs-Link|scout_ah_mk1}}
+|-
+| <pre>wasp_has_mk1</pre> || {{Specs-Link|wasp_has_mk1}}
+|}
+
+----
+==== Japan ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ah_1s_early</pre> || {{Specs-Link|ah_1s_early}}
+|-
+| <pre>uh_1b_japan</pre> || {{Specs-Link|uh_1b_japan}}
+|-
+| <pre>ah_1s_late</pre> || {{Specs-Link|ah_1s_late}}
+|-
+| <pre>ah_1s</pre> || {{Specs-Link|ah_1s}}
+|-
+| <pre>ah_64d_japan</pre> || {{Specs-Link|ah_64d_japan}}
+|}
+
+----
+==== China ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>sa_342l_china</pre> || {{Specs-Link|sa_342l_china}}
+|-
+| <pre>z_10</pre> || {{Specs-Link|z_10}}
+|-
+| <pre>z_11wa</pre> || {{Specs-Link|z_11wa}}
+|-
+| <pre>z_19</pre> || {{Specs-Link|z_19}}
+|-
+| <pre>z_19e</pre> || {{Specs-Link|z_19e}}
+|-
+| <pre>z_9w</pre> || {{Specs-Link|z_9w}}
+|-
+| <pre>z_9wa</pre> || {{Specs-Link|z_9wa}}
+|}
+
+----
+==== Italy ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>a_129_a</pre> || {{Specs-Link|a_129_a}}
+|-
+| <pre>a_109_eoa2</pre> || {{Specs-Link|a_109_eoa2}}
+|-
+| <pre>a_129_cbt</pre> || {{Specs-Link|a_129_cbt}}
+|-
+| <pre>ab_205a_1</pre> || {{Specs-Link|ab_205a_1}}
+|-
+| <pre>t_129_atak</pre> || {{Specs-Link|t_129_atak}}
+|}
+
+----
+==== France ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>h_34_france</pre> || {{Specs-Link|h_34_france}}
+|-
+| <pre>tiger_had_france</pre> || {{Specs-Link|tiger_had_france}}
+|-
+| <pre>tiger_hap_france</pre> || {{Specs-Link|tiger_hap_france}}
+|-
+| <pre>iar_316b</pre> || {{Specs-Link|iar_316b}}
+|-
+| <pre>sa_313b_france</pre> || {{Specs-Link|sa_313b_france}}
+|-
+| <pre>sa_316b</pre> || {{Specs-Link|sa_316b}}
+|-
+| <pre>sa_341f</pre> || {{Specs-Link|sa_341f}}
+|-
+| <pre>sa_342m</pre> || {{Specs-Link|sa_342m}}
+|}
+
+----
+==== Sweden ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ahs</pre> || {{Specs-Link|ahs}}
+|-
+| <pre>hkp2</pre> || {{Specs-Link|hkp2}}
+|-
+| <pre>hkp3c</pre> || {{Specs-Link|hkp3c}}
+|-
+| <pre>hkp9a_cb2</pre> || {{Specs-Link|hkp9a_cb2}}
+|-
+| <pre>hkp9a_cb3_fc</pre> || {{Specs-Link|hkp9a_cb3_fc}}
+|-
+| <pre>mi_28a_sweden</pre> || {{Specs-Link|mi_28a_sweden}}
+|}
+
+----
+==== Israel ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>md_500_tow_late</pre> || {{Specs-Link|md_500_tow_late}}
+|-
+| <pre>ah_64a_iaf</pre> || {{Specs-Link|ah_64a_iaf}}
+|-
+| <pre>ah_64d_i_saraph</pre> || {{Specs-Link|ah_64d_i_saraph}}
+|-
+| <pre>ah_1g_iaf</pre> || {{Specs-Link|ah_1g_iaf}}
+|-
+| <pre>ah_1q_iaf</pre> || {{Specs-Link|ah_1q_iaf}}
+|-
+| <pre>ah_1f_iaf</pre> || {{Specs-Link|ah_1f_iaf}}
+|-
+| <pre>ah_64a_peten_iaf</pre> || {{Specs-Link|ah_64a_peten_iaf}}
+|}
+
+
+=== Ground vehicles ===
+----
+==== USA ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>us_m1a1_abrams_yt_cup_2019</pre> || {{Specs-Link|us_m1a1_abrams_yt_cup_2019}}
+|-
+| <pre>us_mk1_grant</pre> || {{Specs-Link|us_mk1_grant}}
+|-
+| <pre>us_lvt_4_zis_2</pre> || {{Specs-Link|us_lvt_4_zis_2}}
+|-
+| <pre>us_magach_3</pre> || {{Specs-Link|us_magach_3}}
+|-
+| <pre>us_merkava_mk_1</pre> || {{Specs-Link|us_merkava_mk_1}}
+|-
+| <pre>us_merkava_mk_2b_late</pre> || {{Specs-Link|us_merkava_mk_2b_late}}
+|-
+| <pre>us_merkava_mk_3d</pre> || {{Specs-Link|us_merkava_mk_3d}}
+|-
+| <pre>us_m5a1_stuart_canadian_5st_arm</pre> || {{Specs-Link|us_m5a1_stuart_canadian_5st_arm}}
+|-
+| <pre>us_lvt_a_1_trb</pre> || {{Specs-Link|us_lvt_a_1_trb}}
+|-
+| <pre>us_adats_bradley</pre> || {{Specs-Link|us_adats_bradley}}
+|-
+| <pre>us_ags_teledyne</pre> || {{Specs-Link|us_ags_teledyne}}
+|-
+| <pre>us_m4_sherman_calliope</pre> || {{Specs-Link|us_m4_sherman_calliope}}
+|-
+| <pre>us_ccvl</pre> || {{Specs-Link|us_ccvl}}
+|-
+| <pre>us_m4a3e2_sherman_jumbo_cobra_king</pre> || {{Specs-Link|us_m4a3e2_sherman_jumbo_cobra_king}}
+|-
+| <pre>us_hstv_l</pre> || {{Specs-Link|us_hstv_l}}
+|-
+| <pre>us_m1_ip_abrams</pre> || {{Specs-Link|us_m1_ip_abrams}}
+|-
+| <pre>us_lav_ad</pre> || {{Specs-Link|us_lav_ad}}
+|-
+| <pre>us_lvt_a_1</pre> || {{Specs-Link|us_lvt_a_1}}
+|-
+| <pre>us_lvt_a_4</pre> || {{Specs-Link|us_lvt_a_4}}
+|-
+| <pre>us_m1_abrams</pre> || {{Specs-Link|us_m1_abrams}}
+|-
+| <pre>us_m1_abrams_kvt</pre> || {{Specs-Link|us_m1_abrams_kvt}}
+|-
+| <pre>us_m10</pre> || {{Specs-Link|us_m10}}
+|-
+| <pre>us_m103</pre> || {{Specs-Link|us_m103}}
+|-
+| <pre>us_m1128_mgs</pre> || {{Specs-Link|us_m1128_mgs}}
+|-
+| <pre>us_m1128_wolfpack</pre> || {{Specs-Link|us_m1128_wolfpack}}
+|-
+| <pre>us_halftrack_m13</pre> || {{Specs-Link|us_halftrack_m13}}
+|-
+| <pre>us_halftrack_m15</pre> || {{Specs-Link|us_halftrack_m15}}
+|-
+| <pre>us_halftrack_m16</pre> || {{Specs-Link|us_halftrack_m16}}
+|-
+| <pre>us_m163_vulcan</pre> || {{Specs-Link|us_m163_vulcan}}
+|-
+| <pre>us_m18_hellcat_black_cat</pre> || {{Specs-Link|us_m18_hellcat_black_cat}}
+|-
+| <pre>us_m18_hellcat</pre> || {{Specs-Link|us_m18_hellcat}}
+|-
+| <pre>us_m19</pre> || {{Specs-Link|us_m19}}
+|-
+| <pre>us_m1a1_abrams</pre> || {{Specs-Link|us_m1a1_abrams}}
+|-
+| <pre>us_m1a1_aim_abrams</pre> || {{Specs-Link|us_m1a1_aim_abrams}}
+|-
+| <pre>us_m1a1_hc_abrams</pre> || {{Specs-Link|us_m1a1_hc_abrams}}
+|-
+| <pre>us_m1a2_abrams</pre> || {{Specs-Link|us_m1a2_abrams}}
+|-
+| <pre>us_m1a2_sep_abrams</pre> || {{Specs-Link|us_m1a2_sep_abrams}}
+|-
+| <pre>us_m2_medium</pre> || {{Specs-Link|us_m2_medium}}
+|-
+| <pre>us_m22_locust</pre> || {{Specs-Link|us_m22_locust}}
+|-
+| <pre>us_m24_chaffee</pre> || {{Specs-Link|us_m24_chaffee}}
+|-
+| <pre>us_m24_chaffee_tl</pre> || {{Specs-Link|us_m24_chaffee_tl}}
+|-
+| <pre>us_m247</pre> || {{Specs-Link|us_m247}}
+|-
+| <pre>us_m26_pershing</pre> || {{Specs-Link|us_m26_pershing}}
+|-
+| <pre>us_m26_pershing_tutorial</pre> || {{Specs-Link|us_m26_pershing_tutorial}}
+|-
+| <pre>us_m26_t99</pre> || {{Specs-Link|us_m26_t99}}
+|-
+| <pre>us_m26e1_pershing</pre> || {{Specs-Link|us_m26e1_pershing}}
+|-
+| <pre>us_m2a2</pre> || {{Specs-Link|us_m2a2}}
+|-
+| <pre>us_m2a4</pre> || {{Specs-Link|us_m2a4}}
+|-
+| <pre>us_m2a4_1st_armor_div</pre> || {{Specs-Link|us_m2a4_1st_armor_div}}
+|-
+| <pre>us_m3_bradley</pre> || {{Specs-Link|us_m3_bradley}}
+|-
+| <pre>us_halftrack_m3_75mm_gmc</pre> || {{Specs-Link|us_halftrack_m3_75mm_gmc}}
+|-
+| <pre>us_m3_lee</pre> || {{Specs-Link|us_m3_lee}}
+|-
+| <pre>us_m3_stuart</pre> || {{Specs-Link|us_m3_stuart}}
+|-
+| <pre>us_m36</pre> || {{Specs-Link|us_m36}}
+|-
+| <pre>us_m36b2</pre> || {{Specs-Link|us_m36b2}}
+|-
+| <pre>us_m3a1_stuart_usmc</pre> || {{Specs-Link|us_m3a1_stuart_usmc}}
+|-
+| <pre>us_m3a1_stuart</pre> || {{Specs-Link|us_m3a1_stuart}}
+|-
+| <pre>us_m3a3_bradley</pre> || {{Specs-Link|us_m3a3_bradley}}
+|-
+| <pre>us_m4_sherman</pre> || {{Specs-Link|us_m4_sherman}}
+|-
+| <pre>us_m4_t26</pre> || {{Specs-Link|us_m4_t26}}
+|-
+| <pre>us_m41_walker_bulldog</pre> || {{Specs-Link|us_m41_walker_bulldog}}
+|-
+| <pre>us_m42_duster</pre> || {{Specs-Link|us_m42_duster}}
+|-
+| <pre>us_m46_patton</pre> || {{Specs-Link|us_m46_patton}}
+|-
+| <pre>us_m46_patton_73_armor_bat</pre> || {{Specs-Link|us_m46_patton_73_armor_bat}}
+|-
+| <pre>us_m47_patton_II</pre> || {{Specs-Link|us_m47_patton_II}}
+|-
+| <pre>us_m48a1_patton_III</pre> || {{Specs-Link|us_m48a1_patton_III}}
+|-
+| <pre>us_m4a1_1942_sherman</pre> || {{Specs-Link|us_m4a1_1942_sherman}}
+|-
+| <pre>us_m4a1_76w_sherman</pre> || {{Specs-Link|us_m4a1_76w_sherman}}
+|-
+| <pre>us_m4a2_sherman</pre> || {{Specs-Link|us_m4a2_sherman}}
+|-
+| <pre>us_m4a2_76w_sherman</pre> || {{Specs-Link|us_m4a2_76w_sherman}}
+|-
+| <pre>us_m4a2_76w_sherman_tutorial</pre> || {{Specs-Link|us_m4a2_76w_sherman_tutorial}}
+|-
+| <pre>us_m4a3_105_sherman</pre> || {{Specs-Link|us_m4a3_105_sherman}}
+|-
+| <pre>us_m4a3e8_76w_sherman</pre> || {{Specs-Link|us_m4a3e8_76w_sherman}}
+|-
+| <pre>us_m4a3e2_sherman_jumbo</pre> || {{Specs-Link|us_m4a3e2_sherman_jumbo}}
+|-
+| <pre>us_m4a3e2_76w_sherman_jumbo</pre> || {{Specs-Link|us_m4a3e2_76w_sherman_jumbo}}
+|-
+| <pre>us_m4a5_ram_2</pre> || {{Specs-Link|us_m4a5_ram_2}}
+|-
+| <pre>us_m50_ontos</pre> || {{Specs-Link|us_m50_ontos}}
+|-
+| <pre>us_m551</pre> || {{Specs-Link|us_m551}}
+|-
+| <pre>us_m56_scorpion</pre> || {{Specs-Link|us_m56_scorpion}}
+|-
+| <pre>us_m5a1_stuart</pre> || {{Specs-Link|us_m5a1_stuart}}
+|-
+| <pre>us_m5a1_stuart_td</pre> || {{Specs-Link|us_m5a1_stuart_td}}
+|-
+| <pre>us_m60</pre> || {{Specs-Link|us_m60}}
+|-
+| <pre>us_m60a3_slep</pre> || {{Specs-Link|us_m60a3_slep}}
+|-
+| <pre>us_m60a1</pre> || {{Specs-Link|us_m60a1}}
+|-
+| <pre>us_m60a1_rise_passive_era</pre> || {{Specs-Link|us_m60a1_rise_passive_era}}
+|-
+| <pre>us_m60a2</pre> || {{Specs-Link|us_m60a2}}
+|-
+| <pre>us_m60a3_tts</pre> || {{Specs-Link|us_m60a3_tts}}
+|-
+| <pre>us_m6a1</pre> || {{Specs-Link|us_m6a1}}
+|-
+| <pre>us_m6a2e1</pre> || {{Specs-Link|us_m6a2e1}}
+|-
+| <pre>us_m728</pre> || {{Specs-Link|us_m728}}
+|-
+| <pre>us_m8_scott</pre> || {{Specs-Link|us_m8_scott}}
+|-
+| <pre>us_m8_greyhound</pre> || {{Specs-Link|us_m8_greyhound}}
+|-
+| <pre>us_m8a1</pre> || {{Specs-Link|us_m8a1}}
+|-
+| <pre>us_m901_itv</pre> || {{Specs-Link|us_m901_itv}}
+|-
+| <pre>us_mbt_70</pre> || {{Specs-Link|us_mbt_70}}
+|-
+| <pre>us_m18_hellcat_black_cat_race</pre> || {{Specs-Link|us_m18_hellcat_black_cat_race}}
+|-
+| <pre>us_m18_super_hellcat</pre> || {{Specs-Link|us_m18_super_hellcat}}
+|-
+| <pre>us_t114</pre> || {{Specs-Link|us_t114}}
+|-
+| <pre>us_t14</pre> || {{Specs-Link|us_t14}}
+|-
+| <pre>us_t18_e2</pre> || {{Specs-Link|us_t18_e2}}
+|-
+| <pre>us_t1e1</pre> || {{Specs-Link|us_t1e1}}
+|-
+| <pre>us_t20</pre> || {{Specs-Link|us_t20}}
+|-
+| <pre>us_t25</pre> || {{Specs-Link|us_t25}}
+|-
+| <pre>us_t26e4_superpershing</pre> || {{Specs-Link|us_t26e4_superpershing}}
+|-
+| <pre>us_t26e5</pre> || {{Specs-Link|us_t26e5}}
+|-
+| <pre>us_t28</pre> || {{Specs-Link|us_t28}}
+|-
+| <pre>us_t29</pre> || {{Specs-Link|us_t29}}
+|-
+| <pre>us_t30</pre> || {{Specs-Link|us_t30}}
+|-
+| <pre>us_t32</pre> || {{Specs-Link|us_t32}}
+|-
+| <pre>us_t32e1</pre> || {{Specs-Link|us_t32e1}}
+|-
+| <pre>us_t34</pre> || {{Specs-Link|us_t34}}
+|-
+| <pre>us_t54e1</pre> || {{Specs-Link|us_t54e1}}
+|-
+| <pre>us_t55e1</pre> || {{Specs-Link|us_t55e1}}
+|-
+| <pre>us_t92</pre> || {{Specs-Link|us_t92}}
+|-
+| <pre>us_t95</pre> || {{Specs-Link|us_t95}}
+|-
+| <pre>us_t95e1</pre> || {{Specs-Link|us_t95e1}}
+|-
+| <pre>us_xm1_chrysler</pre> || {{Specs-Link|us_xm1_chrysler}}
+|-
+| <pre>us_xm1_gm</pre> || {{Specs-Link|us_xm1_gm}}
+|-
+| <pre>us_xm_803</pre> || {{Specs-Link|us_xm_803}}
+|-
+| <pre>us_xm_8</pre> || {{Specs-Link|us_xm_8}}
+|-
+| <pre>us_xm_975_roland</pre> || {{Specs-Link|us_xm_975_roland}}
+|}
+
+----
+==== Germany ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>germ_leopard_2a5_yt_cup_2019</pre> || {{Specs-Link|germ_leopard_2a5_yt_cup_2019}}
+|-
+| <pre>germ_pzkpfw_VI_ausf_h1_tiger_animal_version</pre> || {{Specs-Link|germ_pzkpfw_VI_ausf_h1_tiger_animal_version}}
+|-
+| <pre>germ_kv_1B_finland</pre> || {{Specs-Link|germ_kv_1B_finland}}
+|-
+| <pre>germ_kv_1_kwk_40</pre> || {{Specs-Link|germ_kv_1_kwk_40}}
+|-
+| <pre>germ_kv_2_754r</pre> || {{Specs-Link|germ_kv_2_754r}}
+|-
+| <pre>us_m4a2_1944_germ</pre> || {{Specs-Link|us_m4a2_1944_germ}}
+|-
+| <pre>germ_infanterie_kampfpanzer_churchill</pre> || {{Specs-Link|germ_infanterie_kampfpanzer_churchill}}
+|-
+| <pre>germ_t_34_747</pre> || {{Specs-Link|germ_t_34_747}}
+|-
+| <pre>germ_kpz_t72m1</pre> || {{Specs-Link|germ_kpz_t72m1}}
+|-
+| <pre>germ_panzerwerfer_42</pre> || {{Specs-Link|germ_panzerwerfer_42}}
+|-
+| <pre>germ_sturmpanzer_II</pre> || {{Specs-Link|germ_sturmpanzer_II}}
+|-
+| <pre>germ_at_gun_flak36</pre> || {{Specs-Link|germ_at_gun_flak36}}
+|-
+| <pre>germ_sturmmorser_sturmtiger</pre> || {{Specs-Link|germ_sturmmorser_sturmtiger}}
+|-
+| <pre>germ_sturmmorser_sturmtiger_event</pre> || {{Specs-Link|germ_sturmmorser_sturmtiger_event}}
+|-
+| <pre>germ_at_gun_pak40</pre> || {{Specs-Link|germ_at_gun_pak40}}
+|-
+| <pre>germ_sdkfz_9_flak37</pre> || {{Specs-Link|germ_sdkfz_9_flak37}}
+|-
+| <pre>germ_begleitpanzer_57</pre> || {{Specs-Link|germ_begleitpanzer_57}}
+|-
+| <pre>germ_panzerbefelhswagen_jagdpanther</pre> || {{Specs-Link|germ_panzerbefelhswagen_jagdpanther}}
+|-
+| <pre>germ_sturmpanzer_IV_brummbar</pre> || {{Specs-Link|germ_sturmpanzer_IV_brummbar}}
+|-
+| <pre>germ_leopard_c2_mexas</pre> || {{Specs-Link|germ_leopard_c2_mexas}}
+|-
+| <pre>germ_th_800_bismark</pre> || {{Specs-Link|germ_th_800_bismark}}
+|-
+| <pre>germ_marder_df_105</pre> || {{Specs-Link|germ_marder_df_105}}
+|-
+| <pre>germ_pzsfl_IVa_dickermax</pre> || {{Specs-Link|germ_pzsfl_IVa_dickermax}}
+|-
+| <pre>germ_pzkpfw_e_100</pre> || {{Specs-Link|germ_pzkpfw_e_100}}
+|-
+| <pre>germ_panzerjager_tiger_P_elefant</pre> || {{Specs-Link|germ_panzerjager_tiger_P_elefant}}
+|-
+| <pre>germ_pzkpfw_V_ersatz_m10</pre> || {{Specs-Link|germ_pzkpfw_V_ersatz_m10}}
+|-
+| <pre>germ_panzerjager_tiger_P_ferdinand</pre> || {{Specs-Link|germ_panzerjager_tiger_P_ferdinand}}
+|-
+| <pre>germ_flakpanzer_V_Coelian</pre> || {{Specs-Link|germ_flakpanzer_V_Coelian}}
+|-
+| <pre>germ_flakpanzer_38t_Gepard</pre> || {{Specs-Link|germ_flakpanzer_38t_Gepard}}
+|-
+| <pre>germ_flakpanzer_I_ausf_A</pre> || {{Specs-Link|germ_flakpanzer_I_ausf_A}}
+|-
+| <pre>germ_flarakpz_1</pre> || {{Specs-Link|germ_flarakpz_1}}
+|-
+| <pre>germ_flarakrad</pre> || {{Specs-Link|germ_flarakrad}}
+|-
+| <pre>germ_flakpz_I_Gepard</pre> || {{Specs-Link|germ_flakpz_I_Gepard}}
+|-
+| <pre>germ_flakpz_1a2_Gepard</pre> || {{Specs-Link|germ_flakpz_1a2_Gepard}}
+|-
+| <pre>germ_leichter_ladungstrager_303a</pre> || {{Specs-Link|germ_leichter_ladungstrager_303a}}
+|-
+| <pre>germ_panzerjager_panther</pre> || {{Specs-Link|germ_panzerjager_panther}}
+|-
+| <pre>germ_jgdpz_38t</pre> || {{Specs-Link|germ_jgdpz_38t}}
+|-
+| <pre>germ_jgdpz_IV_L48</pre> || {{Specs-Link|germ_jgdpz_IV_L48}}
+|-
+| <pre>germ_panzerjager_tiger</pre> || {{Specs-Link|germ_panzerjager_tiger}}
+|-
+| <pre>germ_sk105_a2</pre> || {{Specs-Link|germ_sk105_a2}}
+|-
+| <pre>germ_kanonenjagdpanzer</pre> || {{Specs-Link|germ_kanonenjagdpanzer}}
+|-
+| <pre>germ_kpz_70</pre> || {{Specs-Link|germ_kpz_70}}
+|-
+| <pre>germ_flakpanzer_IV_Kugelblitz</pre> || {{Specs-Link|germ_flakpanzer_IV_Kugelblitz}}
+|-
+| <pre>germ_le_kpz_m41</pre> || {{Specs-Link|germ_le_kpz_m41}}
+|-
+| <pre>germ_leopard_1a5</pre> || {{Specs-Link|germ_leopard_1a5}}
+|-
+| <pre>germ_leopard_2a4_pzbtl_123</pre> || {{Specs-Link|germ_leopard_2a4_pzbtl_123}}
+|-
+| <pre>germ_leopard_2pl</pre> || {{Specs-Link|germ_leopard_2pl}}
+|-
+| <pre>germ_leopard_2a4</pre> || {{Specs-Link|germ_leopard_2a4}}
+|-
+| <pre>germ_leopard_2a5</pre> || {{Specs-Link|germ_leopard_2a5}}
+|-
+| <pre>germ_leopard_2a6</pre> || {{Specs-Link|germ_leopard_2a6}}
+|-
+| <pre>germ_leopard_2av</pre> || {{Specs-Link|germ_leopard_2av}}
+|-
+| <pre>germ_leopard_2k</pre> || {{Specs-Link|germ_leopard_2k}}
+|-
+| <pre>germ_leopard_I_a1</pre> || {{Specs-Link|germ_leopard_I_a1}}
+|-
+| <pre>germ_leopard_a1a1_120</pre> || {{Specs-Link|germ_leopard_a1a1_120}}
+|-
+| <pre>germ_leopard_I</pre> || {{Specs-Link|germ_leopard_I}}
+|-
+| <pre>germ_mkpz_super_m48</pre> || {{Specs-Link|germ_mkpz_super_m48}}
+|-
+| <pre>germ_mkpz_m48a2c</pre> || {{Specs-Link|germ_mkpz_m48a2c}}
+|-
+| <pre>germ_mkpz_m48a2ga2</pre> || {{Specs-Link|germ_mkpz_m48a2ga2}}
+|-
+| <pre>germ_marder_1a3</pre> || {{Specs-Link|germ_marder_1a3}}
+|-
+| <pre>germ_marder_1a1</pre> || {{Specs-Link|germ_marder_1a1}}
+|-
+| <pre>germ_pzkpfw_38t_Marder_III</pre> || {{Specs-Link|germ_pzkpfw_38t_Marder_III}}
+|-
+| <pre>germ_pzkpfw_38t_Marder_III_ausf_H</pre> || {{Specs-Link|germ_pzkpfw_38t_Marder_III_ausf_H}}
+|-
+| <pre>germ_pzkpfw_Maus</pre> || {{Specs-Link|germ_pzkpfw_Maus}}
+|-
+| <pre>germ_mkpz_m47</pre> || {{Specs-Link|germ_mkpz_m47}}
+|-
+| <pre>germ_panzerjager_nashorn</pre> || {{Specs-Link|germ_panzerjager_nashorn}}
+|-
+| <pre>germ_nbfz_VI</pre> || {{Specs-Link|germ_nbfz_VI}}
+|-
+| <pre>germ_flakpanzer_IV_Ostwind</pre> || {{Specs-Link|germ_flakpanzer_IV_Ostwind}}
+|-
+| <pre>germ_flakpanzer_IV_Ostwind_2</pre> || {{Specs-Link|germ_flakpanzer_IV_Ostwind_2}}
+|-
+| <pre>germ_wiesel_2_adwc</pre> || {{Specs-Link|germ_wiesel_2_adwc}}
+|-
+| <pre>germ_pzkpfw_V_ausf_a_panther</pre> || {{Specs-Link|germ_pzkpfw_V_ausf_a_panther}}
+|-
+| <pre>germ_pzkpfw_V_ausf_d_panther</pre> || {{Specs-Link|germ_pzkpfw_V_ausf_d_panther}}
+|-
+| <pre>germ_pzkpfw_V_ausf_f_panther</pre> || {{Specs-Link|germ_pzkpfw_V_ausf_f_panther}}
+|-
+| <pre>germ_pzkpfw_V_ausf_g_panther</pre> || {{Specs-Link|germ_pzkpfw_V_ausf_g_panther}}
+|-
+| <pre>germ_panther_II</pre> || {{Specs-Link|germ_panther_II}}
+|-
+| <pre>germ_pz_IV_L70_A</pre> || {{Specs-Link|germ_pz_IV_L70_A}}
+|-
+| <pre>germ_pz_IV_L70</pre> || {{Specs-Link|germ_pz_IV_L70}}
+|-
+| <pre>germ_panzerjager_1</pre> || {{Specs-Link|germ_panzerjager_1}}
+|-
+| <pre>germ_leopard_2_pt14</pre> || {{Specs-Link|germ_leopard_2_pt14}}
+|-
+| <pre>germ_schutzenpanzer_puma</pre> || {{Specs-Link|germ_schutzenpanzer_puma}}
+|-
+| <pre>germ_pzkpfw_35t</pre> || {{Specs-Link|germ_pzkpfw_35t}}
+|-
+| <pre>germ_pzkpfw_38t_ausf_A</pre> || {{Specs-Link|germ_pzkpfw_38t_ausf_A}}
+|-
+| <pre>germ_pzkpfw_38t_ausf_F</pre> || {{Specs-Link|germ_pzkpfw_38t_ausf_F}}
+|-
+| <pre>germ_pzkpfw_38t_na</pre> || {{Specs-Link|germ_pzkpfw_38t_na}}
+|-
+| <pre>germ_panzerbefelhswagen_IV_ausf_J</pre> || {{Specs-Link|germ_panzerbefelhswagen_IV_ausf_J}}
+|-
+| <pre>germ_panzerbefelhswagen_VI_P</pre> || {{Specs-Link|germ_panzerbefelhswagen_VI_P}}
+|-
+| <pre>germ_pzkpfw_II_ausf_C</pre> || {{Specs-Link|germ_pzkpfw_II_ausf_C}}
+|-
+| <pre>germ_pzkpfw_II_ausf_C_DAK</pre> || {{Specs-Link|germ_pzkpfw_II_ausf_C_DAK}}
+|-
+| <pre>germ_pzkpfw_II_ausf_C_td</pre> || {{Specs-Link|germ_pzkpfw_II_ausf_C_td}}
+|-
+| <pre>germ_pzkpfw_II_ausf_F</pre> || {{Specs-Link|germ_pzkpfw_II_ausf_F}}
+|-
+| <pre>germ_pzkpfw_III_ausf_B</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_B}}
+|-
+| <pre>germ_pzkpfw_III_ausf_E</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_E}}
+|-
+| <pre>germ_pzkpfw_III_ausf_F</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_F}}
+|-
+| <pre>germ_pzkpfw_III_ausf_J_L42</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_J_L42}}
+|-
+| <pre>germ_pzkpfw_III_ausf_J</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_J}}
+|-
+| <pre>germ_pzkpfw_III_ausf_J_td</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_J_td}}
+|-
+| <pre>germ_pzkpfw_III_ausf_L</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_L}}
+|-
+| <pre>germ_pzkpfw_III_ausf_M</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_M}}
+|-
+| <pre>germ_pzkpfw_III_ausf_N</pre> || {{Specs-Link|germ_pzkpfw_III_ausf_N}}
+|-
+| <pre>germ_pzkpfw_IV_ausf_C</pre> || {{Specs-Link|germ_pzkpfw_IV_ausf_C}}
+|-
+| <pre>germ_pzkpfw_IV_ausf_E</pre> || {{Specs-Link|germ_pzkpfw_IV_ausf_E}}
+|-
+| <pre>germ_pzkpfw_IV_ausf_F</pre> || {{Specs-Link|germ_pzkpfw_IV_ausf_F}}
+|-
+| <pre>germ_pzkpfw_IV_ausf_F2</pre> || {{Specs-Link|germ_pzkpfw_IV_ausf_F2}}
+|-
+| <pre>germ_pzkpfw_IV_ausf_G</pre> || {{Specs-Link|germ_pzkpfw_IV_ausf_G}}
+|-
+| <pre>germ_pzkpfw_IV_ausf_H</pre> || {{Specs-Link|germ_pzkpfw_IV_ausf_H}}
+|-
+| <pre>germ_pzkpfw_IV_ausf_J</pre> || {{Specs-Link|germ_pzkpfw_IV_ausf_J}}
+|-
+| <pre>germ_pzkpfw_II_ausf_H</pre> || {{Specs-Link|germ_pzkpfw_II_ausf_H}}
+|-
+| <pre>germ_radpanzer_90</pre> || {{Specs-Link|germ_radpanzer_90}}
+|-
+| <pre>germ_spz_oerlikon_raketenautomat</pre> || {{Specs-Link|germ_spz_oerlikon_raketenautomat}}
+|-
+| <pre>germ_raketenjagdpanzer_2</pre> || {{Specs-Link|germ_raketenjagdpanzer_2}}
+|-
+| <pre>germ_raketenjagdpanzer_2_hot</pre> || {{Specs-Link|germ_raketenjagdpanzer_2_hot}}
+|-
+| <pre>germ_ru251</pre> || {{Specs-Link|germ_ru251}}
+|-
+| <pre>germ_pzkpfw_38t_Aufklarungspanzer</pre> || {{Specs-Link|germ_pzkpfw_38t_Aufklarungspanzer}}
+|-
+| <pre>germ_sdkfz_6_2_flak36</pre> || {{Specs-Link|germ_sdkfz_6_2_flak36}}
+|-
+| <pre>germ_sdkfz_221_s_pz_b_41</pre> || {{Specs-Link|germ_sdkfz_221_s_pz_b_41}}
+|-
+| <pre>germ_sdkfz_222</pre> || {{Specs-Link|germ_sdkfz_222}}
+|-
+| <pre>germ_sdkfz_234_1</pre> || {{Specs-Link|germ_sdkfz_234_1}}
+|-
+| <pre>germ_sdkfz_234_2</pre> || {{Specs-Link|germ_sdkfz_234_2}}
+|-
+| <pre>germ_sdkfz_234_2_td</pre> || {{Specs-Link|germ_sdkfz_234_2_td}}
+|-
+| <pre>germ_sdkfz_234_3</pre> || {{Specs-Link|germ_sdkfz_234_3}}
+|-
+| <pre>germ_sdkfz_234_4</pre> || {{Specs-Link|germ_sdkfz_234_4}}
+|-
+| <pre>germ_sdkfz_251_10</pre> || {{Specs-Link|germ_sdkfz_251_10}}
+|-
+| <pre>germ_sdkfz_251_21</pre> || {{Specs-Link|germ_sdkfz_251_21}}
+|-
+| <pre>germ_sdkfz_251_22</pre> || {{Specs-Link|germ_sdkfz_251_22}}
+|-
+| <pre>germ_sdkfz_251_9</pre> || {{Specs-Link|germ_sdkfz_251_9}}
+|-
+| <pre>germ_bmp_1_ddr</pre> || {{Specs-Link|germ_bmp_1_ddr}}
+|-
+| <pre>germ_stug_III_ausf_A</pre> || {{Specs-Link|germ_stug_III_ausf_A}}
+|-
+| <pre>germ_stug_III_ausf_F</pre> || {{Specs-Link|germ_stug_III_ausf_F}}
+|-
+| <pre>germ_stug_III_ausf_G</pre> || {{Specs-Link|germ_stug_III_ausf_G}}
+|-
+| <pre>germ_stuh_III_ausf_G</pre> || {{Specs-Link|germ_stuh_III_ausf_G}}
+|-
+| <pre>germ_pzsflk40_sturer_emil</pre> || {{Specs-Link|germ_pzsflk40_sturer_emil}}
+|-
+| <pre>germ_thyssen_henschel_tam</pre> || {{Specs-Link|germ_thyssen_henschel_tam}}
+|-
+| <pre>germ_thyssen_henschel_tam_2c</pre> || {{Specs-Link|germ_thyssen_henschel_tam_2c}}
+|-
+| <pre>germ_thyssen_henschel_tam_2ip</pre> || {{Specs-Link|germ_thyssen_henschel_tam_2ip}}
+|-
+| <pre>germ_pzkpfw_VI_ausf_e_tiger</pre> || {{Specs-Link|germ_pzkpfw_VI_ausf_e_tiger}}
+|-
+| <pre>germ_pzkpfw_VI_ausf_h1_tiger</pre> || {{Specs-Link|germ_pzkpfw_VI_ausf_h1_tiger}}
+|-
+| <pre>germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46</pre> || {{Specs-Link|germ_pzkpfw_VI_ausf_b_tiger_IIh_kwk46}}
+|-
+| <pre>germ_pzkpfw_VI_ausf_b_tiger_IIh</pre> || {{Specs-Link|germ_pzkpfw_VI_ausf_b_tiger_IIh}}
+|-
+| <pre>germ_pzkpfw_VI_ausf_b_tiger_IIh_sla</pre> || {{Specs-Link|germ_pzkpfw_VI_ausf_b_tiger_IIh_sla}}
+|-
+| <pre>germ_pzkpfw_VI_ausf_b_tiger_IIp</pre> || {{Specs-Link|germ_pzkpfw_VI_ausf_b_tiger_IIp}}
+|-
+| <pre>germ_erprobungstrager_3_achs_turm</pre> || {{Specs-Link|germ_erprobungstrager_3_achs_turm}}
+|-
+| <pre>germ_vsw_flak_41</pre> || {{Specs-Link|germ_vsw_flak_41}}
+|-
+| <pre>germ_vk_3002m</pre> || {{Specs-Link|germ_vk_3002m}}
+|-
+| <pre>germ_pzkpfw_VI_tiger_P</pre> || {{Specs-Link|germ_pzkpfw_VI_tiger_P}}
+|-
+| <pre>germ_vt_1_2</pre> || {{Specs-Link|germ_vt_1_2}}
+|-
+| <pre>germ_waffentrager_krupp_steyr</pre> || {{Specs-Link|germ_waffentrager_krupp_steyr}}
+|-
+| <pre>germ_wiesel_1_tow</pre> || {{Specs-Link|germ_wiesel_1_tow}}
+|-
+| <pre>germ_wiesel_1_mk20</pre> || {{Specs-Link|germ_wiesel_1_mk20}}
+|-
+| <pre>germ_flakpanzer_IV_Wirbelwind</pre> || {{Specs-Link|germ_flakpanzer_IV_Wirbelwind}}
+|}
+
+----
+==== USSR ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ussr_t_80u_yt_cup_2019</pre> || {{Specs-Link|ussr_t_80u_yt_cup_2019}}
+|-
+| <pre>ussr_m3c</pre> || {{Specs-Link|ussr_m3c}}
+|-
+| <pre>ussr_m4a2_76w_sherman</pre> || {{Specs-Link|ussr_m4a2_76w_sherman}}
+|-
+| <pre>ussr_a_12_mk_2_matilda_2A_F96</pre> || {{Specs-Link|ussr_a_12_mk_2_matilda_2A_F96}}
+|-
+| <pre>ussr_type_65_aa</pre> || {{Specs-Link|ussr_type_65_aa}}
+|-
+| <pre>ussr_pzkpfw_III_ausf_J_L42</pre> || {{Specs-Link|ussr_pzkpfw_III_ausf_J_L42}}
+|-
+| <pre>ussr_pzkpfw_V</pre> || {{Specs-Link|ussr_pzkpfw_V}}
+|-
+| <pre>ussr_type_62</pre> || {{Specs-Link|ussr_type_62}}
+|-
+| <pre>ussr_valentine_mk_9</pre> || {{Specs-Link|ussr_valentine_mk_9}}
+|-
+| <pre>ussr_2s25</pre> || {{Specs-Link|ussr_2s25}}
+|-
+| <pre>ussr_2s25m</pre> || {{Specs-Link|ussr_2s25m}}
+|-
+| <pre>ussr_2s38</pre> || {{Specs-Link|ussr_2s38}}
+|-
+| <pre>ussr_2s3m</pre> || {{Specs-Link|ussr_2s3m}}
+|-
+| <pre>ussr_zprk_2s6</pre> || {{Specs-Link|ussr_zprk_2s6}}
+|-
+| <pre>ussr_asu_57</pre> || {{Specs-Link|ussr_asu_57}}
+|-
+| <pre>ussr_asu_85</pre> || {{Specs-Link|ussr_asu_85}}
+|-
+| <pre>ussr_ba_11</pre> || {{Specs-Link|ussr_ba_11}}
+|-
+| <pre>ussr_bm_13n</pre> || {{Specs-Link|ussr_bm_13n}}
+|-
+| <pre>ussr_bm_31_12</pre> || {{Specs-Link|ussr_bm_31_12}}
+|-
+| <pre>ussr_bm_8_24</pre> || {{Specs-Link|ussr_bm_8_24}}
+|-
+| <pre>ussr_bmd_4</pre> || {{Specs-Link|ussr_bmd_4}}
+|-
+| <pre>ussr_bmp_1</pre> || {{Specs-Link|ussr_bmp_1}}
+|-
+| <pre>ussr_bmp_2</pre> || {{Specs-Link|ussr_bmp_2}}
+|-
+| <pre>ussr_bmp_2m</pre> || {{Specs-Link|ussr_bmp_2m}}
+|-
+| <pre>ussr_bmp_3</pre> || {{Specs-Link|ussr_bmp_3}}
+|-
+| <pre>ussr_bt_5</pre> || {{Specs-Link|ussr_bt_5}}
+|-
+| <pre>ussr_bt_7_1937</pre> || {{Specs-Link|ussr_bt_7_1937}}
+|-
+| <pre>ussr_bt_7_1937_td</pre> || {{Specs-Link|ussr_bt_7_1937_td}}
+|-
+| <pre>ussr_bt_7a_f32</pre> || {{Specs-Link|ussr_bt_7a_f32}}
+|-
+| <pre>ussr_bt_7_m</pre> || {{Specs-Link|ussr_bt_7_m}}
+|-
+| <pre>ussr_btr_152a</pre> || {{Specs-Link|ussr_btr_152a}}
+|-
+| <pre>ussr_btr_80a</pre> || {{Specs-Link|ussr_btr_80a}}
+|-
+| <pre>ussr_btr_zd</pre> || {{Specs-Link|ussr_btr_zd}}
+|-
+| <pre>ussr_gaz_4m</pre> || {{Specs-Link|ussr_gaz_4m}}
+|-
+| <pre>ussr_gaz_dshk</pre> || {{Specs-Link|ussr_gaz_dshk}}
+|-
+| <pre>ussr_gaz_mm_72k</pre> || {{Specs-Link|ussr_gaz_mm_72k}}
+|-
+| <pre>ussr_is_1</pre> || {{Specs-Link|ussr_is_1}}
+|-
+| <pre>ussr_is_2_1943</pre> || {{Specs-Link|ussr_is_2_1943}}
+|-
+| <pre>ussr_is_2_1944</pre> || {{Specs-Link|ussr_is_2_1944}}
+|-
+| <pre>ussr_is_2_1944_321</pre> || {{Specs-Link|ussr_is_2_1944_321}}
+|-
+| <pre>ussr_is_2_1944_revenge</pre> || {{Specs-Link|ussr_is_2_1944_revenge}}
+|-
+| <pre>ussr_is_3</pre> || {{Specs-Link|ussr_is_3}}
+|-
+| <pre>ussr_is_4m</pre> || {{Specs-Link|ussr_is_4m}}
+|-
+| <pre>ussr_is_6</pre> || {{Specs-Link|ussr_is_6}}
+|-
+| <pre>ussr_is_7</pre> || {{Specs-Link|ussr_is_7}}
+|-
+| <pre>ussr_isu_122</pre> || {{Specs-Link|ussr_isu_122}}
+|-
+| <pre>ussr_isu_122s</pre> || {{Specs-Link|ussr_isu_122s}}
+|-
+| <pre>ussr_isu_152</pre> || {{Specs-Link|ussr_isu_152}}
+|-
+| <pre>ussr_it_1</pre> || {{Specs-Link|ussr_it_1}}
+|-
+| <pre>ussr_9p157</pre> || {{Specs-Link|ussr_9p157}}
+|-
+| <pre>ussr_kv_1_L_11</pre> || {{Specs-Link|ussr_kv_1_L_11}}
+|-
+| <pre>ussr_kv_1_zis_5</pre> || {{Specs-Link|ussr_kv_1_zis_5}}
+|-
+| <pre>ussr_kv_122</pre> || {{Specs-Link|ussr_kv_122}}
+|-
+| <pre>ussr_kv_1e</pre> || {{Specs-Link|ussr_kv_1e}}
+|-
+| <pre>ussr_kv_1s</pre> || {{Specs-Link|ussr_kv_1s}}
+|-
+| <pre>ussr_kv_2_1939</pre> || {{Specs-Link|ussr_kv_2_1939}}
+|-
+| <pre>ussr_kv_2_1940</pre> || {{Specs-Link|ussr_kv_2_1940}}
+|-
+| <pre>ussr_kv_2_zis_6</pre> || {{Specs-Link|ussr_kv_2_zis_6}}
+|-
+| <pre>ussr_kv_220</pre> || {{Specs-Link|ussr_kv_220}}
+|-
+| <pre>ussr_kv_85</pre> || {{Specs-Link|ussr_kv_85}}
+|-
+| <pre>ussr_m53_59</pre> || {{Specs-Link|ussr_m53_59}}
+|-
+| <pre>ussr_object_120</pre> || {{Specs-Link|ussr_object_120}}
+|-
+| <pre>ussr_object_248</pre> || {{Specs-Link|ussr_object_248}}
+|-
+| <pre>ussr_object_268</pre> || {{Specs-Link|ussr_object_268}}
+|-
+| <pre>ussr_object_279</pre> || {{Specs-Link|ussr_object_279}}
+|-
+| <pre>ussr_object_435</pre> || {{Specs-Link|ussr_object_435}}
+|-
+| <pre>ussr_object_685</pre> || {{Specs-Link|ussr_object_685}}
+|-
+| <pre>ussr_object_906</pre> || {{Specs-Link|ussr_object_906}}
+|-
+| <pre>ussr_pantsyr_s1</pre> || {{Specs-Link|ussr_pantsyr_s1}}
+|-
+| <pre>ussr_pt_76_57</pre> || {{Specs-Link|ussr_pt_76_57}}
+|-
+| <pre>ussr_pt_76b</pre> || {{Specs-Link|ussr_pt_76b}}
+|-
+| <pre>ussr_rbt_5</pre> || {{Specs-Link|ussr_rbt_5}}
+|-
+| <pre>ussr_9p149</pre> || {{Specs-Link|ussr_9p149}}
+|-
+| <pre>ussr_smk</pre> || {{Specs-Link|ussr_smk}}
+|-
+| <pre>ussr_9a35_m2</pre> || {{Specs-Link|ussr_9a35_m2}}
+|-
+| <pre>ussr_su_100_1945</pre> || {{Specs-Link|ussr_su_100_1945}}
+|-
+| <pre>ussr_su_100p</pre> || {{Specs-Link|ussr_su_100p}}
+|-
+| <pre>ussr_su_100Y</pre> || {{Specs-Link|ussr_su_100Y}}
+|-
+| <pre>ussr_su_122</pre> || {{Specs-Link|ussr_su_122}}
+|-
+| <pre>ussr_su_122_54</pre> || {{Specs-Link|ussr_su_122_54}}
+|-
+| <pre>ussr_su_122P</pre> || {{Specs-Link|ussr_su_122P}}
+|-
+| <pre>ussr_su_152</pre> || {{Specs-Link|ussr_su_152}}
+|-
+| <pre>ussr_su_5_1</pre> || {{Specs-Link|ussr_su_5_1}}
+|-
+| <pre>ussr_su_57</pre> || {{Specs-Link|ussr_su_57}}
+|-
+| <pre>ussr_su_57b</pre> || {{Specs-Link|ussr_su_57b}}
+|-
+| <pre>ussr_su_76d</pre> || {{Specs-Link|ussr_su_76d}}
+|-
+| <pre>ussr_su_76m_1943</pre> || {{Specs-Link|ussr_su_76m_1943}}
+|-
+| <pre>ussr_su_76m_5st_kav_corps</pre> || {{Specs-Link|ussr_su_76m_5st_kav_corps}}
+|-
+| <pre>ussr_su_85_1943</pre> || {{Specs-Link|ussr_su_85_1943}}
+|-
+| <pre>ussr_su_85a</pre> || {{Specs-Link|ussr_su_85a}}
+|-
+| <pre>ussr_su_85m</pre> || {{Specs-Link|ussr_su_85m}}
+|-
+| <pre>ussr_t_10a</pre> || {{Specs-Link|ussr_t_10a}}
+|-
+| <pre>ussr_t_10m</pre> || {{Specs-Link|ussr_t_10m}}
+|-
+| <pre>ussr_t_126sp</pre> || {{Specs-Link|ussr_t_126sp}}
+|-
+| <pre>ussr_t_26_1940</pre> || {{Specs-Link|ussr_t_26_1940}}
+|-
+| <pre>ussr_t_26_1940_1st_GvTBr</pre> || {{Specs-Link|ussr_t_26_1940_1st_GvTBr}}
+|-
+| <pre>ussr_t_26_4</pre> || {{Specs-Link|ussr_t_26_4}}
+|-
+| <pre>ussr_t_26E</pre> || {{Specs-Link|ussr_t_26E}}
+|-
+| <pre>ussr_t_28</pre> || {{Specs-Link|ussr_t_28}}
+|-
+| <pre>ussr_t_28_1938</pre> || {{Specs-Link|ussr_t_28_1938}}
+|-
+| <pre>ussr_t_28E</pre> || {{Specs-Link|ussr_t_28E}}
+|-
+| <pre>ussr_t_34_1941_l_11</pre> || {{Specs-Link|ussr_t_34_1941_l_11}}
+|-
+| <pre>ussr_t_34_1941</pre> || {{Specs-Link|ussr_t_34_1941}}
+|-
+| <pre>ussr_t_34_1942</pre> || {{Specs-Link|ussr_t_34_1942}}
+|-
+| <pre>ussr_t_34_1941_cast_turret</pre> || {{Specs-Link|ussr_t_34_1941_cast_turret}}
+|-
+| <pre>ussr_t_34_1940_l_11</pre> || {{Specs-Link|ussr_t_34_1940_l_11}}
+|-
+| <pre>ussr_t_34_100</pre> || {{Specs-Link|ussr_t_34_100}}
+|-
+| <pre>ussr_t_34_1941_57</pre> || {{Specs-Link|ussr_t_34_1941_57}}
+|-
+| <pre>ussr_t_34_57_1943</pre> || {{Specs-Link|ussr_t_34_57_1943}}
+|-
+| <pre>ussr_t_34_85_zis_53</pre> || {{Specs-Link|ussr_t_34_85_zis_53}}
+|-
+| <pre>ussr_t_34_85_d_5t</pre> || {{Specs-Link|ussr_t_34_85_d_5t}}
+|-
+| <pre>ussr_t_34_85E</pre> || {{Specs-Link|ussr_t_34_85E}}
+|-
+| <pre>ussr_t_34E</pre> || {{Specs-Link|ussr_t_34E}}
+|-
+| <pre>ussr_t_34E_STZ</pre> || {{Specs-Link|ussr_t_34E_STZ}}
+|-
+| <pre>ussr_t_35</pre> || {{Specs-Link|ussr_t_35}}
+|-
+| <pre>ussr_t_44</pre> || {{Specs-Link|ussr_t_44}}
+|-
+| <pre>ussr_t_44_100</pre> || {{Specs-Link|ussr_t_44_100}}
+|-
+| <pre>ussr_t_44_122</pre> || {{Specs-Link|ussr_t_44_122}}
+|-
+| <pre>ussr_t_50</pre> || {{Specs-Link|ussr_t_50}}
+|-
+| <pre>ussr_t_54_1947</pre> || {{Specs-Link|ussr_t_54_1947}}
+|-
+| <pre>ussr_t_54_1949</pre> || {{Specs-Link|ussr_t_54_1949}}
+|-
+| <pre>ussr_t_54_1951</pre> || {{Specs-Link|ussr_t_54_1951}}
+|-
+| <pre>ussr_t_55a</pre> || {{Specs-Link|ussr_t_55a}}
+|-
+| <pre>ussr_t_55_am</pre> || {{Specs-Link|ussr_t_55_am}}
+|-
+| <pre>ussr_t_55_amd_1</pre> || {{Specs-Link|ussr_t_55_amd_1}}
+|-
+| <pre>ussr_t_60_1941</pre> || {{Specs-Link|ussr_t_60_1941}}
+|-
+| <pre>ussr_t_62</pre> || {{Specs-Link|ussr_t_62}}
+|-
+| <pre>ussr_t_62m1</pre> || {{Specs-Link|ussr_t_62m1}}
+|-
+| <pre>ussr_t_64a_1971</pre> || {{Specs-Link|ussr_t_64a_1971}}
+|-
+| <pre>ussr_t_64_b_1984</pre> || {{Specs-Link|ussr_t_64_b_1984}}
+|-
+| <pre>ussr_t_70_1942</pre> || {{Specs-Link|ussr_t_70_1942}}
+|-
+| <pre>ussr_t_72a</pre> || {{Specs-Link|ussr_t_72a}}
+|-
+| <pre>ussr_t_72av_turms</pre> || {{Specs-Link|ussr_t_72av_turms}}
+|-
+| <pre>ussr_t_72b</pre> || {{Specs-Link|ussr_t_72b}}
+|-
+| <pre>ussr_t_72b_1989</pre> || {{Specs-Link|ussr_t_72b_1989}}
+|-
+| <pre>ussr_t_72b3_2011</pre> || {{Specs-Link|ussr_t_72b3_2011}}
+|-
+| <pre>ussr_t_72m2_moderna</pre> || {{Specs-Link|ussr_t_72m2_moderna}}
+|-
+| <pre>ussr_t_80</pre> || {{Specs-Link|ussr_t_80}}
+|-
+| <pre>ussr_t_80b</pre> || {{Specs-Link|ussr_t_80b}}
+|-
+| <pre>ussr_t_80bvm</pre> || {{Specs-Link|ussr_t_80bvm}}
+|-
+| <pre>ussr_t_80u_race</pre> || {{Specs-Link|ussr_t_80u_race}}
+|-
+| <pre>ussr_t_80u</pre> || {{Specs-Link|ussr_t_80u}}
+|-
+| <pre>ussr_t_80uk</pre> || {{Specs-Link|ussr_t_80uk}}
+|-
+| <pre>ussr_t_80um2</pre> || {{Specs-Link|ussr_t_80um2}}
+|-
+| <pre>ussr_zsu_29k</pre> || {{Specs-Link|ussr_zsu_29k}}
+|-
+| <pre>ussr_zis_12_94KM_1945</pre> || {{Specs-Link|ussr_zis_12_94KM_1945}}
+|-
+| <pre>ussr_zis_30</pre> || {{Specs-Link|ussr_zis_30}}
+|-
+| <pre>ussr_zis_43</pre> || {{Specs-Link|ussr_zis_43}}
+|-
+| <pre>ussr_zsu_23_4</pre> || {{Specs-Link|ussr_zsu_23_4}}
+|-
+| <pre>ussr_zsu_37</pre> || {{Specs-Link|ussr_zsu_37}}
+|-
+| <pre>ussr_zsu_37_2</pre> || {{Specs-Link|ussr_zsu_37_2}}
+|-
+| <pre>ussr_zsu_57_2</pre> || {{Specs-Link|ussr_zsu_57_2}}
+|-
+| <pre>ussr_zut_37</pre> || {{Specs-Link|ussr_zut_37}}
+|-
+| <pre>ussr_t_90a</pre> || {{Specs-Link|ussr_t_90a}}
+|}
+
+----
+==== Great Britain ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>uk_challenger_II_yt_cup_2019</pre> || {{Specs-Link|uk_challenger_II_yt_cup_2019}}
+|-
+| <pre>uk_centurion_shot_kal_d</pre> || {{Specs-Link|uk_centurion_shot_kal_d}}
+|-
+| <pre>uk_centurion_mk_3_ss11</pre> || {{Specs-Link|uk_centurion_mk_3_ss11}}
+|-
+| <pre>uk_ac1_sentinel</pre> || {{Specs-Link|uk_ac1_sentinel}}
+|-
+| <pre>uk_ac4_thunderbolt</pre> || {{Specs-Link|uk_ac4_thunderbolt}}
+|-
+| <pre>uk_a_13_mk1</pre> || {{Specs-Link|uk_a_13_mk1}}
+|-
+| <pre>uk_a_13_mk1_3rd_rtr</pre> || {{Specs-Link|uk_a_13_mk1_3rd_rtr}}
+|-
+| <pre>uk_a_13_mk2</pre> || {{Specs-Link|uk_a_13_mk2}}
+|-
+| <pre>uk_a_13_mk2_1939</pre> || {{Specs-Link|uk_a_13_mk2_1939}}
+|-
+| <pre>uk_17_pdr_m10_achilles</pre> || {{Specs-Link|uk_17_pdr_m10_achilles}}
+|-
+| <pre>uk_17_pdr_m10_achilles_norfolk_yeomanry</pre> || {{Specs-Link|uk_17_pdr_m10_achilles_norfolk_yeomanry}}
+|-
+| <pre>uk_adats_m113a3</pre> || {{Specs-Link|uk_adats_m113a3}}
+|-
+| <pre>uk_armored_car_mk_2_aa</pre> || {{Specs-Link|uk_armored_car_mk_2_aa}}
+|-
+| <pre>uk_armored_car_aec_mk_2</pre> || {{Specs-Link|uk_armored_car_aec_mk_2}}
+|-
+| <pre>uk_alecto_mk_1</pre> || {{Specs-Link|uk_alecto_mk_1}}
+|-
+| <pre>uk_sp_17_pdr_valentine</pre> || {{Specs-Link|uk_sp_17_pdr_valentine}}
+|-
+| <pre>uk_a30_sp_avenger</pre> || {{Specs-Link|uk_a30_sp_avenger}}
+|-
+| <pre>uk_challenger_2_bn</pre> || {{Specs-Link|uk_challenger_2_bn}}
+|-
+| <pre>uk_a_43_black_prince</pre> || {{Specs-Link|uk_a_43_black_prince}}
+|-
+| <pre>uk_bosvark</pre> || {{Specs-Link|uk_bosvark}}
+|-
+| <pre>uk_fv221_caernarvon</pre> || {{Specs-Link|uk_fv221_caernarvon}}
+|-
+| <pre>uk_centurion_action_x</pre> || {{Specs-Link|uk_centurion_action_x}}
+|-
+| <pre>uk_centurion_mk_1</pre> || {{Specs-Link|uk_centurion_mk_1}}
+|-
+| <pre>uk_centurion_mk_10</pre> || {{Specs-Link|uk_centurion_mk_10}}
+|-
+| <pre>uk_centurion_mk_3</pre> || {{Specs-Link|uk_centurion_mk_3}}
+|-
+| <pre>uk_centurion_mk_2</pre> || {{Specs-Link|uk_centurion_mk_2}}
+|-
+| <pre>uk_centurion_mk_5_avre_era</pre> || {{Specs-Link|uk_centurion_mk_5_avre_era}}
+|-
+| <pre>uk_centurion_mk_5_raac</pre> || {{Specs-Link|uk_centurion_mk_5_raac}}
+|-
+| <pre>uk_a30_challenger</pre> || {{Specs-Link|uk_a30_challenger}}
+|-
+| <pre>uk_challenger_II</pre> || {{Specs-Link|uk_challenger_II}}
+|-
+| <pre>uk_challenger_2_dorchester</pre> || {{Specs-Link|uk_challenger_2_dorchester}}
+|-
+| <pre>uk_challenger_2_tes</pre> || {{Specs-Link|uk_challenger_2_tes}}
+|-
+| <pre>uk_challenger_2e</pre> || {{Specs-Link|uk_challenger_2e}}
+|-
+| <pre>uk_challenger_1_mk_3_gulf</pre> || {{Specs-Link|uk_challenger_1_mk_3_gulf}}
+|-
+| <pre>uk_challenger_1</pre> || {{Specs-Link|uk_challenger_1}}
+|-
+| <pre>uk_challenger_mk_3</pre> || {{Specs-Link|uk_challenger_mk_3}}
+|-
+| <pre>uk_charioteer_mk_7</pre> || {{Specs-Link|uk_charioteer_mk_7}}
+|-
+| <pre>uk_chieftain_marksman</pre> || {{Specs-Link|uk_chieftain_marksman}}
+|-
+| <pre>uk_chieftain_mk_10</pre> || {{Specs-Link|uk_chieftain_mk_10}}
+|-
+| <pre>uk_chieftain_mk_3</pre> || {{Specs-Link|uk_chieftain_mk_3}}
+|-
+| <pre>uk_chieftain_mk_5</pre> || {{Specs-Link|uk_chieftain_mk_5}}
+|-
+| <pre>uk_a_22f_mk_7_churchill_crocodile</pre> || {{Specs-Link|uk_a_22f_mk_7_churchill_crocodile}}
+|-
+| <pre>uk_a_22_mk_1_churchill_1941</pre> || {{Specs-Link|uk_a_22_mk_1_churchill_1941}}
+|-
+| <pre>uk_a_22b_mk_3_churchill_1942</pre> || {{Specs-Link|uk_a_22b_mk_3_churchill_1942}}
+|-
+| <pre>uk_churchill_na75</pre> || {{Specs-Link|uk_churchill_na75}}
+|-
+| <pre>uk_a_22f_mk_7_churchill_1944</pre> || {{Specs-Link|uk_a_22f_mk_7_churchill_1944}}
+|-
+| <pre>uk_a_34_comet</pre> || {{Specs-Link|uk_a_34_comet}}
+|-
+| <pre>uk_a_34_comet_iron_duke</pre> || {{Specs-Link|uk_a_34_comet_iron_duke}}
+|-
+| <pre>uk_concept3_ngac</pre> || {{Specs-Link|uk_concept3_ngac}}
+|-
+| <pre>uk_conqueror_mk_2</pre> || {{Specs-Link|uk_conqueror_mk_2}}
+|-
+| <pre>uk_fv4004_conway</pre> || {{Specs-Link|uk_fv4004_conway}}
+|-
+| <pre>uk_a27m_cromwell_1</pre> || {{Specs-Link|uk_a27m_cromwell_1}}
+|-
+| <pre>uk_a27m_cromwell_5</pre> || {{Specs-Link|uk_a27m_cromwell_5}}
+|-
+| <pre>uk_a27m_cromwell_5_rp3</pre> || {{Specs-Link|uk_a27m_cromwell_5_rp3}}
+|-
+| <pre>uk_crusader_aa_mk_1</pre> || {{Specs-Link|uk_crusader_aa_mk_1}}
+|-
+| <pre>uk_crusader_aa_mk_2</pre> || {{Specs-Link|uk_crusader_aa_mk_2}}
+|-
+| <pre>uk_crusader_aa_mk_2_tutorial</pre> || {{Specs-Link|uk_crusader_aa_mk_2_tutorial}}
+|-
+| <pre>uk_crusader_mk_2</pre> || {{Specs-Link|uk_crusader_mk_2}}
+|-
+| <pre>uk_crusader_mk_3</pre> || {{Specs-Link|uk_crusader_mk_3}}
+|-
+| <pre>uk_crusader_mk_2_the_saint</pre> || {{Specs-Link|uk_crusader_mk_2_the_saint}}
+|-
+| <pre>uk_daimler_mk_2</pre> || {{Specs-Link|uk_daimler_mk_2}}
+|-
+| <pre>uk_eland_90_mk_7</pre> || {{Specs-Link|uk_eland_90_mk_7}}
+|-
+| <pre>uk_a_33_excelsior</pre> || {{Specs-Link|uk_a_33_excelsior}}
+|-
+| <pre>uk_falcon</pre> || {{Specs-Link|uk_falcon}}
+|-
+| <pre>uk_fv4005</pre> || {{Specs-Link|uk_fv4005}}
+|-
+| <pre>uk_fv4202</pre> || {{Specs-Link|uk_fv4202}}
+|-
+| <pre>uk_g6_spg</pre> || {{Specs-Link|uk_g6_spg}}
+|-
+| <pre>uk_mk1_grant</pre> || {{Specs-Link|uk_mk1_grant}}
+|-
+| <pre>uk_3_inch_gun_carrier</pre> || {{Specs-Link|uk_3_inch_gun_carrier}}
+|-
+| <pre>uk_a1e1_independent</pre> || {{Specs-Link|uk_a1e1_independent}}
+|-
+| <pre>uk_khalid</pre> || {{Specs-Link|uk_khalid}}
+|-
+| <pre>uk_vickers_mk_6_aa_mk_1</pre> || {{Specs-Link|uk_vickers_mk_6_aa_mk_1}}
+|-
+| <pre>uk_matilda_hedgehog</pre> || {{Specs-Link|uk_matilda_hedgehog}}
+|-
+| <pre>uk_a_12_mk_2_matilda_2</pre> || {{Specs-Link|uk_a_12_mk_2_matilda_2}}
+|-
+| <pre>uk_olifant_mk_1a</pre> || {{Specs-Link|uk_olifant_mk_1a}}
+|-
+| <pre>uk_olifant_mk_2</pre> || {{Specs-Link|uk_olifant_mk_2}}
+|-
+| <pre>uk_ram_90mm_aa</pre> || {{Specs-Link|uk_ram_90mm_aa}}
+|-
+| <pre>uk_ratel_20</pre> || {{Specs-Link|uk_ratel_20}}
+|-
+| <pre>uk_ratel_90</pre> || {{Specs-Link|uk_ratel_90}}
+|-
+| <pre>uk_rooikat_105_td</pre> || {{Specs-Link|uk_rooikat_105_td}}
+|-
+| <pre>uk_rooikat_76</pre> || {{Specs-Link|uk_rooikat_76}}
+|-
+| <pre>uk_rooikat_mttd</pre> || {{Specs-Link|uk_rooikat_mttd}}
+|-
+| <pre>uk_sarc_mk4_a</pre> || {{Specs-Link|uk_sarc_mk4_a}}
+|-
+| <pre>uk_marmon_herrington_mk_6_2pdr</pre> || {{Specs-Link|uk_marmon_herrington_mk_6_2pdr}}
+|-
+| <pre>uk_marmon_herrington_mk_6_6pdr</pre> || {{Specs-Link|uk_marmon_herrington_mk_6_6pdr}}
+|-
+| <pre>uk_sherman_vc_firefly</pre> || {{Specs-Link|uk_sherman_vc_firefly}}
+|-
+| <pre>uk_sherman_ic_firefly</pre> || {{Specs-Link|uk_sherman_ic_firefly}}
+|-
+| <pre>uk_sherman_II</pre> || {{Specs-Link|uk_sherman_II}}
+|-
+| <pre>uk_skink_aa</pre> || {{Specs-Link|uk_skink_aa}}
+|-
+| <pre>uk_t17e2</pre> || {{Specs-Link|uk_t17e2}}
+|-
+| <pre>uk_stormer_hvm</pre> || {{Specs-Link|uk_stormer_hvm}}
+|-
+| <pre>uk_fv102_striker</pre> || {{Specs-Link|uk_fv102_striker}}
+|-
+| <pre>uk_m3_stuart</pre> || {{Specs-Link|uk_m3_stuart}}
+|-
+| <pre>uk_m3a1_stuart</pre> || {{Specs-Link|uk_m3a1_stuart}}
+|-
+| <pre>uk_fv438_swingfire</pre> || {{Specs-Link|uk_fv438_swingfire}}
+|-
+| <pre>uk_a17_mk_1_tetrarch</pre> || {{Specs-Link|uk_a17_mk_1_tetrarch}}
+|-
+| <pre>uk_a39_tortoise</pre> || {{Specs-Link|uk_a39_tortoise}}
+|-
+| <pre>uk_ttd</pre> || {{Specs-Link|uk_ttd}}
+|-
+| <pre>uk_valentine_mk_1</pre> || {{Specs-Link|uk_valentine_mk_1}}
+|-
+| <pre>uk_valentine_mk_9</pre> || {{Specs-Link|uk_valentine_mk_9}}
+|-
+| <pre>uk_valentine_mk_11</pre> || {{Specs-Link|uk_valentine_mk_11}}
+|-
+| <pre>uk_vfm_5</pre> || {{Specs-Link|uk_vfm_5}}
+|-
+| <pre>uk_vickers_mbt_mk_1</pre> || {{Specs-Link|uk_vickers_mbt_mk_1}}
+|-
+| <pre>uk_vickers_mbt_mk_3</pre> || {{Specs-Link|uk_vickers_mbt_mk_3}}
+|-
+| <pre>uk_vickers_mk7</pre> || {{Specs-Link|uk_vickers_mk7}}
+|-
+| <pre>uk_vijayanta</pre> || {{Specs-Link|uk_vijayanta}}
+|-
+| <pre>uk_fv510_isv</pre> || {{Specs-Link|uk_fv510_isv}}
+|-
+| <pre>uk_ystervark_spaa</pre> || {{Specs-Link|uk_ystervark_spaa}}
+|-
+| <pre>uk_rooikat_za_35</pre> || {{Specs-Link|uk_rooikat_za_35}}
+|-
+| <pre>uk_ratel_zt3</pre> || {{Specs-Link|uk_ratel_zt3}}
+|}
+
+----
+==== Japan ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>jp_pzkpfw_VI_ausf_e_tiger</pre> || {{Specs-Link|jp_pzkpfw_VI_ausf_e_tiger}}
+|-
+| <pre>jp_halftrack_m16</pre> || {{Specs-Link|jp_halftrack_m16}}
+|-
+| <pre>jp_m19</pre> || {{Specs-Link|jp_m19}}
+|-
+| <pre>jp_m24_chaffee</pre> || {{Specs-Link|jp_m24_chaffee}}
+|-
+| <pre>jp_m36b2_jgsdf</pre> || {{Specs-Link|jp_m36b2_jgsdf}}
+|-
+| <pre>jp_m41_walker_bulldog</pre> || {{Specs-Link|jp_m41_walker_bulldog}}
+|-
+| <pre>jp_m42_duster</pre> || {{Specs-Link|jp_m42_duster}}
+|-
+| <pre>jp_m47_patton_II</pre> || {{Specs-Link|jp_m47_patton_II}}
+|-
+| <pre>jp_m4a3e8_76w_sherman</pre> || {{Specs-Link|jp_m4a3e8_76w_sherman}}
+|-
+| <pre>jp_type_97_chi_ha</pre> || {{Specs-Link|jp_type_97_chi_ha}}
+|-
+| <pre>jp_type_97_kai</pre> || {{Specs-Link|jp_type_97_kai}}
+|-
+| <pre>jp_type_97_kai_td</pre> || {{Specs-Link|jp_type_97_kai_td}}
+|-
+| <pre>jp_navy_120mm_spg</pre> || {{Specs-Link|jp_navy_120mm_spg}}
+|-
+| <pre>jp_type_97_chi_ha_12cm</pre> || {{Specs-Link|jp_type_97_chi_ha_12cm}}
+|-
+| <pre>jp_type_1_chi_he</pre> || {{Specs-Link|jp_type_1_chi_he}}
+|-
+| <pre>jp_type_1_chi_he_5th_regiment</pre> || {{Specs-Link|jp_type_1_chi_he_5th_regiment}}
+|-
+| <pre>jp_type_3_chi_nu</pre> || {{Specs-Link|jp_type_3_chi_nu}}
+|-
+| <pre>jp_type_3_chi_nu_75cm_type_5</pre> || {{Specs-Link|jp_type_3_chi_nu_75cm_type_5}}
+|-
+| <pre>jp_type_5_chi_ri</pre> || {{Specs-Link|jp_type_5_chi_ri}}
+|-
+| <pre>jp_type_4_chi_to</pre> || {{Specs-Link|jp_type_4_chi_to}}
+|-
+| <pre>jp_type_4_chi_to_late</pre> || {{Specs-Link|jp_type_4_chi_to_late}}
+|-
+| <pre>jp_type_95_ha_go</pre> || {{Specs-Link|jp_type_95_ha_go}}
+|-
+| <pre>jp_type_95_ha_go_commander</pre> || {{Specs-Link|jp_type_95_ha_go_commander}}
+|-
+| <pre>jp_type_2_ho_i</pre> || {{Specs-Link|jp_type_2_ho_i}}
+|-
+| <pre>jp_type_3_ho_ni_I</pre> || {{Specs-Link|jp_type_3_ho_ni_I}}
+|-
+| <pre>jp_type_3_ho_ni_III</pre> || {{Specs-Link|jp_type_3_ho_ni_III}}
+|-
+| <pre>jp_type_5_ho_ri_production</pre> || {{Specs-Link|jp_type_5_ho_ri_production}}
+|-
+| <pre>jp_type_5_ho_ri_prototype</pre> || {{Specs-Link|jp_type_5_ho_ri_prototype}}
+|-
+| <pre>jp_type_4_ho_ro</pre> || {{Specs-Link|jp_type_4_ho_ro}}
+|-
+| <pre>jp_type_89b_i_go_otsu</pre> || {{Specs-Link|jp_type_89b_i_go_otsu}}
+|-
+| <pre>jp_type_3_ka_chi</pre> || {{Specs-Link|jp_type_3_ka_chi}}
+|-
+| <pre>jp_type_2_ka_mi</pre> || {{Specs-Link|jp_type_2_ka_mi}}
+|-
+| <pre>jp_type_98_ke_ni</pre> || {{Specs-Link|jp_type_98_ke_ni}}
+|-
+| <pre>jp_type_5_na_to</pre> || {{Specs-Link|jp_type_5_na_to}}
+|-
+| <pre>jp_type_95_heavy</pre> || {{Specs-Link|jp_type_95_heavy}}
+|-
+| <pre>jp_hiro_sha</pre> || {{Specs-Link|jp_hiro_sha}}
+|-
+| <pre>jp_type_95_so_ki</pre> || {{Specs-Link|jp_type_95_so_ki}}
+|-
+| <pre>jp_st_a1</pre> || {{Specs-Link|jp_st_a1}}
+|-
+| <pre>jp_st_a2</pre> || {{Specs-Link|jp_st_a2}}
+|-
+| <pre>jp_st_a3</pre> || {{Specs-Link|jp_st_a3}}
+|-
+| <pre>jp_st_b1</pre> || {{Specs-Link|jp_st_b1}}
+|-
+| <pre>jp_sub_i_ii_20mm</pre> || {{Specs-Link|jp_sub_i_ii_20mm}}
+|-
+| <pre>jp_type_98_ta_se</pre> || {{Specs-Link|jp_type_98_ta_se}}
+|-
+| <pre>jp_tkx_prot</pre> || {{Specs-Link|jp_tkx_prot}}
+|-
+| <pre>jp_type_10</pre> || {{Specs-Link|jp_type_10}}
+|-
+| <pre>jp_type_16</pre> || {{Specs-Link|jp_type_16}}
+|-
+| <pre>jp_type_16_mod</pre> || {{Specs-Link|jp_type_16_mod}}
+|-
+| <pre>jp_type_16_mcv_prot</pre> || {{Specs-Link|jp_type_16_mcv_prot}}
+|-
+| <pre>jp_type_60_atm</pre> || {{Specs-Link|jp_type_60_atm}}
+|-
+| <pre>jp_type_60_sprg</pre> || {{Specs-Link|jp_type_60_sprg}}
+|-
+| <pre>jp_type_61</pre> || {{Specs-Link|jp_type_61}}
+|-
+| <pre>jp_type_74_c</pre> || {{Specs-Link|jp_type_74_c}}
+|-
+| <pre>jp_type_74</pre> || {{Specs-Link|jp_type_74}}
+|-
+| <pre>jp_type_74_f</pre> || {{Specs-Link|jp_type_74_f}}
+|-
+| <pre>jp_type_74_mod_g_kai</pre> || {{Specs-Link|jp_type_74_mod_g_kai}}
+|-
+| <pre>jp_type_75_mlrs</pre> || {{Specs-Link|jp_type_75_mlrs}}
+|-
+| <pre>jp_type_75</pre> || {{Specs-Link|jp_type_75}}
+|-
+| <pre>jp_type_87</pre> || {{Specs-Link|jp_type_87}}
+|-
+| <pre>jp_type_87_rcv</pre> || {{Specs-Link|jp_type_87_rcv}}
+|-
+| <pre>jp_type_87_rcv_prot</pre> || {{Specs-Link|jp_type_87_rcv_prot}}
+|-
+| <pre>jp_type_89</pre> || {{Specs-Link|jp_type_89}}
+|-
+| <pre>jp_type_90</pre> || {{Specs-Link|jp_type_90}}
+|-
+| <pre>jp_type_90b</pre> || {{Specs-Link|jp_type_90b}}
+|-
+| <pre>jp_type_93</pre> || {{Specs-Link|jp_type_93}}
+|-
+| <pre>jp_type_94</pre> || {{Specs-Link|jp_type_94}}
+|}
+
+----
+==== China ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>cn_type_97_chi_ha</pre> || {{Specs-Link|cn_type_97_chi_ha}}
+|-
+| <pre>cn_type_97_kai</pre> || {{Specs-Link|cn_type_97_kai}}
+|-
+| <pre>cn_is_2_1943</pre> || {{Specs-Link|cn_is_2_1943}}
+|-
+| <pre>cn_is_2_1944</pre> || {{Specs-Link|cn_is_2_1944}}
+|-
+| <pre>cn_isu_122</pre> || {{Specs-Link|cn_isu_122}}
+|-
+| <pre>cn_isu_152</pre> || {{Specs-Link|cn_isu_152}}
+|-
+| <pre>cn_m10</pre> || {{Specs-Link|cn_m10}}
+|-
+| <pre>cn_m113a1_tow</pre> || {{Specs-Link|cn_m113a1_tow}}
+|-
+| <pre>cn_m18_hellcat</pre> || {{Specs-Link|cn_m18_hellcat}}
+|-
+| <pre>cn_m24_chaffee</pre> || {{Specs-Link|cn_m24_chaffee}}
+|-
+| <pre>cn_m36</pre> || {{Specs-Link|cn_m36}}
+|-
+| <pre>cn_m3a3_stuart_1st_ptg</pre> || {{Specs-Link|cn_m3a3_stuart_1st_ptg}}
+|-
+| <pre>cn_m3a3_stuart</pre> || {{Specs-Link|cn_m3a3_stuart}}
+|-
+| <pre>cn_m42_duster</pre> || {{Specs-Link|cn_m42_duster}}
+|-
+| <pre>cn_m48a1_patton_III</pre> || {{Specs-Link|cn_m48a1_patton_III}}
+|-
+| <pre>cn_m4a1_76w_sherman</pre> || {{Specs-Link|cn_m4a1_76w_sherman}}
+|-
+| <pre>cn_m4a4_sherman</pre> || {{Specs-Link|cn_m4a4_sherman}}
+|-
+| <pre>cn_m4a4_sherman_1st_ptg</pre> || {{Specs-Link|cn_m4a4_sherman_1st_ptg}}
+|-
+| <pre>cn_m5a1_stuart</pre> || {{Specs-Link|cn_m5a1_stuart}}
+|-
+| <pre>cn_m60a3_tts</pre> || {{Specs-Link|cn_m60a3_tts}}
+|-
+| <pre>cn_m8_scott</pre> || {{Specs-Link|cn_m8_scott}}
+|-
+| <pre>cn_m8_greyhound</pre> || {{Specs-Link|cn_m8_greyhound}}
+|-
+| <pre>cn_pt_76</pre> || {{Specs-Link|cn_pt_76}}
+|-
+| <pre>cn_sdkfz_222_early</pre> || {{Specs-Link|cn_sdkfz_222_early}}
+|-
+| <pre>cn_su_100_1945</pre> || {{Specs-Link|cn_su_100_1945}}
+|-
+| <pre>cn_su_76m_1943</pre> || {{Specs-Link|cn_su_76m_1943}}
+|-
+| <pre>cn_t_26_1940</pre> || {{Specs-Link|cn_t_26_1940}}
+|-
+| <pre>cn_t_34_1942</pre> || {{Specs-Link|cn_t_34_1942}}
+|-
+| <pre>cn_t_34_85_d_5t</pre> || {{Specs-Link|cn_t_34_85_d_5t}}
+|-
+| <pre>cn_hj_9</pre> || {{Specs-Link|cn_hj_9}}
+|-
+| <pre>cn_gmc_cckw_353_m45_quad</pre> || {{Specs-Link|cn_gmc_cckw_353_m45_quad}}
+|-
+| <pre>cn_cm11</pre> || {{Specs-Link|cn_cm11}}
+|-
+| <pre>cn_cm_25</pre> || {{Specs-Link|cn_cm_25}}
+|-
+| <pre>cn_is_2_1943_no402</pre> || {{Specs-Link|cn_is_2_1943_no402}}
+|-
+| <pre>cn_lvt_4_zis_2</pre> || {{Specs-Link|cn_lvt_4_zis_2}}
+|-
+| <pre>cn_m_41d</pre> || {{Specs-Link|cn_m_41d}}
+|-
+| <pre>cn_type_64</pre> || {{Specs-Link|cn_type_64}}
+|-
+| <pre>cn_object_122tm</pre> || {{Specs-Link|cn_object_122tm}}
+|-
+| <pre>cn_object_211</pre> || {{Specs-Link|cn_object_211}}
+|-
+| <pre>cn_pgz_04a</pre> || {{Specs-Link|cn_pgz_04a}}
+|-
+| <pre>cn_pgz_09</pre> || {{Specs-Link|cn_pgz_09}}
+|-
+| <pre>cn_type_65_aa</pre> || {{Specs-Link|cn_type_65_aa}}
+|-
+| <pre>cn_ptl_02</pre> || {{Specs-Link|cn_ptl_02}}
+|-
+| <pre>cn_ptz_89</pre> || {{Specs-Link|cn_ptz_89}}
+|-
+| <pre>cn_qn506</pre> || {{Specs-Link|cn_qn506}}
+|-
+| <pre>cn_t_26_no531</pre> || {{Specs-Link|cn_t_26_no531}}
+|-
+| <pre>cn_t_34_85_zis_53_no215</pre> || {{Specs-Link|cn_t_34_85_zis_53_no215}}
+|-
+| <pre>cn_type_69_2g</pre> || {{Specs-Link|cn_type_69_2g}}
+|-
+| <pre>cn_tor_m1</pre> || {{Specs-Link|cn_tor_m1}}
+|-
+| <pre>cn_type_59</pre> || {{Specs-Link|cn_type_59}}
+|-
+| <pre>cn_type_62</pre> || {{Specs-Link|cn_type_62}}
+|-
+| <pre>cn_type_63_I</pre> || {{Specs-Link|cn_type_63_I}}
+|-
+| <pre>cn_type_69</pre> || {{Specs-Link|cn_type_69}}
+|-
+| <pre>cn_wma_301</pre> || {{Specs-Link|cn_wma_301}}
+|-
+| <pre>cn_wz_1001</pre> || {{Specs-Link|cn_wz_1001}}
+|-
+| <pre>cn_wz_305</pre> || {{Specs-Link|cn_wz_305}}
+|-
+| <pre>cn_type_86</pre> || {{Specs-Link|cn_type_86}}
+|-
+| <pre>cn_ztl_11</pre> || {{Specs-Link|cn_ztl_11}}
+|-
+| <pre>cn_zsd63_pg87</pre> || {{Specs-Link|cn_zsd63_pg87}}
+|-
+| <pre>cn_zts_63_1980</pre> || {{Specs-Link|cn_zts_63_1980}}
+|-
+| <pre>cn_ztz_59a</pre> || {{Specs-Link|cn_ztz_59a}}
+|-
+| <pre>cn_type_59d</pre> || {{Specs-Link|cn_type_59d}}
+|-
+| <pre>cn_ztz_88a</pre> || {{Specs-Link|cn_ztz_88a}}
+|-
+| <pre>cn_ztz_88b</pre> || {{Specs-Link|cn_ztz_88b}}
+|-
+| <pre>cn_ztz_96</pre> || {{Specs-Link|cn_ztz_96}}
+|-
+| <pre>cn_ztz_96a_race</pre> || {{Specs-Link|cn_ztz_96a_race}}
+|-
+| <pre>cn_ztz_96a</pre> || {{Specs-Link|cn_ztz_96a}}
+|-
+| <pre>cn_ztz_96a_prot</pre> || {{Specs-Link|cn_ztz_96a_prot}}
+|-
+| <pre>cn_ztz_99</pre> || {{Specs-Link|cn_ztz_99}}
+|-
+| <pre>cn_ztz_99_w</pre> || {{Specs-Link|cn_ztz_99_w}}
+|-
+| <pre>cn_ztz_99a</pre> || {{Specs-Link|cn_ztz_99a}}
+|-
+| <pre>cn_type_58</pre> || {{Specs-Link|cn_type_58}}
+|-
+| <pre>cn_t_62</pre> || {{Specs-Link|cn_t_62}}
+|}
+
+----
+==== Italy ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>it_leopard_1a5</pre> || {{Specs-Link|it_leopard_1a5}}
+|-
+| <pre>it_m18_hellcat</pre> || {{Specs-Link|it_m18_hellcat}}
+|-
+| <pre>it_m24_chaffee</pre> || {{Specs-Link|it_m24_chaffee}}
+|-
+| <pre>it_m3a3_stuart</pre> || {{Specs-Link|it_m3a3_stuart}}
+|-
+| <pre>it_sherman_75_37</pre> || {{Specs-Link|it_sherman_75_37}}
+|-
+| <pre>it_m4a4_sherman</pre> || {{Specs-Link|it_m4a4_sherman}}
+|-
+| <pre>it_pzkpfw_III_ausf_N</pre> || {{Specs-Link|it_pzkpfw_III_ausf_N}}
+|-
+| <pre>it_pzkpfw_IV_ausf_G</pre> || {{Specs-Link|it_pzkpfw_IV_ausf_G}}
+|-
+| <pre>it_sherman_vc_firefly</pre> || {{Specs-Link|it_sherman_vc_firefly}}
+|-
+| <pre>it_stug_III_ausf_G</pre> || {{Specs-Link|it_stug_III_ausf_G}}
+|-
+| <pre>it_semovente_m43_105</pre> || {{Specs-Link|it_semovente_m43_105}}
+|-
+| <pre>it_semovente_l40</pre> || {{Specs-Link|it_semovente_l40}}
+|-
+| <pre>it_semovente_m41_75_18</pre> || {{Specs-Link|it_semovente_m41_75_18}}
+|-
+| <pre>it_semovente_m41_75_32</pre> || {{Specs-Link|it_semovente_m41_75_32}}
+|-
+| <pre>it_semovente_m42_75_34</pre> || {{Specs-Link|it_semovente_m42_75_34}}
+|-
+| <pre>it_semovente_m43_75_34</pre> || {{Specs-Link|it_semovente_m43_75_34}}
+|-
+| <pre>it_semovente_m43_75_46</pre> || {{Specs-Link|it_semovente_m43_75_46}}
+|-
+| <pre>it_semovente_m41m_90</pre> || {{Specs-Link|it_semovente_m41m_90}}
+|-
+| <pre>it_ab_41</pre> || {{Specs-Link|it_ab_41}}
+|-
+| <pre>it_ab_43</pre> || {{Specs-Link|it_ab_43}}
+|-
+| <pre>it_c1_ariete</pre> || {{Specs-Link|it_c1_ariete}}
+|-
+| <pre>it_c1_ariete_preserie</pre> || {{Specs-Link|it_c1_ariete_preserie}}
+|-
+| <pre>it_ariete_amv_pt1</pre> || {{Specs-Link|it_ariete_amv_pt1}}
+|-
+| <pre>it_c1_ariete_pso</pre> || {{Specs-Link|it_c1_ariete_pso}}
+|-
+| <pre>it_as_42_metropolitana</pre> || {{Specs-Link|it_as_42_metropolitana}}
+|-
+| <pre>it_as_42_47</pre> || {{Specs-Link|it_as_42_47}}
+|-
+| <pre>it_fiat_6616_cockerill</pre> || {{Specs-Link|it_fiat_6616_cockerill}}
+|-
+| <pre>it_aubl_74_60_70m</pre> || {{Specs-Link|it_aubl_74_60_70m}}
+|-
+| <pre>it_semovente_breda_501</pre> || {{Specs-Link|it_semovente_breda_501}}
+|-
+| <pre>it_c13_t90</pre> || {{Specs-Link|it_c13_t90}}
+|-
+| <pre>it_sahariano</pre> || {{Specs-Link|it_sahariano}}
+|-
+| <pre>it_b1_centauro</pre> || {{Specs-Link|it_b1_centauro}}
+|-
+| <pre>it_b1_centauro_romor</pre> || {{Specs-Link|it_b1_centauro_romor}}
+|-
+| <pre>it_centauro_mgs_120</pre> || {{Specs-Link|it_centauro_mgs_120}}
+|-
+| <pre>it_fiat_cm52</pre> || {{Specs-Link|it_fiat_cm52}}
+|-
+| <pre>it_dardo_vcc</pre> || {{Specs-Link|it_dardo_vcc}}
+|-
+| <pre>it_fiat_6614_106sr</pre> || {{Specs-Link|it_fiat_6614_106sr}}
+|-
+| <pre>it_freccia</pre> || {{Specs-Link|it_freccia}}
+|-
+| <pre>it_l3_cc</pre> || {{Specs-Link|it_l3_cc}}
+|-
+| <pre>it_l6</pre> || {{Specs-Link|it_l6}}
+|-
+| <pre>it_l6_leone</pre> || {{Specs-Link|it_l6_leone}}
+|-
+| <pre>it_lancia3ro_100</pre> || {{Specs-Link|it_lancia3ro_100}}
+|-
+| <pre>it_m11_39</pre> || {{Specs-Link|it_m11_39}}
+|-
+| <pre>it_m113a1_tow</pre> || {{Specs-Link|it_m113a1_tow}}
+|-
+| <pre>it_m13_40_serie_1</pre> || {{Specs-Link|it_m13_40_serie_1}}
+|-
+| <pre>it_m13_40_serie_2</pre> || {{Specs-Link|it_m13_40_serie_2}}
+|-
+| <pre>it_m13_40_serie_3</pre> || {{Specs-Link|it_m13_40_serie_3}}
+|-
+| <pre>it_m14_41</pre> || {{Specs-Link|it_m14_41}}
+|-
+| <pre>it_m14_41_47_40</pre> || {{Specs-Link|it_m14_41_47_40}}
+|-
+| <pre>it_m15_42</pre> || {{Specs-Link|it_m15_42}}
+|-
+| <pre>it_m26_ariete</pre> || {{Specs-Link|it_m26_ariete}}
+|-
+| <pre>it_m26a1_pershing</pre> || {{Specs-Link|it_m26a1_pershing}}
+|-
+| <pre>it_m36b1</pre> || {{Specs-Link|it_m36b1}}
+|-
+| <pre>it_sherman_VII</pre> || {{Specs-Link|it_sherman_VII}}
+|-
+| <pre>it_m15_42_contraereo</pre> || {{Specs-Link|it_m15_42_contraereo}}
+|-
+| <pre>it_semovente_m43_105_leoncello</pre> || {{Specs-Link|it_semovente_m43_105_leoncello}}
+|-
+| <pre>it_m47_105</pre> || {{Specs-Link|it_m47_105}}
+|-
+| <pre>it_m60a1_ariete</pre> || {{Specs-Link|it_m60a1_ariete}}
+|-
+| <pre>it_of_40_mk_1</pre> || {{Specs-Link|it_of_40_mk_1}}
+|-
+| <pre>it_of_40_mtca</pre> || {{Specs-Link|it_of_40_mtca}}
+|-
+| <pre>it_of_40_mk_2a</pre> || {{Specs-Link|it_of_40_mk_2a}}
+|-
+| <pre>it_otomatic</pre> || {{Specs-Link|it_otomatic}}
+|-
+| <pre>it_p_40</pre> || {{Specs-Link|it_p_40}}
+|-
+| <pre>it_p_26_40</pre> || {{Specs-Link|it_p_26_40}}
+|-
+| <pre>it_oto_r3_106sr</pre> || {{Specs-Link|it_oto_r3_106sr}}
+|-
+| <pre>it_oto_r3_t20_fa</pre> || {{Specs-Link|it_oto_r3_t20_fa}}
+|-
+| <pre>it_otobreda_sidam_25</pre> || {{Specs-Link|it_otobreda_sidam_25}}
+|-
+| <pre>it_otobreda_sidam_25_mistral</pre> || {{Specs-Link|it_otobreda_sidam_25_mistral}}
+|-
+| <pre>it_toldi_II_a</pre> || {{Specs-Link|it_toldi_II_a}}
+|-
+| <pre>it_41m_turan_2</pre> || {{Specs-Link|it_41m_turan_2}}
+|-
+| <pre>it_vbc_pt2</pre> || {{Specs-Link|it_vbc_pt2}}
+|-
+| <pre>it_vcc_80_hitfist_30</pre> || {{Specs-Link|it_vcc_80_hitfist_30}}
+|-
+| <pre>it_vcc_80_hitfist_60</pre> || {{Specs-Link|it_vcc_80_hitfist_60}}
+|-
+| <pre>it_vrcc_centauro</pre> || {{Specs-Link|it_vrcc_centauro}}
+|-
+| <pre>it_44m_zrinyi_1</pre> || {{Specs-Link|it_44m_zrinyi_1}}
+|}
+
+----
+==== France ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>fr_crusader_mk_2</pre> || {{Specs-Link|fr_crusader_mk_2}}
+|-
+| <pre>fr_crotale_ng</pre> || {{Specs-Link|fr_crotale_ng}}
+|-
+| <pre>fr_m10</pre> || {{Specs-Link|fr_m10}}
+|-
+| <pre>fr_m36b2_cefeo</pre> || {{Specs-Link|fr_m36b2_cefeo}}
+|-
+| <pre>fr_m3a3_stuart</pre> || {{Specs-Link|fr_m3a3_stuart}}
+|-
+| <pre>fr_m4a1_sherman</pre> || {{Specs-Link|fr_m4a1_sherman}}
+|-
+| <pre>fr_m4a3_105_sherman</pre> || {{Specs-Link|fr_m4a3_105_sherman}}
+|-
+| <pre>fr_m4a3e2_sherman_jumbo</pre> || {{Specs-Link|fr_m4a3e2_sherman_jumbo}}
+|-
+| <pre>fr_m4a4_sherman</pre> || {{Specs-Link|fr_m4a4_sherman}}
+|-
+| <pre>fr_char_2c</pre> || {{Specs-Link|fr_char_2c}}
+|-
+| <pre>fr_char_2c_bis</pre> || {{Specs-Link|fr_char_2c_bis}}
+|-
+| <pre>fr_amc_34</pre> || {{Specs-Link|fr_amc_34}}
+|-
+| <pre>fr_amc_35</pre> || {{Specs-Link|fr_amc_35}}
+|-
+| <pre>fr_amd_35</pre> || {{Specs-Link|fr_amd_35}}
+|-
+| <pre>fr_amd_35_sa35</pre> || {{Specs-Link|fr_amd_35_sa35}}
+|-
+| <pre>fr_aml_90</pre> || {{Specs-Link|fr_aml_90}}
+|-
+| <pre>fr_amr_35_zt3</pre> || {{Specs-Link|fr_amr_35_zt3}}
+|-
+| <pre>fr_amx_m4</pre> || {{Specs-Link|fr_amx_m4}}
+|-
+| <pre>fr_amx_10rc</pre> || {{Specs-Link|fr_amx_10rc}}
+|-
+| <pre>fr_amx_13_75</pre> || {{Specs-Link|fr_amx_13_75}}
+|-
+| <pre>fr_amx_13_fl_11</pre> || {{Specs-Link|fr_amx_13_fl_11}}
+|-
+| <pre>fr_amx_13_hot</pre> || {{Specs-Link|fr_amx_13_hot}}
+|-
+| <pre>fr_amx_13_75_ss11</pre> || {{Specs-Link|fr_amx_13_75_ss11}}
+|-
+| <pre>fr_amx_13_dca_40</pre> || {{Specs-Link|fr_amx_13_dca_40}}
+|-
+| <pre>fr_amx_13_90</pre> || {{Specs-Link|fr_amx_13_90}}
+|-
+| <pre>fr_amx_13_chaffee</pre> || {{Specs-Link|fr_amx_13_chaffee}}
+|-
+| <pre>fr_amx_30</pre> || {{Specs-Link|fr_amx_30}}
+|-
+| <pre>fr_amx_30_1972</pre> || {{Specs-Link|fr_amx_30_1972}}
+|-
+| <pre>fr_amx_30_ACRA</pre> || {{Specs-Link|fr_amx_30_ACRA}}
+|-
+| <pre>fr_amx_30_dca</pre> || {{Specs-Link|fr_amx_30_dca}}
+|-
+| <pre>fr_amx_30_super</pre> || {{Specs-Link|fr_amx_30_super}}
+|-
+| <pre>fr_amx_30_b2</pre> || {{Specs-Link|fr_amx_30_b2}}
+|-
+| <pre>fr_amx_30_b2_brenus</pre> || {{Specs-Link|fr_amx_30_b2_brenus}}
+|-
+| <pre>fr_amx_32</pre> || {{Specs-Link|fr_amx_32}}
+|-
+| <pre>fr_amx_32_105</pre> || {{Specs-Link|fr_amx_32_105}}
+|-
+| <pre>fr_amx_40</pre> || {{Specs-Link|fr_amx_40}}
+|-
+| <pre>fr_amx_50_1950</pre> || {{Specs-Link|fr_amx_50_1950}}
+|-
+| <pre>fr_amx_50</pre> || {{Specs-Link|fr_amx_50}}
+|-
+| <pre>fr_amx_50_foch</pre> || {{Specs-Link|fr_amx_50_foch}}
+|-
+| <pre>fr_amx_50_surbaisse</pre> || {{Specs-Link|fr_amx_50_surbaisse}}
+|-
+| <pre>fr_amx_50_surblinde</pre> || {{Specs-Link|fr_amx_50_surblinde}}
+|-
+| <pre>fr_arl_44</pre> || {{Specs-Link|fr_arl_44}}
+|-
+| <pre>fr_arl_44_acl1</pre> || {{Specs-Link|fr_arl_44_acl1}}
+|-
+| <pre>fr_amx_30_auf_1</pre> || {{Specs-Link|fr_amx_30_auf_1}}
+|-
+| <pre>fr_b1_bis</pre> || {{Specs-Link|fr_b1_bis}}
+|-
+| <pre>fr_b1_ter</pre> || {{Specs-Link|fr_b1_ter}}
+|-
+| <pre>fr_lorraine_100</pre> || {{Specs-Link|fr_lorraine_100}}
+|-
+| <pre>fr_cckw_353_bofors</pre> || {{Specs-Link|fr_cckw_353_bofors}}
+|-
+| <pre>fr_bat_chat_25t</pre> || {{Specs-Link|fr_bat_chat_25t}}
+|-
+| <pre>fr_renault_d2</pre> || {{Specs-Link|fr_renault_d2}}
+|-
+| <pre>fr_panhard_ebr_1951</pre> || {{Specs-Link|fr_panhard_ebr_1951}}
+|-
+| <pre>fr_panhard_ebr_1954</pre> || {{Specs-Link|fr_panhard_ebr_1954}}
+|-
+| <pre>fr_panhard_ebr_1963</pre> || {{Specs-Link|fr_panhard_ebr_1963}}
+|-
+| <pre>fr_amx_elc_bis</pre> || {{Specs-Link|fr_amx_elc_bis}}
+|-
+| <pre>fr_fcm_36</pre> || {{Specs-Link|fr_fcm_36}}
+|-
+| <pre>fr_hotchkiss_h35</pre> || {{Specs-Link|fr_hotchkiss_h35}}
+|-
+| <pre>fr_hotchkiss_h39</pre> || {{Specs-Link|fr_hotchkiss_h39}}
+|-
+| <pre>fr_hotchkiss_h39_cambronne</pre> || {{Specs-Link|fr_hotchkiss_h39_cambronne}}
+|-
+| <pre>fr_leclerc_s1</pre> || {{Specs-Link|fr_leclerc_s1}}
+|-
+| <pre>fr_leclerc_s2</pre> || {{Specs-Link|fr_leclerc_s2}}
+|-
+| <pre>fr_leclerc_sxxi</pre> || {{Specs-Link|fr_leclerc_sxxi}}
+|-
+| <pre>fr_lorraine_155</pre> || {{Specs-Link|fr_lorraine_155}}
+|-
+| <pre>fr_lorraine_37l</pre> || {{Specs-Link|fr_lorraine_37l}}
+|-
+| <pre>fr_lorraine_40t</pre> || {{Specs-Link|fr_lorraine_40t}}
+|-
+| <pre>fr_lvt_bofors</pre> || {{Specs-Link|fr_lvt_bofors}}
+|-
+| <pre>fr_m4a1_sherman_fl_10</pre> || {{Specs-Link|fr_m4a1_sherman_fl_10}}
+|-
+| <pre>fr_m4a4_cn_75_50</pre> || {{Specs-Link|fr_m4a4_cn_75_50}}
+|-
+| <pre>fr_mars_15</pre> || {{Specs-Link|fr_mars_15}}
+|-
+| <pre>fr_vcac_mephisto</pre> || {{Specs-Link|fr_vcac_mephisto}}
+|-
+| <pre>fr_citroen_kegresse_p4t</pre> || {{Specs-Link|fr_citroen_kegresse_p4t}}
+|-
+| <pre>fr_pzkpfw_V_panther_dauphine</pre> || {{Specs-Link|fr_pzkpfw_V_panther_dauphine}}
+|-
+| <pre>fr_renault_r39</pre> || {{Specs-Link|fr_renault_r39}}
+|-
+| <pre>fr_amx_30_roland</pre> || {{Specs-Link|fr_amx_30_roland}}
+|-
+| <pre>fr_somua_s35</pre> || {{Specs-Link|fr_somua_s35}}
+|-
+| <pre>fr_vab_santal</pre> || {{Specs-Link|fr_vab_santal}}
+|-
+| <pre>fr_somua_sau40</pre> || {{Specs-Link|fr_somua_sau40}}
+|-
+| <pre>fr_sk105_a2</pre> || {{Specs-Link|fr_sk105_a2}}
+|-
+| <pre>fr_somua_sm</pre> || {{Specs-Link|fr_somua_sm}}
+|-
+| <pre>fr_vbci2_mct30</pre> || {{Specs-Link|fr_vbci2_mct30}}
+|}
+
+----
+==== Sweden ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>sw_charioteer_mk_7</pre> || {{Specs-Link|sw_charioteer_mk_7}}
+|-
+| <pre>sw_a_34_comet</pre> || {{Specs-Link|sw_a_34_comet}}
+|-
+| <pre>sw_leopard_2a4_fin</pre> || {{Specs-Link|sw_leopard_2a4_fin}}
+|-
+| <pre>sw_leopard_2a6nl</pre> || {{Specs-Link|sw_leopard_2a6nl}}
+|-
+| <pre>sw_pt_76b</pre> || {{Specs-Link|sw_pt_76b}}
+|-
+| <pre>sw_pzkpfw_IV_ausf_J</pre> || {{Specs-Link|sw_pzkpfw_IV_ausf_J}}
+|-
+| <pre>sw_vickers_mk_e_45</pre> || {{Specs-Link|sw_vickers_mk_e_45}}
+|-
+| <pre>sw_t_28</pre> || {{Specs-Link|sw_t_28}}
+|-
+| <pre>sw_t_34_1941</pre> || {{Specs-Link|sw_t_34_1941}}
+|-
+| <pre>sw_t_34_85_zis_53</pre> || {{Specs-Link|sw_t_34_85_zis_53}}
+|-
+| <pre>sw_t_54_1951</pre> || {{Specs-Link|sw_t_54_1951}}
+|-
+| <pre>sw_t_55m</pre> || {{Specs-Link|sw_t_55m}}
+|-
+| <pre>sw_t_72m1</pre> || {{Specs-Link|sw_t_72m1}}
+|-
+| <pre>sw_zsu_57_2</pre> || {{Specs-Link|sw_zsu_57_2}}
+|-
+| <pre>sw_asrad_r</pre> || {{Specs-Link|sw_asrad_r}}
+|-
+| <pre>sw_bkan_1c</pre> || {{Specs-Link|sw_bkan_1c}}
+|-
+| <pre>sw_bt_42</pre> || {{Specs-Link|sw_bt_42}}
+|-
+| <pre>sw_cv_90105_tml</pre> || {{Specs-Link|sw_cv_90105_tml}}
+|-
+| <pre>sw_cv_90120</pre> || {{Specs-Link|sw_cv_90120}}
+|-
+| <pre>sw_cv_9030_fin</pre> || {{Specs-Link|sw_cv_9030_fin}}
+|-
+| <pre>sw_ikv_103</pre> || {{Specs-Link|sw_ikv_103}}
+|-
+| <pre>sw_ikv_72</pre> || {{Specs-Link|sw_ikv_72}}
+|-
+| <pre>sw_ikv_73</pre> || {{Specs-Link|sw_ikv_73}}
+|-
+| <pre>sw_ikv_91</pre> || {{Specs-Link|sw_ikv_91}}
+|-
+| <pre>sw_ikv_91_105</pre> || {{Specs-Link|sw_ikv_91_105}}
+|-
+| <pre>sw_crotale_ng</pre> || {{Specs-Link|sw_crotale_ng}}
+|-
+| <pre>sw_itpsv_90</pre> || {{Specs-Link|sw_itpsv_90}}
+|-
+| <pre>sw_l_62_anti_II</pre> || {{Specs-Link|sw_l_62_anti_II}}
+|-
+| <pre>sw_lago_1</pre> || {{Specs-Link|sw_lago_1}}
+|-
+| <pre>sw_leopard_1a5no</pre> || {{Specs-Link|sw_leopard_1a5no}}
+|-
+| <pre>sw_lvkv_42</pre> || {{Specs-Link|sw_lvkv_42}}
+|-
+| <pre>sw_lvkv_90c</pre> || {{Specs-Link|sw_lvkv_90c}}
+|-
+| <pre>sw_lvrbv_701</pre> || {{Specs-Link|sw_lvrbv_701}}
+|-
+| <pre>sw_tgdgb_m40_lv</pre> || {{Specs-Link|sw_tgdgb_m40_lv}}
+|-
+| <pre>sw_pbil_m40</pre> || {{Specs-Link|sw_pbil_m40}}
+|-
+| <pre>sw_pbv_301</pre> || {{Specs-Link|sw_pbv_301}}
+|-
+| <pre>sw_pbv_302_bill</pre> || {{Specs-Link|sw_pbv_302_bill}}
+|-
+| <pre>sw_pvkv_II</pre> || {{Specs-Link|sw_pvkv_II}}
+|-
+| <pre>sw_pvkv_III</pre> || {{Specs-Link|sw_pvkv_III}}
+|-
+| <pre>sw_pvkv_m43_1946</pre> || {{Specs-Link|sw_pvkv_m43_1946}}
+|-
+| <pre>sw_pvkv_m43_1963</pre> || {{Specs-Link|sw_pvkv_m43_1963}}
+|-
+| <pre>sw_pvlvv_fm42</pre> || {{Specs-Link|sw_pvlvv_fm42}}
+|-
+| <pre>sw_pvrbv_551</pre> || {{Specs-Link|sw_pvrbv_551}}
+|-
+| <pre>sw_sav_fm48</pre> || {{Specs-Link|sw_sav_fm48}}
+|-
+| <pre>sw_sav_m43_1944</pre> || {{Specs-Link|sw_sav_m43_1944}}
+|-
+| <pre>sw_sav_m43_1946</pre> || {{Specs-Link|sw_sav_m43_1946}}
+|-
+| <pre>sw_sherman_3_4</pre> || {{Specs-Link|sw_sherman_3_4}}
+|-
+| <pre>sw_stormpjas_fm43_44</pre> || {{Specs-Link|sw_stormpjas_fm43_44}}
+|-
+| <pre>sw_strf_9056</pre> || {{Specs-Link|sw_strf_9056}}
+|-
+| <pre>sw_strf_90b</pre> || {{Specs-Link|sw_strf_90b}}
+|-
+| <pre>sw_strf_90c</pre> || {{Specs-Link|sw_strf_90c}}
+|-
+| <pre>sw_strv_101</pre> || {{Specs-Link|sw_strv_101}}
+|-
+| <pre>sw_strv_103_0</pre> || {{Specs-Link|sw_strv_103_0}}
+|-
+| <pre>sw_strv_103a</pre> || {{Specs-Link|sw_strv_103a}}
+|-
+| <pre>sw_strv_103c</pre> || {{Specs-Link|sw_strv_103c}}
+|-
+| <pre>sw_strv_104</pre> || {{Specs-Link|sw_strv_104}}
+|-
+| <pre>sw_strv_105</pre> || {{Specs-Link|sw_strv_105}}
+|-
+| <pre>sw_strv_121</pre> || {{Specs-Link|sw_strv_121}}
+|-
+| <pre>sw_strv_122</pre> || {{Specs-Link|sw_strv_122}}
+|-
+| <pre>sw_strv_122b_plss</pre> || {{Specs-Link|sw_strv_122b_plss}}
+|-
+| <pre>sw_strv_74</pre> || {{Specs-Link|sw_strv_74}}
+|-
+| <pre>sw_strv_81</pre> || {{Specs-Link|sw_strv_81}}
+|-
+| <pre>sw_strv_81_rb52</pre> || {{Specs-Link|sw_strv_81_rb52}}
+|-
+| <pre>sw_strv_m31</pre> || {{Specs-Link|sw_strv_m31}}
+|-
+| <pre>sw_strv_m38</pre> || {{Specs-Link|sw_strv_m38}}
+|-
+| <pre>sw_strv_m39</pre> || {{Specs-Link|sw_strv_m39}}
+|-
+| <pre>sw_strv_m39_td</pre> || {{Specs-Link|sw_strv_m39_td}}
+|-
+| <pre>sw_strv_m40l</pre> || {{Specs-Link|sw_strv_m40l}}
+|-
+| <pre>sw_strv_m41_s1</pre> || {{Specs-Link|sw_strv_m41_s1}}
+|-
+| <pre>sw_strv_m41_s2</pre> || {{Specs-Link|sw_strv_m41_s2}}
+|-
+| <pre>sw_strv_m42_delat_torn</pre> || {{Specs-Link|sw_strv_m42_delat_torn}}
+|-
+| <pre>sw_strv_m42_eh</pre> || {{Specs-Link|sw_strv_m42_eh}}
+|-
+| <pre>sw_t_80u</pre> || {{Specs-Link|sw_t_80u}}
+|-
+| <pre>sw_landsverk_ush_405</pre> || {{Specs-Link|sw_landsverk_ush_405}}
+|-
+| <pre>sw_udes_33</pre> || {{Specs-Link|sw_udes_33}}
+|-
+| <pre>sw_veak_40</pre> || {{Specs-Link|sw_veak_40}}
+|-
+| <pre>sw_vickers_mk_e_37</pre> || {{Specs-Link|sw_vickers_mk_e_37}}
+|}
+
+----
+==== Israel ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>il_magach_6b_gal_batash</pre> || {{Specs-Link|il_magach_6b_gal_batash}}
+|-
+| <pre>il_m163_vulcan</pre> || {{Specs-Link|il_m163_vulcan}}
+|-
+| <pre>il_m_51</pre> || {{Specs-Link|il_m_51}}
+|-
+| <pre>il_m_51_w</pre> || {{Specs-Link|il_m_51_w}}
+|-
+| <pre>il_machbet</pre> || {{Specs-Link|il_machbet}}
+|-
+| <pre>il_m48a1_patton_III</pre> || {{Specs-Link|il_m48a1_patton_III}}
+|-
+| <pre>il_magach_2</pre> || {{Specs-Link|il_magach_2}}
+|-
+| <pre>il_magach_3_idf</pre> || {{Specs-Link|il_magach_3_idf}}
+|-
+| <pre>il_magach_3</pre> || {{Specs-Link|il_magach_3}}
+|-
+| <pre>il_magach_5</pre> || {{Specs-Link|il_magach_5}}
+|-
+| <pre>il_magach_6</pre> || {{Specs-Link|il_magach_6}}
+|-
+| <pre>il_magach_6a</pre> || {{Specs-Link|il_magach_6a}}
+|-
+| <pre>il_magach_6b</pre> || {{Specs-Link|il_magach_6b}}
+|-
+| <pre>il_magach_6b_gal</pre> || {{Specs-Link|il_magach_6b_gal}}
+|-
+| <pre>il_magach_6c</pre> || {{Specs-Link|il_magach_6c}}
+|-
+| <pre>il_magach_6m</pre> || {{Specs-Link|il_magach_6m}}
+|-
+| <pre>il_magach_6r</pre> || {{Specs-Link|il_magach_6r}}
+|-
+| <pre>il_magach_7c</pre> || {{Specs-Link|il_magach_7c}}
+|-
+| <pre>il_magach_6_rocket</pre> || {{Specs-Link|il_magach_6_rocket}}
+|-
+| <pre>il_merkava_mk_1b</pre> || {{Specs-Link|il_merkava_mk_1b}}
+|-
+| <pre>il_merkava_mk_2b_early</pre> || {{Specs-Link|il_merkava_mk_2b_early}}
+|-
+| <pre>il_merkava_mk_2d</pre> || {{Specs-Link|il_merkava_mk_2d}}
+|-
+| <pre>il_merkava_mk_3b</pre> || {{Specs-Link|il_merkava_mk_3b}}
+|-
+| <pre>il_merkava_mk_3c</pre> || {{Specs-Link|il_merkava_mk_3c}}
+|-
+| <pre>il_merkava_mk_4_lic</pre> || {{Specs-Link|il_merkava_mk_4_lic}}
+|-
+| <pre>il_merkava_mk_4b</pre> || {{Specs-Link|il_merkava_mk_4b}}
+|-
+| <pre>il_merkava_mk_4m</pre> || {{Specs-Link|il_merkava_mk_4m}}
+|-
+| <pre>il_centurion_mk_5_shot</pre> || {{Specs-Link|il_centurion_mk_5_shot}}
+|-
+| <pre>il_centurion_shot_kal_alef</pre> || {{Specs-Link|il_centurion_shot_kal_alef}}
+|-
+| <pre>il_centurion_shot_kal_d</pre> || {{Specs-Link|il_centurion_shot_kal_d}}
+|-
+| <pre>il_centurion_shot_kal_gimel</pre> || {{Specs-Link|il_centurion_shot_kal_gimel}}
+|-
+| <pre>il_tcm_20</pre> || {{Specs-Link|il_tcm_20}}
+|-
+| <pre>il_tiran_4</pre> || {{Specs-Link|il_tiran_4}}
+|-
+| <pre>il_tiran_4_sh</pre> || {{Specs-Link|il_tiran_4_sh}}
+|-
+| <pre>il_ss_11_halftrack</pre> || {{Specs-Link|il_ss_11_halftrack}}
+|-
+| <pre>il_zsu_23_4</pre> || {{Specs-Link|il_zsu_23_4}}
+|-
+| <pre>il_zsu_57_2</pre> || {{Specs-Link|il_zsu_57_2}}
+|-
+| <pre>il_aml_90</pre> || {{Specs-Link|il_aml_90}}
+|-
+| <pre>il_amx_13_75</pre> || {{Specs-Link|il_amx_13_75}}
+|}
+
+----
+==== Special ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>us_amx_13_75</pre> || AMX-13
+|-
+| <pre>us_amx_13_90</pre> || AMX-13-90
+|-
+| <pre>cn_bt_5</pre> || BT-5
+|-
+| <pre>cn_type_95_ha_go</pre> || Ha-Go
+|-
+| <pre>germ_panther_II_tutorial</pre> || Panther II
+|-
+| <pre>germ_pzkpfw_35t_romania_mare</pre> || Pz.35(t) RM
+|-
+| <pre>ussr_t_50_for_tutorial</pre> || T-50
+|-
+| <pre>ussr_t_72b3_2017_race</pre> || T-72B3
+|-
+| <pre>cn_type_69_2a</pre> || Type 69-IIa
+|-
+| <pre>ussr_m551_football</pre> || undefined
+|-
+| <pre>us_m551_football</pre> || undefined
+|}
+
+
+=== Ships ===
+----
+==== USA ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>us_pc_466_carmi</pre> || {{Specs-Link|us_pc_466_carmi}}
+|-
+| <pre>us_pgm_59_class</pre> || {{Specs-Link|us_pgm_59_class}}
+|-
+| <pre>us_lcm_zippo</pre> || {{Specs-Link|us_lcm_zippo}}
+|-
+| <pre>us_lcs_l_3</pre> || {{Specs-Link|us_lcs_l_3}}
+|-
+| <pre>us_pc_451</pre> || {{Specs-Link|us_pc_451}}
+|-
+| <pre>us_elco_80ft_pt_boat</pre> || {{Specs-Link|us_elco_80ft_pt_boat}}
+|-
+| <pre>us_elco_80ft_pt109_boat</pre> || {{Specs-Link|us_elco_80ft_pt109_boat}}
+|-
+| <pre>us_elco_80ft_pt174</pre> || {{Specs-Link|us_elco_80ft_pt174}}
+|-
+| <pre>us_elco_77ft_pt20</pre> || {{Specs-Link|us_elco_77ft_pt20}}
+|-
+| <pre>us_higgins_78ft_pt625</pre> || {{Specs-Link|us_higgins_78ft_pt625}}
+|-
+| <pre>us_pt3</pre> || {{Specs-Link|us_pt3}}
+|-
+| <pre>us_elco_80ft_pt_boat_mod01</pre> || {{Specs-Link|us_elco_80ft_pt_boat_mod01}}
+|-
+| <pre>us_elco_80ft_pt_boat_mod02</pre> || {{Specs-Link|us_elco_80ft_pt_boat_mod02}}
+|-
+| <pre>us_elco_77ft_pt59</pre> || {{Specs-Link|us_elco_77ft_pt59}}
+|-
+| <pre>us_pt6</pre> || {{Specs-Link|us_pt6}}
+|-
+| <pre>us_higgins_78ft_pt658</pre> || {{Specs-Link|us_higgins_78ft_pt658}}
+|-
+| <pre>us_higgins_78ft_pt71</pre> || {{Specs-Link|us_higgins_78ft_pt71}}
+|-
+| <pre>us_pt810</pre> || {{Specs-Link|us_pt810}}
+|-
+| <pre>us_pt811</pre> || {{Specs-Link|us_pt811}}
+|-
+| <pre>us_pt812</pre> || {{Specs-Link|us_pt812}}
+|-
+| <pre>us_nasty_ptf</pre> || {{Specs-Link|us_nasty_ptf}}
+|-
+| <pre>us_sc_497</pre> || {{Specs-Link|us_sc_497}}
+|-
+| <pre>us_elco_80ft_pt_boat_thunderbolt</pre> || {{Specs-Link|us_elco_80ft_pt_boat_thunderbolt}}
+|-
+| <pre>us_battlecruiser_alaska_class</pre> || {{Specs-Link|us_battlecruiser_alaska_class}}
+|-
+| <pre>us_battleship_arizona_1931</pre> || {{Specs-Link|us_battleship_arizona_1931}}
+|-
+| <pre>us_ashville_class</pre> || {{Specs-Link|us_ashville_class}}
+|-
+| <pre>us_cruiser_atlanta_class_atlanta</pre> || {{Specs-Link|us_cruiser_atlanta_class_atlanta}}
+|-
+| <pre>us_destroyer_farragut_1942</pre> || {{Specs-Link|us_destroyer_farragut_1942}}
+|-
+| <pre>us_cruiser_baltimore_class</pre> || {{Specs-Link|us_cruiser_baltimore_class}}
+|-
+| <pre>us_destroyer_clemson_barker</pre> || {{Specs-Link|us_destroyer_clemson_barker}}
+|-
+| <pre>us_destroyer_fletcher_bennion</pre> || {{Specs-Link|us_destroyer_fletcher_bennion}}
+|-
+| <pre>us_cruiser_brooklyn_class_brooklyn</pre> || {{Specs-Link|us_cruiser_brooklyn_class_brooklyn}}
+|-
+| <pre>us_admirable_class</pre> || {{Specs-Link|us_admirable_class}}
+|-
+| <pre>us_cruiser_cleveland_class_cleveland</pre> || {{Specs-Link|us_cruiser_cleveland_class_cleveland}}
+|-
+| <pre>us_destroyer_fletcher_cowell</pre> || {{Specs-Link|us_destroyer_fletcher_cowell}}
+|-
+| <pre>us_cyclone_class_cyclone</pre> || {{Specs-Link|us_cyclone_class_cyclone}}
+|-
+| <pre>us_destroyer_somers_davis</pre> || {{Specs-Link|us_destroyer_somers_davis}}
+|-
+| <pre>us_cruiser_des_moines_class</pre> || {{Specs-Link|us_cruiser_des_moines_class}}
+|-
+| <pre>us_cruiser_omaha_class_detroit</pre> || {{Specs-Link|us_cruiser_omaha_class_detroit}}
+|-
+| <pre>us_ashville_class_douglas</pre> || {{Specs-Link|us_ashville_class_douglas}}
+|-
+| <pre>us_cruiser_fargo_class</pre> || {{Specs-Link|us_cruiser_fargo_class}}
+|-
+| <pre>us_destroyer_fletcher</pre> || {{Specs-Link|us_destroyer_fletcher}}
+|-
+| <pre>us_destroyer_gearing_frank_knox</pre> || {{Specs-Link|us_destroyer_gearing_frank_knox}}
+|-
+| <pre>us_destroyer_gearing</pre> || {{Specs-Link|us_destroyer_gearing}}
+|-
+| <pre>us_cruiser_brooklyn_class_helena</pre> || {{Specs-Link|us_cruiser_brooklyn_class_helena}}
+|-
+| <pre>us_frigate_tacoma</pre> || {{Specs-Link|us_frigate_tacoma}}
+|-
+| <pre>us_destroyer_clemson_litchfield</pre> || {{Specs-Link|us_destroyer_clemson_litchfield}}
+|-
+| <pre>us_destroyer_mitscher</pre> || {{Specs-Link|us_destroyer_mitscher}}
+|-
+| <pre>us_destroyer_porter_1942</pre> || {{Specs-Link|us_destroyer_porter_1942}}
+|-
+| <pre>us_battleship_nevada</pre> || {{Specs-Link|us_battleship_nevada}}
+|-
+| <pre>us_cruiser_new_orleans_class</pre> || {{Specs-Link|us_cruiser_new_orleans_class}}
+|-
+| <pre>us_cruiser_des_moines_class_newport_news</pre> || {{Specs-Link|us_cruiser_des_moines_class_newport_news}}
+|-
+| <pre>us_battleship_north_dakota</pre> || {{Specs-Link|us_battleship_north_dakota}}
+|-
+| <pre>us_cruiser_northampton_class</pre> || {{Specs-Link|us_cruiser_northampton_class}}
+|-
+| <pre>us_cruiser_pensacola_class</pre> || {{Specs-Link|us_cruiser_pensacola_class}}
+|-
+| <pre>us_destroyer_porter_1944</pre> || {{Specs-Link|us_destroyer_porter_1944}}
+|-
+| <pre>us_cruiser_baltimore_class_pittsburgh</pre> || {{Specs-Link|us_cruiser_baltimore_class_pittsburgh}}
+|-
+| <pre>us_destroyer_porter_1941</pre> || {{Specs-Link|us_destroyer_porter_1941}}
+|-
+| <pre>us_cruiser_portland_class</pre> || {{Specs-Link|us_cruiser_portland_class}}
+|-
+| <pre>us_cruiser_omaha_class_raleigh</pre> || {{Specs-Link|us_cruiser_omaha_class_raleigh}}
+|-
+| <pre>us_destroyer_somers</pre> || {{Specs-Link|us_destroyer_somers}}
+|-
+| <pre>us_destroyer_sumner</pre> || {{Specs-Link|us_destroyer_sumner}}
+|-
+| <pre>us_cruiser_omaha_class_trenton</pre> || {{Specs-Link|us_cruiser_omaha_class_trenton}}
+|-
+| <pre>us_tucumcari_pgh2</pre> || {{Specs-Link|us_tucumcari_pgh2}}
+|-
+| <pre>us_destroyer_clemson_welborn_c_wood</pre> || {{Specs-Link|us_destroyer_clemson_welborn_c_wood}}
+|-
+| <pre>us_destroyer_mitscher_wilkinson</pre> || {{Specs-Link|us_destroyer_mitscher_wilkinson}}
+|-
+| <pre>us_battleship_wyoming_class</pre> || {{Specs-Link|us_battleship_wyoming_class}}
+|}
+
+----
+==== Germany ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>germ_cruiser_admiral_graf_spee</pre> || {{Specs-Link|germ_cruiser_admiral_graf_spee}}
+|-
+| <pre>germ_cruiser_admiral_hipper</pre> || {{Specs-Link|germ_cruiser_admiral_hipper}}
+|-
+| <pre>germ_artilleriefahrprahm_typ_d1</pre> || {{Specs-Link|germ_artilleriefahrprahm_typ_d1}}
+|-
+| <pre>germ_artilleriefahrprahm_typ_d3</pre> || {{Specs-Link|germ_artilleriefahrprahm_typ_d3}}
+|-
+| <pre>germ_type143_albatros</pre> || {{Specs-Link|germ_type143_albatros}}
+|-
+| <pre>germ_type143_bussard</pre> || {{Specs-Link|germ_type143_bussard}}
+|-
+| <pre>germ_cruiser_emden_1944</pre> || {{Specs-Link|germ_cruiser_emden_1944}}
+|-
+| <pre>germ_type152_hugin</pre> || {{Specs-Link|germ_type152_hugin}}
+|-
+| <pre>germ_type140_jaguar</pre> || {{Specs-Link|germ_type140_jaguar}}
+|-
+| <pre>germ_destroyer_class1924_jaguar1941</pre> || {{Specs-Link|germ_destroyer_class1924_jaguar1941}}
+|-
+| <pre>germ_kanonenboot_k2</pre> || {{Specs-Link|germ_kanonenboot_k2}}
+|-
+| <pre>germ_skr_pr50_karl_marx</pre> || {{Specs-Link|germ_skr_pr50_karl_marx}}
+|-
+| <pre>germ_cruiser_karlsruhe</pre> || {{Specs-Link|germ_cruiser_karlsruhe}}
+|-
+| <pre>germ_km5</pre> || {{Specs-Link|germ_km5}}
+|-
+| <pre>germ_cruiser_koln</pre> || {{Specs-Link|germ_cruiser_koln}}
+|-
+| <pre>germ_frigate_koln</pre> || {{Specs-Link|germ_frigate_koln}}
+|-
+| <pre>germ_rdm242</pre> || {{Specs-Link|germ_rdm242}}
+|-
+| <pre>germ_cruiser_leipzig</pre> || {{Specs-Link|germ_cruiser_leipzig}}
+|-
+| <pre>germ_destroyer_class1924_leopard1932</pre> || {{Specs-Link|germ_destroyer_class1924_leopard1932}}
+|-
+| <pre>germ_ls_class</pre> || {{Specs-Link|germ_ls_class}}
+|-
+| <pre>germ_ls4_class</pre> || {{Specs-Link|germ_ls4_class}}
+|-
+| <pre>germ_frigate_koln_lubeck</pre> || {{Specs-Link|germ_frigate_koln_lubeck}}
+|-
+| <pre>germ_destroyer_class1924_iltis</pre> || {{Specs-Link|germ_destroyer_class1924_iltis}}
+|-
+| <pre>germ_escort_typem1935</pre> || {{Specs-Link|germ_escort_typem1935}}
+|-
+| <pre>germ_escort_typem1943</pre> || {{Specs-Link|germ_escort_typem1943}}
+|-
+| <pre>germ_mz_1</pre> || {{Specs-Link|germ_mz_1}}
+|-
+| <pre>germ_cruiser_nurnberg</pre> || {{Specs-Link|germ_cruiser_nurnberg}}
+|-
+| <pre>germ_type153_pfeil</pre> || {{Specs-Link|germ_type153_pfeil}}
+|-
+| <pre>germ_pr_206</pre> || {{Specs-Link|germ_pr_206}}
+|-
+| <pre>germ_cruiser_prinz_eugen</pre> || {{Specs-Link|germ_cruiser_prinz_eugen}}
+|-
+| <pre>germ_rboot_r130</pre> || {{Specs-Link|germ_rboot_r130}}
+|-
+| <pre>germ_rboot_r301</pre> || {{Specs-Link|germ_rboot_r301}}
+|-
+| <pre>germ_rboot_r41</pre> || {{Specs-Link|germ_rboot_r41}}
+|-
+| <pre>germ_s_100_class</pre> || {{Specs-Link|germ_s_100_class}}
+|-
+| <pre>germ_s_100_s_174_class</pre> || {{Specs-Link|germ_s_100_s_174_class}}
+|-
+| <pre>germ_s_100_s204_lang</pre> || {{Specs-Link|germ_s_100_s204_lang}}
+|-
+| <pre>germ_s38</pre> || {{Specs-Link|germ_s38}}
+|-
+| <pre>germ_s38b</pre> || {{Specs-Link|germ_s38b}}
+|-
+| <pre>germ_s_700_s_701</pre> || {{Specs-Link|germ_s_700_s_701}}
+|-
+| <pre>germ_battleship_scharnhorst</pre> || {{Specs-Link|germ_battleship_scharnhorst}}
+|-
+| <pre>germ_sf40_schwere_flakkampffaehre</pre> || {{Specs-Link|germ_sf40_schwere_flakkampffaehre}}
+|-
+| <pre>germ_sf40_leichte_flakkampffaehre</pre> || {{Specs-Link|germ_sf40_leichte_flakkampffaehre}}
+|-
+| <pre>germ_battleship_bayern</pre> || {{Specs-Link|germ_battleship_bayern}}
+|-
+| <pre>germ_cruiser_elbing</pre> || {{Specs-Link|germ_cruiser_elbing}}
+|-
+| <pre>germ_battleship_helgoland</pre> || {{Specs-Link|germ_battleship_helgoland}}
+|-
+| <pre>germ_battleship_kaiser</pre> || {{Specs-Link|germ_battleship_kaiser}}
+|-
+| <pre>germ_battleship_ostfriesland</pre> || {{Specs-Link|germ_battleship_ostfriesland}}
+|-
+| <pre>germ_battlecruiser_von_der_tann</pre> || {{Specs-Link|germ_battlecruiser_von_der_tann}}
+|-
+| <pre>germ_battleship_westfalen</pre> || {{Specs-Link|germ_battleship_westfalen}}
+|-
+| <pre>germ_destroyer_class1939_t22</pre> || {{Specs-Link|germ_destroyer_class1939_t22}}
+|-
+| <pre>germ_destroyer_class1939_t31</pre> || {{Specs-Link|germ_destroyer_class1939_t31}}
+|-
+| <pre>germ_pr_131</pre> || {{Specs-Link|germ_pr_131}}
+|-
+| <pre>germ_vs10_hydrofoil</pre> || {{Specs-Link|germ_vs10_hydrofoil}}
+|-
+| <pre>germ_vs8_hydrofoil</pre> || {{Specs-Link|germ_vs8_hydrofoil}}
+|-
+| <pre>germ_destroyer_class1934a_1940</pre> || {{Specs-Link|germ_destroyer_class1934a_1940}}
+|-
+| <pre>germ_destroyer_class1934a_1944</pre> || {{Specs-Link|germ_destroyer_class1934a_1944}}
+|-
+| <pre>germ_destroyer_class1936_z20_karlgalster</pre> || {{Specs-Link|germ_destroyer_class1936_z20_karlgalster}}
+|-
+| <pre>germ_destroyer_class1936_z20</pre> || {{Specs-Link|germ_destroyer_class1936_z20}}
+|-
+| <pre>germ_destroyer_class1936a_z25</pre> || {{Specs-Link|germ_destroyer_class1936a_z25}}
+|-
+| <pre>germ_destroyer_class1936a_mob_z32</pre> || {{Specs-Link|germ_destroyer_class1936a_mob_z32}}
+|-
+| <pre>germ_destroyer_class1936b</pre> || {{Specs-Link|germ_destroyer_class1936b}}
+|-
+| <pre>germ_destroyer_class1936c_z46</pre> || {{Specs-Link|germ_destroyer_class1936c_z46}}
+|-
+| <pre>germ_destroyer_class1936c_z47</pre> || {{Specs-Link|germ_destroyer_class1936c_z47}}
+|}
+
+----
+==== USSR ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ussr_destroyer_7_besposhchadny</pre> || {{Specs-Link|ussr_destroyer_7_besposhchadny}}
+|-
+| <pre>ussr_destroyer_pr30bis_bezuprechnyi</pre> || {{Specs-Link|ussr_destroyer_pr30bis_bezuprechnyi}}
+|-
+| <pre>ussr_destroyer_pr56_blagorodny</pre> || {{Specs-Link|ussr_destroyer_pr56_blagorodny}}
+|-
+| <pre>ussr_bmo</pre> || {{Specs-Link|ussr_bmo}}
+|-
+| <pre>ussr_destroyer_pr56_bravy</pre> || {{Specs-Link|ussr_destroyer_pr56_bravy}}
+|-
+| <pre>ussr_cruiser_chapayev</pre> || {{Specs-Link|ussr_cruiser_chapayev}}
+|-
+| <pre>ussr_d3</pre> || {{Specs-Link|ussr_d3}}
+|-
+| <pre>ussr_destroyer_frunze</pre> || {{Specs-Link|ussr_destroyer_frunze}}
+|-
+| <pre>ussr_g5_mtb</pre> || {{Specs-Link|ussr_g5_mtb}}
+|-
+| <pre>ussr_g5_mtb_shvak</pre> || {{Specs-Link|ussr_g5_mtb_shvak}}
+|-
+| <pre>ussr_skr_groza_1943</pre> || {{Specs-Link|ussr_skr_groza_1943}}
+|-
+| <pre>ussr_battleship_imperatritsa_mariya</pre> || {{Specs-Link|ussr_battleship_imperatritsa_mariya}}
+|-
+| <pre>ussr_destroyer_kerch</pre> || {{Specs-Link|ussr_destroyer_kerch}}
+|-
+| <pre>ussr_cruiser_kerch</pre> || {{Specs-Link|ussr_cruiser_kerch}}
+|-
+| <pre>ussr_cruiser_kirov</pre> || {{Specs-Link|ussr_cruiser_kirov}}
+|-
+| <pre>ussr_cruiser_krasnyi_kavkaz</pre> || {{Specs-Link|ussr_cruiser_krasnyi_kavkaz}}
+|-
+| <pre>ussr_cruiser_krasnyi_krim</pre> || {{Specs-Link|ussr_cruiser_krasnyi_krim}}
+|-
+| <pre>ussr_battlecruiser_kronshtadt</pre> || {{Specs-Link|ussr_battlecruiser_kronshtadt}}
+|-
+| <pre>ussr_destroyer_leningrad</pre> || {{Specs-Link|ussr_destroyer_leningrad}}
+|-
+| <pre>ussr_destroyer_regele_ferdinand_class_letuchiy</pre> || {{Specs-Link|ussr_destroyer_regele_ferdinand_class_letuchiy}}
+|-
+| <pre>ussr_cruiser_maxim_gorky</pre> || {{Specs-Link|ussr_cruiser_maxim_gorky}}
+|-
+| <pre>ussr_mkl_186</pre> || {{Specs-Link|ussr_mkl_186}}
+|-
+| <pre>ussr_mkl_186_mk85</pre> || {{Specs-Link|ussr_mkl_186_mk85}}
+|-
+| <pre>ussr_mbk_161_1943</pre> || {{Specs-Link|ussr_mbk_161_1943}}
+|-
+| <pre>ussr_mbk_161_1944</pre> || {{Specs-Link|ussr_mbk_161_1944}}
+|-
+| <pre>ussr_cruiser_mikhail_kutuzov</pre> || {{Specs-Link|ussr_cruiser_mikhail_kutuzov}}
+|-
+| <pre>ussr_mo_4</pre> || {{Specs-Link|ussr_mo_4}}
+|-
+| <pre>ussr_destroyer_moskva</pre> || {{Specs-Link|ussr_destroyer_moskva}}
+|-
+| <pre>ussr_mpk_122a</pre> || {{Specs-Link|ussr_mpk_122a}}
+|-
+| <pre>ussr_mpk_122bis</pre> || {{Specs-Link|ussr_mpk_122bis}}
+|-
+| <pre>ussr_mpk_pr12412</pre> || {{Specs-Link|ussr_mpk_pr12412}}
+|-
+| <pre>ussr_mpk_pr12412p</pre> || {{Specs-Link|ussr_mpk_pr12412p}}
+|-
+| <pre>ussr_mpk_pr1331m</pre> || {{Specs-Link|ussr_mpk_pr1331m}}
+|-
+| <pre>ussr_mpk_201k</pre> || {{Specs-Link|ussr_mpk_201k}}
+|-
+| <pre>ussr_mpk_201m</pre> || {{Specs-Link|ussr_mpk_201m}}
+|-
+| <pre>ussr_mpk_204</pre> || {{Specs-Link|ussr_mpk_204}}
+|-
+| <pre>ussr_mpk_163</pre> || {{Specs-Link|ussr_mpk_163}}
+|-
+| <pre>ussr_destroyer_pr41_neustrashimy</pre> || {{Specs-Link|ussr_destroyer_pr41_neustrashimy}}
+|-
+| <pre>ussr_od_200</pre> || {{Specs-Link|ussr_od_200}}
+|-
+| <pre>ussr_destroyer_pr30_ognevoy</pre> || {{Specs-Link|ussr_destroyer_pr30_ognevoy}}
+|-
+| <pre>ussr_battleship_parizhskaya_kommuna</pre> || {{Specs-Link|ussr_battleship_parizhskaya_kommuna}}
+|-
+| <pre>ussr_battleship_poltava</pre> || {{Specs-Link|ussr_battleship_poltava}}
+|-
+| <pre>ussr_pr_206</pre> || {{Specs-Link|ussr_pr_206}}
+|-
+| <pre>ussr_pr_206_race</pre> || {{Specs-Link|ussr_pr_206_race}}
+|-
+| <pre>ussr_1124_art</pre> || {{Specs-Link|ussr_1124_art}}
+|-
+| <pre>ussr_1124_ack</pre> || {{Specs-Link|ussr_1124_ack}}
+|-
+| <pre>ussr_1124_rct</pre> || {{Specs-Link|ussr_1124_rct}}
+|-
+| <pre>ussr_pr_1204</pre> || {{Specs-Link|ussr_pr_1204}}
+|-
+| <pre>ussr_pr_1204_late</pre> || {{Specs-Link|ussr_pr_1204_late}}
+|-
+| <pre>ussr_pr_123bis</pre> || {{Specs-Link|ussr_pr_123bis}}
+|-
+| <pre>ussr_pr_123k</pre> || {{Specs-Link|ussr_pr_123k}}
+|-
+| <pre>ussr_pr_123k_hydrofoils</pre> || {{Specs-Link|ussr_pr_123k_hydrofoils}}
+|-
+| <pre>ussr_pr_183</pre> || {{Specs-Link|ussr_pr_183}}
+|-
+| <pre>ussr_pr_183_egypt_bm_21</pre> || {{Specs-Link|ussr_pr_183_egypt_bm_21}}
+|-
+| <pre>ussr_pr_191</pre> || {{Specs-Link|ussr_pr_191}}
+|-
+| <pre>ussr_pr_191m</pre> || {{Specs-Link|ussr_pr_191m}}
+|-
+| <pre>ussr_pr_206m</pre> || {{Specs-Link|ussr_pr_206m}}
+|-
+| <pre>ussr_skr_pr50plo_rosomacha</pre> || {{Specs-Link|ussr_skr_pr50plo_rosomacha}}
+|-
+| <pre>ussr_destroyer_7_ryany</pre> || {{Specs-Link|ussr_destroyer_7_ryany}}
+|-
+| <pre>ussr_cruiser_shcherbakov</pre> || {{Specs-Link|ussr_cruiser_shcherbakov}}
+|-
+| <pre>ussr_skr_pr159</pre> || {{Specs-Link|ussr_skr_pr159}}
+|-
+| <pre>ussr_skr_pr35</pre> || {{Specs-Link|ussr_skr_pr35}}
+|-
+| <pre>ussr_destroyer_pr30bis_smelyi</pre> || {{Specs-Link|ussr_destroyer_pr30bis_smelyi}}
+|-
+| <pre>ussr_destroyer_7y</pre> || {{Specs-Link|ussr_destroyer_7y}}
+|-
+| <pre>ussr_destroyer_pr56_spokoinyy</pre> || {{Specs-Link|ussr_destroyer_pr56_spokoinyy}}
+|-
+| <pre>ussr_destroyer_7y_stroyny</pre> || {{Specs-Link|ussr_destroyer_7y_stroyny}}
+|-
+| <pre>ussr_cruiser_sverdlov</pre> || {{Specs-Link|ussr_cruiser_sverdlov}}
+|-
+| <pre>ussr_destroyer_pr20_tashkent</pre> || {{Specs-Link|ussr_destroyer_pr20_tashkent}}
+|-
+| <pre>ussr_g5_rct</pre> || {{Specs-Link|ussr_g5_rct}}
+|-
+| <pre>ussr_cruiser_voroshilov</pre> || {{Specs-Link|ussr_cruiser_voroshilov}}
+|-
+| <pre>ussr_ya_5m</pre> || {{Specs-Link|ussr_ya_5m}}
+|-
+| <pre>ussr_skr_pr50_jenot</pre> || {{Specs-Link|ussr_skr_pr50_jenot}}
+|-
+| <pre>ussr_cruiser_zheleznyakov</pre> || {{Specs-Link|ussr_cruiser_zheleznyakov}}
+|}
+
+----
+==== Great Britain ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>uk_brave_borderer</pre> || {{Specs-Link|uk_brave_borderer}}
+|-
+| <pre>uk_dark_class</pre> || {{Specs-Link|uk_dark_class}}
+|-
+| <pre>uk_dark_class_mtb</pre> || {{Specs-Link|uk_dark_class_mtb}}
+|-
+| <pre>uk_dark_class_mtb_td</pre> || {{Specs-Link|uk_dark_class_mtb_td}}
+|-
+| <pre>uk_fairmile_a_ml100</pre> || {{Specs-Link|uk_fairmile_a_ml100}}
+|-
+| <pre>uk_fairmile_b_ml345</pre> || {{Specs-Link|uk_fairmile_b_ml345}}
+|-
+| <pre>uk_fairmile_c</pre> || {{Specs-Link|uk_fairmile_c}}
+|-
+| <pre>uk_fairmile_c_332</pre> || {{Specs-Link|uk_fairmile_c_332}}
+|-
+| <pre>uk_fairmile_d_5001_5029</pre> || {{Specs-Link|uk_fairmile_d_5001_5029}}
+|-
+| <pre>uk_fairmile_d_601_616</pre> || {{Specs-Link|uk_fairmile_d_601_616}}
+|-
+| <pre>uk_fairmile_d_617_632</pre> || {{Specs-Link|uk_fairmile_d_617_632}}
+|-
+| <pre>uk_fairmile_d_697_800</pre> || {{Specs-Link|uk_fairmile_d_697_800}}
+|-
+| <pre>uk_fairmile_lcs_l_h_mk2</pre> || {{Specs-Link|uk_fairmile_lcs_l_h_mk2}}
+|-
+| <pre>uk_attack_class_arrow</pre> || {{Specs-Link|uk_attack_class_arrow}}
+|-
+| <pre>uk_destroyer_n_class</pre> || {{Specs-Link|uk_destroyer_n_class}}
+|-
+| <pre>uk_destroyer_battle_tobruk</pre> || {{Specs-Link|uk_destroyer_battle_tobruk}}
+|-
+| <pre>uk_flower_class</pre> || {{Specs-Link|uk_flower_class}}
+|-
+| <pre>uk_destroyer_haida</pre> || {{Specs-Link|uk_destroyer_haida}}
+|-
+| <pre>uk_destroyer_restigouche_class_terranova</pre> || {{Specs-Link|uk_destroyer_restigouche_class_terranova}}
+|-
+| <pre>uk_cruiser_leander</pre> || {{Specs-Link|uk_cruiser_leander}}
+|-
+| <pre>uk_minelayer_abdiel_class_abdiel</pre> || {{Specs-Link|uk_minelayer_abdiel_class_abdiel}}
+|-
+| <pre>uk_cruiser_arethusa</pre> || {{Specs-Link|uk_cruiser_arethusa}}
+|-
+| <pre>uk_destroyer_battle_2series</pre> || {{Specs-Link|uk_destroyer_battle_2series}}
+|-
+| <pre>uk_cruiser_belfast</pre> || {{Specs-Link|uk_cruiser_belfast}}
+|-
+| <pre>uk_frigate_whitby_blackpool</pre> || {{Specs-Link|uk_frigate_whitby_blackpool}}
+|-
+| <pre>uk_destroyer_hunt_4series</pre> || {{Specs-Link|uk_destroyer_hunt_4series}}
+|-
+| <pre>uk_destroyer_battle_cadiz</pre> || {{Specs-Link|uk_destroyer_battle_cadiz}}
+|-
+| <pre>uk_destroyer_hunt_2series</pre> || {{Specs-Link|uk_destroyer_hunt_2series}}
+|-
+| <pre>uk_destroyer_clemson_churchill</pre> || {{Specs-Link|uk_destroyer_clemson_churchill}}
+|-
+| <pre>uk_battleship_colossus</pre> || {{Specs-Link|uk_battleship_colossus}}
+|-
+| <pre>uk_destroyer_daring_class_daring</pre> || {{Specs-Link|uk_destroyer_daring_class_daring}}
+|-
+| <pre>uk_destroyer_daring_class_diana</pre> || {{Specs-Link|uk_destroyer_daring_class_diana}}
+|-
+| <pre>uk_cruiser_dido</pre> || {{Specs-Link|uk_cruiser_dido}}
+|-
+| <pre>uk_battleship_dreadnought</pre> || {{Specs-Link|uk_battleship_dreadnought}}
+|-
+| <pre>uk_cruiser_enterprise_d52</pre> || {{Specs-Link|uk_cruiser_enterprise_d52}}
+|-
+| <pre>uk_destroyer_tribal</pre> || {{Specs-Link|uk_destroyer_tribal}}
+|-
+| <pre>uk_battlecruiser_glorious</pre> || {{Specs-Link|uk_battlecruiser_glorious}}
+|-
+| <pre>uk_destroyer_g_grafton</pre> || {{Specs-Link|uk_destroyer_g_grafton}}
+|-
+| <pre>uk_cruiser_hawkins</pre> || {{Specs-Link|uk_cruiser_hawkins}}
+|-
+| <pre>uk_battlecruiser_hood</pre> || {{Specs-Link|uk_battlecruiser_hood}}
+|-
+| <pre>uk_battlecruiser_invincible</pre> || {{Specs-Link|uk_battlecruiser_invincible}}
+|-
+| <pre>uk_destroyer_j_class</pre> || {{Specs-Link|uk_destroyer_j_class}}
+|-
+| <pre>uk_destroyer_k_class</pre> || {{Specs-Link|uk_destroyer_k_class}}
+|-
+| <pre>uk_cruiser_kent</pre> || {{Specs-Link|uk_cruiser_kent}}
+|-
+| <pre>uk_frigate_leopard</pre> || {{Specs-Link|uk_frigate_leopard}}
+|-
+| <pre>uk_isles_class_trawler</pre> || {{Specs-Link|uk_isles_class_trawler}}
+|-
+| <pre>uk_cruiser_liverpool</pre> || {{Specs-Link|uk_cruiser_liverpool}}
+|-
+| <pre>uk_cruiser_london</pre> || {{Specs-Link|uk_cruiser_london}}
+|-
+| <pre>uk_battleship_marlborough</pre> || {{Specs-Link|uk_battleship_marlborough}}
+|-
+| <pre>uk_destroyer_tribal_mohawk</pre> || {{Specs-Link|uk_destroyer_tribal_mohawk}}
+|-
+| <pre>uk_destroyer_clemson_montgomery_g95</pre> || {{Specs-Link|uk_destroyer_clemson_montgomery_g95}}
+|-
+| <pre>uk_cruiser_norfolk</pre> || {{Specs-Link|uk_cruiser_norfolk}}
+|-
+| <pre>uk_corvette_peacock</pre> || {{Specs-Link|uk_corvette_peacock}}
+|-
+| <pre>uk_cruiser_southampton</pre> || {{Specs-Link|uk_cruiser_southampton}}
+|-
+| <pre>uk_frigate_river</pre> || {{Specs-Link|uk_frigate_river}}
+|-
+| <pre>uk_cruiser_tiger</pre> || {{Specs-Link|uk_cruiser_tiger}}
+|-
+| <pre>uk_destroyer_v_class_valhalla</pre> || {{Specs-Link|uk_destroyer_v_class_valhalla}}
+|-
+| <pre>uk_destroyer_v_class_vega</pre> || {{Specs-Link|uk_destroyer_v_class_vega}}
+|-
+| <pre>uk_destroyer_v_class_verdun</pre> || {{Specs-Link|uk_destroyer_v_class_verdun}}
+|-
+| <pre>uk_frigate_whitby</pre> || {{Specs-Link|uk_frigate_whitby}}
+|-
+| <pre>uk_cruiser_york</pre> || {{Specs-Link|uk_cruiser_york}}
+|-
+| <pre>uk_corvette_orla</pre> || {{Specs-Link|uk_corvette_orla}}
+|-
+| <pre>uk_70ft_mgb</pre> || {{Specs-Link|uk_70ft_mgb}}
+|-
+| <pre>uk_71ft_mgb</pre> || {{Specs-Link|uk_71ft_mgb}}
+|-
+| <pre>uk_hdml_ml1383</pre> || {{Specs-Link|uk_hdml_ml1383}}
+|-
+| <pre>uk_mtb_vosper_1series</pre> || {{Specs-Link|uk_mtb_vosper_1series}}
+|-
+| <pre>uk_mtb_vosper_2series</pre> || {{Specs-Link|uk_mtb_vosper_2series}}
+|-
+| <pre>uk_mtb_1series</pre> || {{Specs-Link|uk_mtb_1series}}
+|-
+| <pre>uk_mtb_2series</pre> || {{Specs-Link|uk_mtb_2series}}
+|-
+| <pre>uk_higgins_78ft_mtb422</pre> || {{Specs-Link|uk_higgins_78ft_mtb422}}
+|-
+| <pre>uk_destroyer_g_garland</pre> || {{Specs-Link|uk_destroyer_g_garland}}
+|-
+| <pre>uk_sgb_304</pre> || {{Specs-Link|uk_sgb_304}}
+|-
+| <pre>uk_sgb_309</pre> || {{Specs-Link|uk_sgb_309}}
+|}
+
+----
+==== Japan ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>jp_escort_akebono_class</pre> || {{Specs-Link|jp_escort_akebono_class}}
+|-
+| <pre>jp_destroyer_chidori</pre> || {{Specs-Link|jp_destroyer_chidori}}
+|-
+| <pre>jp_escort_chikugo_class</pre> || {{Specs-Link|jp_escort_chikugo_class}}
+|-
+| <pre>jp_sehatei_mod1</pre> || {{Specs-Link|jp_sehatei_mod1}}
+|-
+| <pre>jp_cruiser_agano</pre> || {{Specs-Link|jp_cruiser_agano}}
+|-
+| <pre>jp_destroyer_akizuki</pre> || {{Specs-Link|jp_destroyer_akizuki}}
+|-
+| <pre>jp_cruiser_aoba</pre> || {{Specs-Link|jp_cruiser_aoba}}
+|-
+| <pre>jp_destroyer_fubuki</pre> || {{Specs-Link|jp_destroyer_fubuki}}
+|-
+| <pre>jp_cruiser_furutaka</pre> || {{Specs-Link|jp_cruiser_furutaka}}
+|-
+| <pre>jp_battleship_fuso</pre> || {{Specs-Link|jp_battleship_fuso}}
+|-
+| <pre>jp_battlecruiser_haruna</pre> || {{Specs-Link|jp_battlecruiser_haruna}}
+|-
+| <pre>jp_destroyer_hatsuharu</pre> || {{Specs-Link|jp_destroyer_hatsuharu}}
+|-
+| <pre>jp_destroyer_hayanami</pre> || {{Specs-Link|jp_destroyer_hayanami}}
+|-
+| <pre>jp_battleship_hyuga</pre> || {{Specs-Link|jp_battleship_hyuga}}
+|-
+| <pre>jp_armoredcruiser_ikoma</pre> || {{Specs-Link|jp_armoredcruiser_ikoma}}
+|-
+| <pre>jp_battleship_ise</pre> || {{Specs-Link|jp_battleship_ise}}
+|-
+| <pre>jp_cruiser_isuzu</pre> || {{Specs-Link|jp_cruiser_isuzu}}
+|-
+| <pre>jp_cruiser_kako</pre> || {{Specs-Link|jp_cruiser_kako}}
+|-
+| <pre>jp_destroyer_kiyoshimo</pre> || {{Specs-Link|jp_destroyer_kiyoshimo}}
+|-
+| <pre>jp_battlecruiser_kongo</pre> || {{Specs-Link|jp_battlecruiser_kongo}}
+|-
+| <pre>jp_cruiser_kuma</pre> || {{Specs-Link|jp_cruiser_kuma}}
+|-
+| <pre>jp_cruiser_mogami_mikuma</pre> || {{Specs-Link|jp_cruiser_mogami_mikuma}}
+|-
+| <pre>jp_cruiser_mogami</pre> || {{Specs-Link|jp_cruiser_mogami}}
+|-
+| <pre>jp_destroyer_mutsuki</pre> || {{Specs-Link|jp_destroyer_mutsuki}}
+|-
+| <pre>jp_cruiser_myoko</pre> || {{Specs-Link|jp_cruiser_myoko}}
+|-
+| <pre>jp_destroyer_nenohi</pre> || {{Specs-Link|jp_destroyer_nenohi}}
+|-
+| <pre>jp_destroyer_satsuki</pre> || {{Specs-Link|jp_destroyer_satsuki}}
+|-
+| <pre>jp_cruiser_sendai</pre> || {{Specs-Link|jp_cruiser_sendai}}
+|-
+| <pre>jp_battleship_settsu</pre> || {{Specs-Link|jp_battleship_settsu}}
+|-
+| <pre>jp_destroyer_shimakaze</pre> || {{Specs-Link|jp_destroyer_shimakaze}}
+|-
+| <pre>jp_cruiser_mogami_suzuya</pre> || {{Specs-Link|jp_cruiser_mogami_suzuya}}
+|-
+| <pre>jp_cruiser_tone</pre> || {{Specs-Link|jp_cruiser_tone}}
+|-
+| <pre>jp_cruiser_yubari</pre> || {{Specs-Link|jp_cruiser_yubari}}
+|-
+| <pre>jp_destroyer_yugumo</pre> || {{Specs-Link|jp_destroyer_yugumo}}
+|-
+| <pre>jp_destroyer_yuudachi</pre> || {{Specs-Link|jp_destroyer_yuudachi}}
+|-
+| <pre>jp_escort_ikazuchi_class</pre> || {{Specs-Link|jp_escort_ikazuchi_class}}
+|-
+| <pre>jp_destroyer_isuzu</pre> || {{Specs-Link|jp_destroyer_isuzu}}
+|-
+| <pre>jp_destroyer_ayanami</pre> || {{Specs-Link|jp_destroyer_ayanami}}
+|-
+| <pre>jp_destroyer_harukaze</pre> || {{Specs-Link|jp_destroyer_harukaze}}
+|-
+| <pre>jp_destroyer_yugure</pre> || {{Specs-Link|jp_destroyer_yugure}}
+|-
+| <pre>jp_pg02</pre> || {{Specs-Link|jp_pg02}}
+|-
+| <pre>jp_type_11_pt_15</pre> || {{Specs-Link|jp_type_11_pt_15}}
+|-
+| <pre>jp_abtei_pr1</pre> || {{Specs-Link|jp_abtei_pr1}}
+|-
+| <pre>jp_abtei_pr4</pre> || {{Specs-Link|jp_abtei_pr4}}
+|-
+| <pre>jp_escort_hiburi_class_syonan</pre> || {{Specs-Link|jp_escort_hiburi_class_syonan}}
+|-
+| <pre>jp_karotei_type4</pre> || {{Specs-Link|jp_karotei_type4}}
+|-
+| <pre>jp_karotei_type2</pre> || {{Specs-Link|jp_karotei_type2}}
+|-
+| <pre>jp_type5_escortboat</pre> || {{Specs-Link|jp_type5_escortboat}}
+|-
+| <pre>jp_no1_ch2</pre> || {{Specs-Link|jp_no1_ch2}}
+|-
+| <pre>jp_no4_ch8</pre> || {{Specs-Link|jp_no4_ch8}}
+|-
+| <pre>jp_kusen_tei_13_1942</pre> || {{Specs-Link|jp_kusen_tei_13_1942}}
+|-
+| <pre>jp_kusen_tei_13_1944</pre> || {{Specs-Link|jp_kusen_tei_13_1944}}
+|-
+| <pre>jp_type_t1_1941</pre> || {{Specs-Link|jp_type_t1_1941}}
+|-
+| <pre>jp_t14_class</pre> || {{Specs-Link|jp_t14_class}}
+|-
+| <pre>jp_t14_class_mod01</pre> || {{Specs-Link|jp_t14_class_mod01}}
+|-
+| <pre>jp_type38_1944</pre> || {{Specs-Link|jp_type38_1944}}
+|-
+| <pre>jp_t51a</pre> || {{Specs-Link|jp_t51a}}
+|-
+| <pre>jp_t51b</pre> || {{Specs-Link|jp_t51b}}
+|}
+
+----
+==== Italy ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>it_albatros_class_f543</pre> || {{Specs-Link|it_albatros_class_f543}}
+|-
+| <pre>it_gabbiano_class_c16</pre> || {{Specs-Link|it_gabbiano_class_c16}}
+|-
+| <pre>it_p493_freccia</pre> || {{Specs-Link|it_p493_freccia}}
+|-
+| <pre>it_destroyer_fletcher_geniere</pre> || {{Specs-Link|it_destroyer_fletcher_geniere}}
+|-
+| <pre>it_a1_vosper</pre> || {{Specs-Link|it_a1_vosper}}
+|-
+| <pre>it_mas_classe500_3</pre> || {{Specs-Link|it_mas_classe500_3}}
+|-
+| <pre>it_mas_classe500_3_1944</pre> || {{Specs-Link|it_mas_classe500_3_1944}}
+|-
+| <pre>it_mas_classe500_4</pre> || {{Specs-Link|it_mas_classe500_4}}
+|-
+| <pre>it_mc490_folgore</pre> || {{Specs-Link|it_mc490_folgore}}
+|-
+| <pre>it_ms15_1a</pre> || {{Specs-Link|it_ms15_1a}}
+|-
+| <pre>it_ms473_2a</pre> || {{Specs-Link|it_ms473_2a}}
+|-
+| <pre>it_ms473_2a_art</pre> || {{Specs-Link|it_ms473_2a_art}}
+|-
+| <pre>it_ms53_2a</pre> || {{Specs-Link|it_ms53_2a}}
+|-
+| <pre>it_ms471_1a</pre> || {{Specs-Link|it_ms471_1a}}
+|-
+| <pre>it_battleship_andrea_doria</pre> || {{Specs-Link|it_battleship_andrea_doria}}
+|-
+| <pre>it_destroyer_vifor_class_aquila</pre> || {{Specs-Link|it_destroyer_vifor_class_aquila}}
+|-
+| <pre>it_destroyer_aquilone</pre> || {{Specs-Link|it_destroyer_aquilone}}
+|-
+| <pre>it_cruiser_capitani_romani_class_attilio_regolo</pre> || {{Specs-Link|it_cruiser_capitani_romani_class_attilio_regolo}}
+|-
+| <pre>it_destroyer_soldati_serie1</pre> || {{Specs-Link|it_destroyer_soldati_serie1}}
+|-
+| <pre>it_cruiser_bartolomeocolleoni_1940</pre> || {{Specs-Link|it_cruiser_bartolomeocolleoni_1940}}
+|-
+| <pre>it_destroyer_comandanti_medaglie_doro</pre> || {{Specs-Link|it_destroyer_comandanti_medaglie_doro}}
+|-
+| <pre>it_destroyer_soldati_serie1_camicianera</pre> || {{Specs-Link|it_destroyer_soldati_serie1_camicianera}}
+|-
+| <pre>it_destroyer_navigatori_class_verazzano</pre> || {{Specs-Link|it_destroyer_navigatori_class_verazzano}}
+|-
+| <pre>it_battleship_dante_alighieri</pre> || {{Specs-Link|it_battleship_dante_alighieri}}
+|-
+| <pre>it_destroyer_dardo</pre> || {{Specs-Link|it_destroyer_dardo}}
+|-
+| <pre>it_cruiser_garibaldi_class_abruzzi</pre> || {{Specs-Link|it_cruiser_garibaldi_class_abruzzi}}
+|-
+| <pre>it_battleship_caio_duilio</pre> || {{Specs-Link|it_battleship_caio_duilio}}
+|-
+| <pre>it_cruiser_etna_class</pre> || {{Specs-Link|it_cruiser_etna_class}}
+|-
+| <pre>it_cruiser_eugenio_di_savoia</pre> || {{Specs-Link|it_cruiser_eugenio_di_savoia}}
+|-
+| <pre>it_gabbiano_class</pre> || {{Specs-Link|it_gabbiano_class}}
+|-
+| <pre>it_destroyer_soldati_serie1_geniere</pre> || {{Specs-Link|it_destroyer_soldati_serie1_geniere}}
+|-
+| <pre>it_destroyer_leone_class</pre> || {{Specs-Link|it_destroyer_leone_class}}
+|-
+| <pre>it_cruiser_zara_class_pola</pre> || {{Specs-Link|it_cruiser_zara_class_pola}}
+|-
+| <pre>it_cruiser_montecuccoli</pre> || {{Specs-Link|it_cruiser_montecuccoli}}
+|-
+| <pre>it_destroyer_leone_class_tigre</pre> || {{Specs-Link|it_destroyer_leone_class_tigre}}
+|-
+| <pre>it_cruiser_trento</pre> || {{Specs-Link|it_cruiser_trento}}
+|-
+| <pre>it_destroyer_turbine</pre> || {{Specs-Link|it_destroyer_turbine}}
+|-
+| <pre>it_cruiser_zara_class</pre> || {{Specs-Link|it_cruiser_zara_class}}
+|-
+| <pre>it_p494_saetta</pre> || {{Specs-Link|it_p494_saetta}}
+|-
+| <pre>it_p420_sparviero</pre> || {{Specs-Link|it_p420_sparviero}}
+|-
+| <pre>it_mas_stefano_turr</pre> || {{Specs-Link|it_mas_stefano_turr}}
+|-
+| <pre>it_vas_baglietto_68t_1serie</pre> || {{Specs-Link|it_vas_baglietto_68t_1serie}}
+|}
+
+----
+==== France ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>fr_destroyer_aigle_class_aigle</pre> || {{Specs-Link|fr_destroyer_aigle_class_aigle}}
+|-
+| <pre>fr_destroyer_bourrasque_class_bourrasque</pre> || {{Specs-Link|fr_destroyer_bourrasque_class_bourrasque}}
+|-
+| <pre>fr_destroyer_jaguar_class_chacal</pre> || {{Specs-Link|fr_destroyer_jaguar_class_chacal}}
+|-
+| <pre>fr_cruiser_suffren_class_colbert</pre> || {{Specs-Link|fr_cruiser_suffren_class_colbert}}
+|-
+| <pre>fr_cruiser_dugauy_class_dugauy_trouin</pre> || {{Specs-Link|fr_cruiser_dugauy_class_dugauy_trouin}}
+|-
+| <pre>fr_cruiser_emile_bertin</pre> || {{Specs-Link|fr_cruiser_emile_bertin}}
+|-
+| <pre>fr_cruiser_jeanne_darc</pre> || {{Specs-Link|fr_cruiser_jeanne_darc}}
+|-
+| <pre>fr_destroyer_le_fantasque_class_le_malin</pre> || {{Specs-Link|fr_destroyer_le_fantasque_class_le_malin}}
+|-
+| <pre>fr_destroyer_jaguar_class_leopard</pre> || {{Specs-Link|fr_destroyer_jaguar_class_leopard}}
+|-
+| <pre>fr_battleship_bretagne_class_lorraine</pre> || {{Specs-Link|fr_battleship_bretagne_class_lorraine}}
+|-
+| <pre>fr_destroyer_marceau_class_marceau</pre> || {{Specs-Link|fr_destroyer_marceau_class_marceau}}
+|-
+| <pre>fr_destroyer_aigle_class_milan</pre> || {{Specs-Link|fr_destroyer_aigle_class_milan}}
+|-
+| <pre>fr_destroyer_jaguar_class_panthere</pre> || {{Specs-Link|fr_destroyer_jaguar_class_panthere}}
+|-
+| <pre>fr_battleship_courbet_class_paris</pre> || {{Specs-Link|fr_battleship_courbet_class_paris}}
+|-
+| <pre>fr_cruiser_dugauy_class_primaguet</pre> || {{Specs-Link|fr_cruiser_dugauy_class_primaguet}}
+|-
+| <pre>fr_destroyer_aigle_class_vautour</pre> || {{Specs-Link|fr_destroyer_aigle_class_vautour}}
+|}
+
+----
+==== Special ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ussr_aircraftcarrier_baku</pre> || Baku
+|-
+| <pre>uk_aircraftcarrier_ark_royal</pre> || HMS Ark Royal
+|-
+| <pre>us_aircraftcarrier_forrestal</pre> || USS Forrestal
+|}
+
+----
+==== Drones ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>ucav_mq_1_predator</pre> || MQ-1
+|-
+| <pre>ucav_orion</pre> || Orion
+|-
+| <pre>ucav_wing_loong_i</pre> || Wing Loong I
+|-
+| <pre>ucav_recon_micro</pre> || Recon Micro
+|-
+| <pre>ucav_recon_micro_flir</pre> || Recon Micro
+|-
+| <pre>ucav_mq_1_predator_usa_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_mq_1_predator_uk_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_mq_1_predator_sweden_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_mq_1_predator_france_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_mq_1_predator_japan_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_mq_1_predator_germany_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_mq_1_predator_iaf_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_mq_1_predator_italy_killstreak</pre> || MQ-1
+|-
+| <pre>ucav_orion_killstreak</pre> || Orion
+|-
+| <pre>ucav_wing_loong_i_killstreak</pre> || Wing Loong I
+|}
+
+----
+==== Nuclear bombers ====
+
+{| class="wikitable sortable mw-collapsible mw-collapsed"
+|-
+! ID !! Name
+|-
+| <pre>il_28_killstreak</pre> || ☢IL-28
+|-
+| <pre>il_28_china_killstreak</pre> || ☢IL-28
+|-
+| <pre>b-29_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>b-29_france_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>b-29_japan_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>b-29_sweden_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>b-29_uk_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>b-29_italy_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>b-29_germany_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>b-29_iaf_killstreak</pre> || ☢B-29A-BN
+|-
+| <pre>su-7bkl_killstreak</pre> || ☢Su-7BKL
+|-
+| <pre>su-7bkl_china_killstreak</pre> || ☢Su-7BKL
+|-
+| <pre>canberra_bimk6_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>canberra_bimk6_france_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>canberra_bimk6_germany_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>canberra_bimk6_italy_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>canberra_bimk6_japan_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>canberra_bimk6_sweden_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>canberra_bimk6_usa_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>canberra_bimk6_iaf_killstreak</pre> || ☢Canberra B Mk 6
+|-
+| <pre>tu_4_killstreak</pre> || ☢Tu-4
+|-
+| <pre>tu_4_china_killstreak</pre> || ☢Tu-4
+|-
+| <pre>jaguar_a_killstreak</pre> || ☢Jaguar A
+|-
+| <pre>jaguar_a_germany_killstreak</pre> || ☢Jaguar A
+|-
+| <pre>jaguar_a_italy_killstreak</pre> || ☢Jaguar A
+|-
+| <pre>jaguar_a_japan_killstreak</pre> || ☢Jaguar A
+|-
+| <pre>jaguar_a_sweden_killstreak</pre> || ☢Jaguar A
+|-
+| <pre>jaguar_a_uk_killstreak</pre> || ☢Jaguar A
+|-
+| <pre>jaguar_a_usa_killstreak</pre> || ☢Jaguar A
+|-
+| <pre>jaguar_a_iaf_killstreak</pre> || ☢Jaguar A
+|}
+
+[[Category:War Thunder CDK]]

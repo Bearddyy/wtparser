@@ -141,24 +141,27 @@ def lookup_nation(vehicleName):
     # nation is the string between the last ==== and the next ====
     startOfNationIndex = lookup.rfind("====", 0, endOfNationIndex-1) + 4
     nation = lookup[startOfNationIndex:endOfNationIndex-1]
-    return nation
+    # if nations is allowed, return the nation
+    if nation not in ['drones', 'Nuclear bombers', 'Special']:
+        return nation
+    return None
 
 
-def get_vehicles(data):
+def get_vehicles(data, numberOfPlayers):
     # search for occurences of the following bytes
     lookup = b'\x90..\x01\x20\x01'
     # find all occurences
-    occurences = [m.start() for m in re.finditer(lookup, data)]
+    occurences = [m.start() for m in re.finditer(lookup, data, re.DOTALL)]
     # player ID is 4 bytes before the occurence
     playerIndex = [int(data[i+PLAYER_ID_OFFSET]) for i in occurences]
-    # for some reason, the player Index is offset by the minumum number in the set
+    # for some reason, the player Index is offset by the number of players
     playerIndex = [i-(min(playerIndex)) for i in playerIndex]
 
     vehicleNameLengths = [int(data[i+VEHICLE_NAME_LENGTH]) for i in occurences]
     vehicleNames = [data[i+VEHICLE_NAME_START:i+VEHICLE_NAME_START+length].decode("utf-8") for i,length in zip(occurences, vehicleNameLengths)]
     # print ID and vehicle name
-    #for ID, name in zip(playerIDs, vehicleNames):
-    #    print(f"{ID}\t{name}")
+    for ID, name in zip(playerIndex, vehicleNames):
+        print(f"{ID}\t{name}")
     
     # create a dict of player IDs and vehicle names
     playerVehicles = dict()
@@ -168,9 +171,15 @@ def get_vehicles(data):
         else:
             playerVehicles[index].add(vehicleName)
     return playerVehicles
+
+def get_a_winning_player(data):
+    # look for 'hidden_win_streak' in the data
+    winningPlayer = data.find(b'hidden_win_streak')
+    # the winning player is 5 bytes before the string
+    winningPlayer = data[winningPlayer-5]
+    return winningPlayer
     
 def parse_replay_data(data):
-        
     # Find the start of the table
     startOfResultsTable = data.find(bytes(START_OF_TABLE))
     startOfResultsTable += len(START_OF_TABLE)
@@ -192,12 +201,24 @@ def parse_replay_data(data):
 
     players = get_scores(scoresTable, players)
 
-    # initialise vehicles
+    
+    # get a winning player
+    winningPlayer = get_a_winning_player(data)
+    for ID, player in players.items():
+        if player["index"] == winningPlayer:
+            winningTeam = player["team"]
+            break
+    
+    # initialise vehicles and winning team
     for player in players.values():
         player["vehicles"] = []
+        if player["team"] == winningTeam:
+            player["win"] = True
+        else:
+            player["win"] = False
 
     # parse vehicles
-    vehiclesList = get_vehicles(data)
+    vehiclesList = get_vehicles(data, len(players))
     for index, vehicles in vehiclesList.items():
         for ID, player in players.items():
             if player["index"] == index:
@@ -212,6 +233,8 @@ def parse_replay_data(data):
                     break
                 else:
                     players[ID]["nation"] = None
+
+
     
     return players
 
@@ -221,7 +244,6 @@ def main():
     
     # expect a path to a folder, read all files in the folder and concat them
     
-    start = timeStart()
     if os.path.isdir(file):
         data = b''
         for f in os.listdir(file):
@@ -234,7 +256,6 @@ def main():
     else:
         with open(file, "rb") as replay:
             data = replay.read()
-    timeEnd(start)
     
     start = timeStart()
     players = parse_replay_data(data)
@@ -243,6 +264,8 @@ def main():
 
     for player in players.values():
         print(player["index"], end="\t")
+        print(player["team"], end="\t")
+        print(player["win"], end="\t")
         try:
             print(player["nation"], end="\t")
         except:
